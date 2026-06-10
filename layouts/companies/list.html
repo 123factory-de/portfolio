@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <header>
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{ with .Content }}
+    <section class="mt-4 prose max-w-full dark:prose-invert">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  {{ $pages := .Pages.ByTitle }}
+  {{ if gt (len $pages) 0 }}
+    {{ partial "company-filter-list.html" (dict "context" . "pages" $pages "showCount" true) }}
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t"><em>No company profiles yet.</em></p>
+    </section>
+  {{ end }}
+{{ end }}

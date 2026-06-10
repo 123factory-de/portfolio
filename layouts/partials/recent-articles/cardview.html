@@ -1,0 +1,3 @@
+{{ $recentArticles := .Site.Params.homepage.showRecentItems | default 5 }}
+{{ $pages := first $recentArticles (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
+{{ partial "company-filter-list.html" (dict "context" . "pages" $pages "showCount" false) }}

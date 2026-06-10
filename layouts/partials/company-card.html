@@ -1,0 +1,51 @@
+{{ $page := . }}
+{{ $industries := $page.Params.industries | default (slice) }}
+{{ $website := $page.Params.website | default "" }}
+{{ $logo := $page.Params.logo | default "" }}
+{{ $logoURL := "" }}
+{{ if $logo }}
+  {{ if hasPrefix $logo "/" }}
+    {{ $logoURL = $logo }}
+  {{ else }}
+    {{ with $page.Resources.GetMatch $logo }}
+      {{ $logoURL = .RelPermalink }}
+    {{ else }}
+      {{ $logoURL = $logo }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<article class="company-card" data-company-industries="{{ delimit $industries "||" }}">
+  <a class="company-card-logo" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }} {{ i18n "company_profile_label" }}">
+    {{ with $logoURL }}
+      <img src="{{ . }}" alt="{{ $page.Title }} logo" loading="lazy" decoding="async">
+    {{ else }}
+      <span>{{ $page.Title }}</span>
+    {{ end }}
+  </a>
+
+  <div class="company-card-body">
+    {{ with $industries }}
+      <div class="company-card-industries" aria-label="{{ i18n "company_industries_label" }}">
+        {{ range . }}
+          <button class="company-industry" type="button" data-filter-industry="{{ . }}">{{ . }}</button>
+        {{ end }}
+      </div>
+    {{ end }}
+
+    <a class="company-card-title" href="{{ $page.RelPermalink }}">{{ $page.Title | emojify }}</a>
+
+    {{ with $page.Description }}
+      <p class="company-card-summary">{{ . }}</p>
+    {{ else }}
+      <p class="company-card-summary">{{ $page.Summary | plainify }}</p>
+    {{ end }}
+  </div>
+
+  <div class="company-card-actions">
+    <a class="company-card-link" href="{{ $page.RelPermalink }}">{{ i18n "company_view_profile" }}</a>
+    {{ with $website }}
+      <a class="company-card-source" href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ i18n "company_website" }}</a>
+    {{ end }}
+  </div>
+</article>

@@ -1,14 +1,8 @@
 ---
-title: "Portfolio"
-description: "Hugo + Blowfish starter for a personal portfolio."
+title: "123 Factory's Portfolio"
+description: "Company portfolio and technology profiles connected to 123factory."
 ---
 
-This site is now running on Hugo with the Blowfish theme.
+Company portfolio for startups and technology companies 123factory is tracking, supporting, or exploring for future collaboration and investment.
 
-Start by editing:
-
-- `config/_default/languages.en.toml` for profile and author info
-- `config/_default/params.toml` for homepage layout and theme options
-- `content/posts/` for articles or project notes
-
-Use `hugo server -D` for local development.
+The profiles summarize what each company does, why the technology matters, and where there may be strategic fit.
