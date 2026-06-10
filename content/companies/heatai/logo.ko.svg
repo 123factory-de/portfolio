@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">히트에이아이 로고</title>
+  <rect width="600" height="320" rx="28" fill="#111827"/>
+  <path d="M180 220c0-34 36-51 36-88 0-28-18-44-18-44s70 36 52 100c24-14 37-38 38-64 0 0 42 43 42 92 0 58-43 92-90 92-36 0-60-23-60-88z" fill="#f97316"/>
+  <text x="315" y="182" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" fill="#f9fafb">히트에이아이</text>
+</svg>

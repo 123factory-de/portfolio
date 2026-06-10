@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">르소 로고</title>
+  <rect width="600" height="320" rx="28" fill="#111827"/>
+  <path d="M190 220c110 0 170-72 210-152 24 116-38 184-124 184-44 0-76-12-86-32z" fill="#86efac"/>
+  <text x="245" y="276" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#f9fafb">르소</text>
+</svg>

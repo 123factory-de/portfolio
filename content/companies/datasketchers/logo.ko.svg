@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">데이터스케쳐스 로고</title>
+  <rect width="600" height="320" rx="28" fill="#111827"/>
+  <path d="M140 210l72-92 68 58 78-92 102 126" fill="none" stroke="#38bdf8" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="145" y="276" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f9fafb">데이터스케쳐스</text>
+</svg>

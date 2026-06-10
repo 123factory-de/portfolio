@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">위시빌더 로고</title>
+  <rect width="600" height="320" rx="28" fill="#111827"/>
+  <path d="M150 85h300l-38 150H188z" fill="#0ea5e9"/>
+  <path d="M192 140h216l-18 72H210z" fill="#f9fafb"/>
+  <text x="200" y="276" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f9fafb">위시빌더</text>
+</svg>

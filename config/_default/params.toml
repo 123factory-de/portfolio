@@ -28,7 +28,7 @@ fingerprintAlgorithm = "sha512"
 [homepage]
   layout = "profile"
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 12
   showMoreLink = true
   showMoreLinkDest = "/companies/"
   cardView = true

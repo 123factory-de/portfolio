@@ -65,6 +65,7 @@ For Korean pages, localize `description` and set `logo` to the Korean asset file
 Rules:
 - Keep `website` if available.
 - Add `founded`, `ceo`, and `headquarters` when they are available from public source material. Do not guess these values.
+- Keep `founded` concise and consistent for the portfolio facts block. Prefer the year only, such as `"2024"`. Use year and month only when the month is important for context. Do not include the exact day unless the user explicitly asks for legal-level detail.
 - Do not include personal phone numbers, emails, or private contact details.
 - Do not add `company` as a tag.
 - Keep `industries` broad and filter-friendly, such as `AI`, `Bio`, `Battery`, `Materials`, `Manufacturing`, `Mobility`, `Energy`, `Healthcare`, `Robotics`, `Semiconductor`, `Sustainability`.

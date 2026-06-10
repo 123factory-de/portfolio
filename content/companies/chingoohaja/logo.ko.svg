@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
+  <title id="title">친구하자 로고</title>
+  <rect width="600" height="320" rx="28" fill="#111827"/>
+  <path d="M168 112h112a56 56 0 0 1 0 112h-40l-52 38v-38h-20a56 56 0 0 1 0-112z" fill="#38bdf8"/>
+  <circle cx="206" cy="168" r="9" fill="#111827"/>
+  <circle cx="248" cy="168" r="9" fill="#111827"/>
+  <text x="332" y="188" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" fill="#f9fafb">친구하자</text>
+</svg>
