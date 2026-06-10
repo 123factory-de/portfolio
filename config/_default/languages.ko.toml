@@ -9,7 +9,7 @@ title = "123 Factory 포트폴리오"
   isoCode = "ko"
   rtl = false
   dateFormat = "2006년 1월 2일"
-  description = "123 Factory가 검토, 지원 또는 협업 가능성을 살펴보는 스타트업과 기술 기업 포트폴리오입니다."
+  description = "123 Factory가 한국과 유럽에서 주목하는 스타트업과 기술 기업을 정리한 포트폴리오입니다."
 
 [params.author]
   name = "123 Factory"
