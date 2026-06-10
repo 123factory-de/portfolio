@@ -9,7 +9,7 @@ website: "https://faddit.co.kr/"
 founded: "2025"
 ceo: "최성락"
 headquarters: "한국"
-logo: "logo.ko.svg"
+logo: "logo.svg"
 ---
 
 ## 회사 개요

@@ -113,8 +113,8 @@
 
   .company-card-logo {
     align-items: center;
-    background: #161616;
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: #4c9b87;
+    border: 1px solid rgba(63, 137, 119, 0.72);
     border-radius: 0.45rem;
     display: flex;
     height: 6.25rem;
@@ -125,6 +125,11 @@
     text-decoration: none;
   }
 
+  .company-card-logo.has-logo {
+    background: #4c9b87;
+    border-color: rgba(63, 137, 119, 0.72);
+  }
+
   .company-card-logo img {
     display: block;
     max-height: 3.8rem;
@@ -133,7 +138,7 @@
   }
 
   .company-card-logo span {
-    color: #f5f5f5;
+    color: #101010;
     font-size: 1.2rem;
     font-weight: 850;
     line-height: 1.1;
@@ -144,6 +149,17 @@
     background: rgba(28, 28, 28, 0.88);
     border-color: rgba(212, 212, 212, 0.16);
     box-shadow: 0 16px 34px rgba(0, 0, 0, 0.32);
+  }
+
+  .dark .company-card-logo.has-logo {
+    background: #4c9b87;
+    border-color: rgba(105, 183, 162, 0.34);
+    box-shadow: inset 0 0 0 1px rgba(22, 22, 22, 0.08);
+  }
+
+  .dark .company-card-logo {
+    border-color: rgba(105, 183, 162, 0.34);
+    box-shadow: inset 0 0 0 1px rgba(22, 22, 22, 0.08);
   }
 
   .company-card:hover {

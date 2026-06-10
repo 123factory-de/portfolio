@@ -9,7 +9,7 @@ website: "https://www.heatai.co.kr/"
 founded: ""
 ceo: "이준윤"
 headquarters: "서울, 한국"
-logo: "logo.ko.svg"
+logo: "logo.svg"
 ---
 
 ## 회사 개요

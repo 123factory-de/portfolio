@@ -9,7 +9,7 @@ website: ""
 founded: ""
 ceo: "Yoanna Lee"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: ""
 ---
 
 ## Company Overview

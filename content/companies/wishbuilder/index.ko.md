@@ -8,7 +8,7 @@ tags: ["water treatment", "biomass fuel", "circular resources", "carbon reductio
 website: "https://wishbuilder.co.kr/"
 ceo: "김효진"
 headquarters: "서울"
-logo: "logo.ko.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

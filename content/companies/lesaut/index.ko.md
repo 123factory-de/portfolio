@@ -9,7 +9,7 @@ website: "https://www.le-saut.com/44"
 founded: ""
 ceo: "정지윤"
 headquarters: "한국"
-logo: "logo.ko.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

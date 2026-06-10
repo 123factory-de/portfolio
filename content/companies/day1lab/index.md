@@ -4,9 +4,9 @@ date: 2026-06-10
 draft: false
 description: "Alternative plastic materials company developing seaweed-derived biodegradable and microplastic-free materials."
 industries: ["Bio", "Materials"]
-tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator"]
+tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
 website: "https://day1-lab.com/en/"
-founded: "May 2021"
+founded: "2021"
 ceo: "Jubong Lee"
 headquarters: "Gwanak-gu, Seoul, Korea"
 logo: "logo.png"

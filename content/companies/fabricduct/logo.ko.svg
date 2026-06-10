@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
-  <title id="title">패브릭덕트 로고</title>
-  <rect width="600" height="320" rx="28" fill="#111827"/>
-  <path d="M120 110h360v38H120zM120 184h250v38H120z" fill="#e5e7eb"/>
-  <circle cx="440" cy="203" r="19" fill="#22c55e"/>
-  <text x="120" y="268" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#f9fafb">패브릭덕트</text>
-</svg>

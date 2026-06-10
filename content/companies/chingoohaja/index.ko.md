@@ -9,7 +9,7 @@ website: "https://www.chingoohaja.com/"
 founded: ""
 ceo: "조성우"
 headquarters: "서울, 한국"
-logo: "logo.ko.svg"
+logo: "logo.svg"
 ---
 
 ## 회사 개요

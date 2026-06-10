@@ -9,7 +9,7 @@ website: "https://www.le-saut.com/44"
 founded: ""
 ceo: "Jiyoon Jung"
 headquarters: "Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

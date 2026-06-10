@@ -16,7 +16,7 @@
 {{ end }}
 
 <article class="company-card" data-company-industries="{{ delimit $industries "||" }}">
-  <a class="company-card-logo" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }} {{ i18n "company_profile_label" }}">
+  <a class="company-card-logo{{ if $logoURL }} has-logo{{ end }}" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }} {{ i18n "company_profile_label" }}">
     {{ with $logoURL }}
       <img src="{{ . }}" alt="{{ $page.Title }} logo" loading="lazy" decoding="async">
     {{ else }}

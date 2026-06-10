@@ -9,7 +9,7 @@ website: ""
 founded: ""
 ceo: "이요안나"
 headquarters: "서울, 한국"
-logo: "logo.ko.svg"
+logo: ""
 ---
 
 ## 회사 개요

@@ -9,7 +9,7 @@ website: "https://www.trobai.com/"
 founded: "2026"
 ceo: "조혜리"
 headquarters: "서울, 한국"
-logo: "logo.ko.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

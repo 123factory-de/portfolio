@@ -9,7 +9,7 @@ website: "https://data-sketchers.com/"
 founded: "2025"
 ceo: "최신범"
 headquarters: "서울, 한국"
-logo: "logo.ko.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

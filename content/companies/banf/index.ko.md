@@ -9,7 +9,7 @@ website: "https://banf.ai/en"
 founded: "2020년 12월 18일"
 ceo: "유성한"
 headquarters: "서울 강남구"
-logo: "logo.ko.svg"
+logo: "logo.svg"
 ---
 
 ## 회사 개요

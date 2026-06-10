@@ -9,7 +9,7 @@ title = "123 Factory's Portfolio"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Company portfolio and technology profiles connected to 123factory."
+  description = "A portfolio of startups and technology companies 123 Factory is watching closely."
 
 [params.author]
   name = "123 Factory"

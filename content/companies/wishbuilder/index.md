@@ -8,7 +8,7 @@ tags: ["water treatment", "biomass fuel", "circular resources", "carbon reductio
 website: "https://wishbuilder.co.kr/"
 ceo: "Hyojin Kim"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

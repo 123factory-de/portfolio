@@ -35,7 +35,6 @@ content/companies/{slug}/
   index.md
   index.ko.md
   logo.{ext}
-  logo.ko.{ext}
 ```
 
 Use lowercase kebab-case for `{slug}`. Keep existing company URLs stable by matching the slug to the intended permalink.
@@ -60,7 +59,7 @@ logo: "logo.svg"
 ---
 ```
 
-For Korean pages, localize `description` and set `logo` to the Korean asset filename, for example `logo.ko.svg`.
+For Korean pages, localize `description` and use the same `logo` filename unless there is a real Korean-specific logo asset.
 
 Rules:
 - Keep `website` if available.
@@ -145,11 +144,12 @@ Korean localization:
 
 Store company logos inside the company bundle, not under `static/logos`.
 
+Do not create fake, placeholder, or AI-made logo files. Only add a logo asset when it is the company's official logo or a faithful copy from an official/public source. Prefer a full official wordmark or logo from the company website. If no full logo is available, an official favicon, app icon, or apple-touch-icon from the company's own domain can be used as the card logo. If no official logo or official favicon asset is available, leave `logo: ""` in front matter. The company card will show the company name as a text fallback.
+
 Preferred filenames:
 - English/default logo: `logo.svg`, `logo.png`, or `logo.jpg`
-- Korean logo variant: `logo.ko.svg`, `logo.ko.png`, or `logo.ko.jpg`
 
-If no Korean-specific logo exists, copy the same logo into the `logo.ko.*` file so the Korean page can later be updated independently.
+Use one shared logo file across languages when the logo image is identical. Only add a Korean logo variant such as `logo.ko.svg`, `logo.ko.png`, or `logo.ko.jpg` when the company has a real Korean-specific official logo.
 
 ## Workflow
 
@@ -171,4 +171,4 @@ rg -n "Key Signals|핵심 신호|Strategic Highlights|검토 포인트|Fit With 
 hugo --gc --minify --cacheDir /private/tmp/hugo_cache_portfolio
 ```
 
-9. Confirm generated card assets point to page-bundle URLs such as `/companies/{slug}/logo.svg` and `/ko/companies/{slug}/logo.ko.svg`.
+9. Confirm generated card assets point to page-bundle URLs such as `/companies/{slug}/logo.svg` and `/ko/companies/{slug}/logo.svg` when the same logo is shared across languages.

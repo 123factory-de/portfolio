@@ -9,7 +9,7 @@ website: "https://www.fustlab.com"
 founded: "2022년 5월 30일"
 ceo: "황보민성"
 headquarters: "서울 마포구 / 대전 유성구"
-logo: "logo.ko.png"
+logo: "logo.png"
 ---
 
 ## 회사 개요

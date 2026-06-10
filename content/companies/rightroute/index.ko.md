@@ -9,7 +9,7 @@ website: "http://rightroute.co.kr"
 founded: "2016년"
 ceo: "신부선"
 headquarters: "서울"
-logo: "logo.ko.svg"
+logo: ""
 ---
 
 ## 회사 개요

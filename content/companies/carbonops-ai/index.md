@@ -9,7 +9,7 @@ website: "https://www.trobai.com/"
 founded: "2026"
 ceo: "Hye-ri Cho"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

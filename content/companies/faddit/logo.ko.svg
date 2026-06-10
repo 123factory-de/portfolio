@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-labelledby="title">
-  <title id="title">패딧 로고</title>
-  <rect width="600" height="320" rx="28" fill="#111827"/>
-  <path d="M172 92h236v44H172zM172 164h168v44H172zM172 236h100v44H172z" fill="#f472b6"/>
-  <text x="355" y="224" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" fill="#f9fafb">패딧</text>
-</svg>

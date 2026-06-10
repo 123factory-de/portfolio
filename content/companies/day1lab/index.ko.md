@@ -4,12 +4,12 @@ date: 2026-06-10
 draft: false
 description: "해조류 유래 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."
 industries: ["Bio", "Materials"]
-tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator"]
+tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
 website: "https://day1-lab.com/en/"
-founded: "2021년 5월"
+founded: "2021"
 ceo: "이주봉"
 headquarters: "서울 관악구"
-logo: "logo.ko.png"
+logo: "logo.png"
 ---
 
 ## 회사 개요

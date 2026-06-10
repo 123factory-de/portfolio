@@ -8,7 +8,7 @@ tags: ["mobility design", "product design", "service design", "design strategy",
 website: "https://www.kliodesign.com/"
 founded: "2014년"
 headquarters: "서울"
-logo: "logo.ko.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

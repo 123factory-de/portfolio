@@ -9,7 +9,7 @@ website: "https://data-sketchers.com/"
 founded: "2025"
 ceo: "Shinbum Choi"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

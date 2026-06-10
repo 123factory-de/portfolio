@@ -9,7 +9,7 @@ website: "https://www.fabricduct.kr/"
 founded: "2024"
 ceo: "Sewon Kim"
 headquarters: "Seoul / Busan, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

@@ -9,7 +9,7 @@ website: "http://rightroute.co.kr"
 founded: "2016"
 ceo: "Buseon Shin"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: ""
 ---
 
 ## Company Overview
