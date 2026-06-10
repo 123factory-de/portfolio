@@ -4,32 +4,45 @@ date: 2026-06-10
 draft: false
 description: "Intelligent tire system company combining tire-mounted sensors, wireless power, and fleet data analytics."
 industries: ["Mobility", "AI"]
-tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety"]
+tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
 website: "https://banf.ai/en"
+founded: "December 18, 2020"
+ceo: "Seonghan Yoo"
+headquarters: "Gangnam-gu, Seoul, Korea"
 logo: "logo.svg"
 ---
 
 ## Company Overview
 
-BANF develops an Intelligent Tire System for commercial vehicles, fleets, EVs, and autonomous driving environments. The company addresses tire-related safety, maintenance, and environmental issues by measuring tire and road conditions in real time.
+BANF builds intelligent tire and road data systems for commercial vehicles, fleets, EVs, and autonomous driving. Its system turns tires into real-time sensors for tire condition, vehicle safety, and road surface data.
 
-Its system combines tire-mounted sensing, wireless power transmission, and data analytics for proactive tire management.
+The product goes beyond standard tire pressure monitoring. BANF combines tire sensors, wireless power, and analytics software. Fleets, OEMs, tire companies, and road operators can use the data for safety, uptime, maintenance, fuel efficiency, and road insight.
 
 ## Technology & Product
 
-BANF's Intelligent Tire System combines two core components:
+BANF's Tire Profile System has three main parts:
 
-- **iSensor**: a tire-mounted sensor that captures tire pressure, temperature, acceleration, and related tire behavior data.
-- **Smart Profiler**: a wireless power transmitter designed to supply energy to sensors inside fast-rotating tires.
+- **iSensor**: a tire-mounted sensor with 3-axis acceleration sensing, TPMS, and low-power Bluetooth.
+- **Smart Profiler**: a data hub and wireless power source for sensors inside fast-rotating tires.
+- **Data Viewer**: an interface for reviewing tire and road data.
 
-The platform is designed to detect and analyze tire pressure, tire temperature, wheel alignment, road surface, load, tread condition, and loosening lug nuts. BANF positions the system as a next-generation alternative to standard TPMS by increasing update frequency, improving pressure-change sensitivity, reducing response time, and adding broader tire and road intelligence.
+The [platform](https://banf.ai/en) measures tire pressure, temperature, tread condition, wheel alignment, tire load, road surface condition, and lug nut loosening. It offers faster updates and a wider data set than standard TPMS.
 
-The business model includes SaaS for fleets and trucks, with data analytics opportunities for road operators, OEMs, and other third parties.
+## Market & Use Cases
 
-## Strategic Highlights
+BANF is relevant to OEMs, fleet operators, logistics companies, tire companies, intelligent transport systems, and road operators. For these customers, tire condition affects safety, cost, uptime, energy use, and road management.
 
-- BANF reports partnerships across vehicle manufacturers, tire companies, and fleet operators.
-- Notable references include Nira Dynamics, Hyundai Motor Group, Volvo Group Camp X, DHL, the U.S. Army, SAE International, CES Innovation Award, and TechCrunch Disrupt.
-- The company positions its system for emerging EV and autonomous vehicle duty cycles, where vehicle weight, torque, and 24/7 operation increase tire stress.
-- BANF connects tire intelligence with safety prevention, environmental impact reduction, and fleet operating cost savings.
-- Traction materials indicate pre-production status and revenue growth through 2025.
+Key use cases include tire tread monitoring, overload detection, wheel alignment checks, lug nut alerts, road surface data, and predictive maintenance for heavy-duty vehicles. The business model includes SaaS for fleets and trucks. Road operators and OEMs can also use the data analytics layer.
+
+## Traction & References
+
+- BANF raised a KRW 4.5 billion Series A round in 2022([Unicorn Factory](https://www.unicornfactory.co.kr/article/2022092614025290054)).
+- Key partners and customers include vehicle makers, tire companies, fleet operators, Nira Dynamics, Hyundai Motor Group, Volvo Group Camp X, DHL, the U.S. Army, and SAE International.
+- Awards and selections include CES 2024 Vehicle Tech & Advanced Mobility Innovation Award, 2023 K-Digital Grand Championship Grand Prize, 2023 IRF Global Road Achievement Awards, TechCrunch Battlefield Top 20, DHL Fastforward Challenge Global Top 3, SAE International GAMIC Top 10, [Global ICT Future Unicorn](https://m.mt.co.kr/renew/view.html?no=2024052317432761829), and [Forbes Asia 100 To Watch](https://platum.kr/archives/269397).
+- BANF has pre-production progress and revenue growth through 2025.
+
+## Collaboration Relevance
+
+- Fleet operators, logistics companies, and commercial vehicle platforms can run PoCs around tire safety, uptime, overload prevention, and predictive maintenance.
+- OEMs, tire companies, EV developers, and autonomous vehicle teams can use BANF where vehicle weight, torque, and long operating hours increase tire stress.
+- Road operators and data partners can use tire data for road condition monitoring and infrastructure analytics.

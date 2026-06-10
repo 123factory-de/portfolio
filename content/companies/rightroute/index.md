@@ -4,34 +4,48 @@ date: 2026-06-10
 draft: false
 description: "Recycling technology company turning EV battery separator waste into high-value TEXNIC fabrics and yarns."
 industries: ["Battery", "Materials"]
-tags: ["battery recycling", "textiles", "sustainable materials", "circular economy"]
-website: ""
+tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
+website: "http://rightroute.co.kr"
+founded: "2016"
+ceo: "Buseon Shin"
+headquarters: "Seoul, Korea"
 logo: "logo.svg"
 ---
 
 ## Company Overview
 
-RightRoute Inc. is a technology-based recycling company developing waste materials into high-value products. Its TEXNIC® material platform focuses on recycling secondary battery separator waste into premium textile materials for fashion, interior, and automotive applications.
+RightRoute turns waste materials into higher-value products. Its TEXNIC platform upcycles EV and secondary battery separator waste into textile materials for fashion, interior, and automotive uses.
 
-The company positions TEXNIC as a high-end recycled material that goes beyond basic waste processing: it preserves useful structural properties from battery separator membranes and turns them into functional fabrics and yarns.
+TEXNIC is a premium recycled material. It uses useful features of battery separator membranes and turns them into functional fabrics and yarns.
 
 ## Technology & Product
 
-RightRoute works with lithium-ion battery separator waste, including LiBS and ceramic coated separators. These materials are difficult to recycle because UHMWPE has a very high molecular weight, high viscosity, and challenging molding characteristics. As a result, much of this material is typically downcycled, incinerated, or landfilled.
+[RightRoute](http://rightroute.co.kr) works with lithium-ion battery separator waste, including LiBS and ceramic coated separators. These materials are hard to recycle because UHMWPE has very high molecular weight, high viscosity, and difficult molding properties. Much of this waste is usually downcycled, incinerated, or landfilled.
 
 RightRoute's proprietary processes convert this waste into:
 
-- **TEXNIC laminated fabric** using lamination, surface processing, and low-temperature bonding technology.
-- **TEXNIC yarn** using separator slitting and winding technology.
+- **[TEXNIC laminated fabric](https://texnic.kr)** made with lamination, surface processing, and low-temperature bonding.
+- **TEXNIC yarn** made with separator slitting and winding technology.
 - Functional material lines such as TEXNIC Shell, Pack, Grit, and Nuvo.
 
-The resulting materials target properties such as moisture permeability, waterproofing, low density, high tensile strength, durability, and high-end material storytelling.
+## Market & Use Cases
 
-## Strategic Highlights
+TEXNIC targets premium recycled textile uses in fashion, interior, and automotive markets.
 
+The material offers moisture permeability, waterproofing, low density, high tensile strength, and durability. It also gives brands a clear recycled-material story.
+
+## Traction & References
+
+- RightRoute has Pre-A investment and impact investor participation([The VC](https://thevc.kr/rightroute)).
 - TEXNIC launched as a premium recycled material in 2023.
-- Fabric commercialization is complete, with production and delivery underway for multiple companies.
+- Fabric commercialization is complete, with production and delivery for multiple companies.
 - Samsung C&T Beanpole launched a 2023 F/W golf line using the material and placed repeat orders.
 - RightRoute has worked on supply or collection relationships with companies including SK IE Technology, W-Scope Korea, UPEX, Hanwha Solutions, SSLM, and LG Chem.
 - Awards and certifications include CES 2022 Wearable Technology Innovation Award, Hyundai Motor Company H-OnDream Startup Ground Excellent Fellow Award, Global Recycle Standard, LCA verification, OEKO-TEX Standard 100, and ISO 9001/14001.
-- Future plans include TEXNIC yarn commercialization, automotive seat industry entry, European factory setup, and a stated carbon-emission reduction goal tied to 2030 production volume.
+- Future plans include TEXNIC yarn commercialization, automotive seat market entry, a European factory, and a carbon reduction goal tied to 2030 production volume.
+
+## Collaboration Relevance
+
+- Battery separator makers and recycling partners can use TEXNIC as a higher-value route for separator waste.
+- Fashion, interior, and automotive brands can test TEXNIC for premium recycled material lines.
+- European partners can work with RightRoute on circular materials, automotive interiors, and sustainability-led product development.
