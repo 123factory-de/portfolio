@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://123factory-de.github.io/"
+baseURL = "https://portfolio.123factory.de/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
