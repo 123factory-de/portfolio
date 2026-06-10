@@ -1,0 +1,98 @@
+{{ $facts := slice }}
+{{ with .Params.founded }}
+  {{ $facts = $facts | append (dict "label" (i18n "company_fact_founded") "value" .) }}
+{{ end }}
+{{ with .Params.ceo }}
+  {{ $facts = $facts | append (dict "label" (i18n "company_fact_ceo") "value" .) }}
+{{ end }}
+{{ with .Params.headquarters }}
+  {{ $facts = $facts | append (dict "label" (i18n "company_fact_headquarters") "value" .) }}
+{{ end }}
+{{ with .Params.website }}
+  {{ $facts = $facts | append (dict "label" (i18n "company_fact_website") "value" . "url" .) }}
+{{ end }}
+
+{{ if gt (len $facts) 0 }}
+  <style>
+    .company-facts {
+      border: 1px solid rgba(115, 115, 115, 0.24);
+      border-radius: 0.5rem;
+      display: grid;
+      gap: 0;
+      margin: 1.25rem 0 1.75rem;
+      max-width: 42rem;
+      overflow: hidden;
+    }
+
+    .company-fact {
+      align-items: baseline;
+      border-top: 1px solid rgba(115, 115, 115, 0.18);
+      display: grid;
+      gap: 0.5rem;
+      grid-template-columns: minmax(7rem, 0.34fr) 1fr;
+      padding: 0.72rem 0.9rem;
+    }
+
+    .company-fact:first-child {
+      border-top: 0;
+    }
+
+    .company-fact-label {
+      color: #737373;
+      font-size: 0.82rem;
+      font-weight: 800;
+    }
+
+    .company-fact-value {
+      color: #262626;
+      font-size: 0.95rem;
+      font-weight: 650;
+      overflow-wrap: anywhere;
+    }
+
+    .company-fact-value a {
+      color: #2f7f6d;
+      text-decoration: none;
+    }
+
+    .company-fact-value a:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.18rem;
+    }
+
+    .dark .company-facts {
+      border-color: rgba(212, 212, 212, 0.18);
+    }
+
+    .dark .company-fact {
+      border-top-color: rgba(212, 212, 212, 0.14);
+    }
+
+    .dark .company-fact-label {
+      color: #a3a3a3;
+    }
+
+    .dark .company-fact-value {
+      color: #e5e5e5;
+    }
+
+    .dark .company-fact-value a {
+      color: #8bd2be;
+    }
+  </style>
+
+  <dl class="company-facts">
+    {{ range $facts }}
+      <div class="company-fact">
+        <dt class="company-fact-label">{{ .label }}</dt>
+        <dd class="company-fact-value">
+          {{ with .url }}
+            <a href="{{ . }}" target="_blank" rel="noopener noreferrer">{{ . }}</a>
+          {{ else }}
+            {{ .value }}
+          {{ end }}
+        </dd>
+      </div>
+    {{ end }}
+  </dl>
+{{ end }}
