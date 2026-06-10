@@ -2,19 +2,17 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Portfolio"
+title = "123 Factory's Portfolio"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Portfolio site built with Hugo and Blowfish."
+  description = "Company portfolio and technology profiles connected to 123factory."
 
 [params.author]
-  name = "123factory"
-  headline = "Building products, systems, and experiments."
-  bio = "Personal portfolio powered by Hugo and Blowfish."
-  links = [
-    { github = "https://github.com/123factory-de" },
-  ]
+  name = "123 Factory"
+  headline = "Fueling bold ideas across Korea and Europe."
+  bio = "123 Factory works with startups, technology companies, corporates, and ecosystem builders across Korea and Europe."
+  links = []

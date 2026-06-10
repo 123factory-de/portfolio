@@ -1,0 +1,13 @@
+shortcode:
+  recent_articles: "기업 포트폴리오"
+recent:
+  show_more: "전체 기업 보기"
+company_count_all: "{{ .total }}개 회사"
+company_filter_by_industry: "산업군 필터"
+company_filter_all: "전체"
+company_profiles_aria: "기업 프로필"
+company_empty_for_industry: "선택한 산업군에 해당하는 기업이 없습니다."
+company_profile_label: "프로필"
+company_industries_label: "산업군"
+company_view_profile: "프로필 보기"
+company_website: "웹사이트"

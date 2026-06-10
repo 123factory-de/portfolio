@@ -1,0 +1,13 @@
+shortcode:
+  recent_articles: "Company Portfolio"
+recent:
+  show_more: "View all companies"
+company_count_all: "{{ .total }} companies"
+company_filter_by_industry: "Filter by industry"
+company_filter_all: "All"
+company_profiles_aria: "Company profiles"
+company_empty_for_industry: "No companies match the selected industry."
+company_profile_label: "profile"
+company_industries_label: "Industries"
+company_view_profile: "View profile"
+company_website: "Website"
