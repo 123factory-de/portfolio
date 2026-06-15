@@ -2,6 +2,8 @@ theme = "blowfish"
 baseURL = "https://portfolio.123factory.de/"
 defaultContentLanguage = "en"
 
+googleAnalytics = "G-R9JH015SC0"
+
 enableRobotsTXT = true
 summaryLength = 0
 
