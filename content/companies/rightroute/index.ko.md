@@ -5,7 +5,7 @@ draft: false
 description: "EV 배터리 분리막 폐기물을 고부가 TEXNIC 원단과 원사로 전환합니다."
 industries: ["Battery", "Materials"]
 tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
-website: "http://rightroute.co.kr"
+website: "https://texnic.kr"
 founded: "2016년"
 ceo: "신부선"
 headquarters: "서울"
@@ -20,7 +20,7 @@ TEXNIC의 특징은 단순 폐기물 처리가 아니라, 배터리 분리막이
 
 ## 기술 및 제품
 
-[RightRoute](http://rightroute.co.kr)는 LiBS와 세라믹 코팅 분리막을 포함한 리튬이온 배터리 분리막 폐기물을 다룹니다. 이 소재는 UHMWPE의 분자량과 점도가 매우 높고 성형 특성이 까다로워 재활용이 어렵습니다. 그래서 상당량이 다운사이클링, 소각, 매립으로 처리됩니다.
+[RightRoute](https://texnic.kr)는 LiBS와 세라믹 코팅 분리막을 포함한 리튬이온 배터리 분리막 폐기물을 다룹니다. 이 소재는 UHMWPE의 분자량과 점도가 매우 높고 성형 특성이 까다로워 재활용이 어렵습니다. 그래서 상당량이 다운사이클링, 소각, 매립으로 처리됩니다.
 
 RightRoute의 독자 공정은 이 폐자원을 다음 제품으로 전환합니다.
 
