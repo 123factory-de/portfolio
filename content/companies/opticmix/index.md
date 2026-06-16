@@ -22,7 +22,7 @@ The technology targets limitations in existing transparent displays, including b
 
 [OpticMix](https://www.opticmix.kr/) uses holographic optical screen film that passes ambient light while reflecting projected images. This creates a transparent screen effect without relying only on transparent OLED hardware.
 
-Its product and service areas include LUXGRAM holographic screen installation, AuraX signage terminals, and vehicle holographic HUD optical screen film. The company states that its technology can reduce installation cost compared with transparent OLED, while supporting high brightness and high transparency.
+Its product and service areas include LUXGRAM holographic screen installation, AuraX signage terminals, and vehicle holographic HUD optical screen film. Its technology lowers installation cost compared with transparent OLED while supporting high brightness and high transparency.
 
 ## Market & Use Cases
 

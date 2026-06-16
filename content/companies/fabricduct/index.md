@@ -14,7 +14,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-Fabricduct builds fabric duct systems for HVAC airflow control. Its FlowSox system is used in smart farms, logistics centers, factories, cold storage, and other large spaces.
+Fabricduct builds fabric duct systems for HVAC(Heating, Ventilation, and Air Conditioning) airflow control. Its FlowSox system is used in smart farms, logistics centers, factories, cold storage, and other large spaces.
 
 The company focuses on air distribution, not only HVAC capacity. Better airflow can reduce dead zones, temperature gaps, humidity problems, and energy waste.
 

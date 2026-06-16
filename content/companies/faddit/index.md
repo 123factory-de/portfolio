@@ -30,7 +30,7 @@ The company also connects to the Dongdaemun production ecosystem, where many sma
 
 ## Traction & References
 
-Faddit was selected for TIPS in November 2025. The operating accelerator is CNTTech.
+Faddit was selected for the Ministry of SMEs and Startups TIPS program in November 2025.
 
 The company is taking preorders and is building around a network of Dongdaemun sewing factories. The team is using ClimateLaunchpad to connect fashion production automation with lower waste and circular fashion goals.
 

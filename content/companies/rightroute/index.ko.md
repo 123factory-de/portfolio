@@ -41,7 +41,7 @@ TEXNIC의 주요 시장은 패션, 인테리어, 자동차 분야의 프리미�
 - 원단 상용화를 완료했고 여러 기업에 생산 및 납품하고 있습니다.
 - 삼성물산 Beanpole은 2023 F/W 골프 라인에 이 소재를 적용했고 반복 주문도 진행했습니다.
 - SK IE Technology, W-Scope Korea, UPEX, Hanwha Solutions, SSLM, LG Chem 등과 공급 또는 수거 관계를 구축했습니다.
-- CES 2022 Wearable Technology Innovation Award, 현대자동차 H-OnDream Startup Ground Excellent Fellow Award, Global Recycle Standard, LCA 검증, OEKO-TEX Standard 100, ISO 9001/14001 등이 주요 수상 및 인증 내용입니다.
+- 수상 이력으로는 CES 2022 Wearable Technology Innovation Award와 현대자동차 H-OnDream Startup Ground Excellent Fellow Award가 있습니다. 인증으로는 Global Recycle Standard, LCA 검증, OEKO-TEX Standard 100, ISO 9001/14001을 확보했습니다.
 - 향후 계획에는 TEXNIC 원사 상용화, 자동차 시트 산업 진입, 유럽 공장 구축, 2030년 생산량 기반 탄소 배출 저감 목표가 포함됩니다.
 
 ## 협업 가능성
