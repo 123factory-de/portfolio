@@ -32,11 +32,11 @@ Use cases include PLC access control, device authentication, phishing-resistant 
 
 ## Traction & References
 
-SSenStone has more than 340 global patent applications, more than 200 registered global patents, and more than 380 global IP assets, based on its official About page.
+SSenStone has more than 340 global patent applications, more than 200 registered global patents, and more than 380 global IP assets.
 
 The company was ranked first in the Baby Unicorn program under Korea's K-Unicorn project in 2020. It also won the 2020 Europas Award in the cybersecurity category and the Cyber Security Breakthrough Award for Authentication Solution of the Year.
 
-Global business is connected through swIDch, and swIDch states that OTAC technology has been provided to more than 50 customers.
+Global business runs through swIDch, and OTAC technology has been provided to more than 50 customers.
 
 ## Collaboration Relevance
 
