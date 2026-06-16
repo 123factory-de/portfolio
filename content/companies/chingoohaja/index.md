@@ -9,7 +9,7 @@ website: "https://www.chingoohaja.com/"
 founded: ""
 ceo: "Sungwoo Cho"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

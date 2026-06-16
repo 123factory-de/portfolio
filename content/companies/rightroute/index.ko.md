@@ -9,7 +9,7 @@ website: "https://texnic.kr"
 founded: "2016년"
 ceo: "신부선"
 headquarters: "서울"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요

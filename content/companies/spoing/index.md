@@ -7,7 +7,7 @@ industries: ["Sustainability", "AI"]
 tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
 website: ""
 ceo: "Tae Young Shin"
-logo: ""
+logo: "logo.jpg"
 ---
 
 ## Company Overview

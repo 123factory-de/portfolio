@@ -9,7 +9,7 @@ website: "https://texnic.kr"
 founded: "2016"
 ceo: "Buseon Shin"
 headquarters: "Seoul, Korea"
-logo: ""
+logo: "logo.png"
 ---
 
 ## Company Overview

@@ -9,7 +9,7 @@ website: "https://www.opticmix.kr/"
 founded: ""
 ceo: "황이환"
 headquarters: "서울, 한국"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요

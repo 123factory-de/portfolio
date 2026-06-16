@@ -7,7 +7,7 @@ industries: ["Sustainability", "AI"]
 tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
 website: ""
 ceo: "신태영"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요

@@ -9,7 +9,7 @@ website: "https://www.heatai.co.kr/"
 founded: ""
 ceo: "Jun-yoon Lee"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

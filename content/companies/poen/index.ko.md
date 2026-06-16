@@ -9,6 +9,7 @@ website: "https://poen.co.kr/en/"
 founded: "2019"
 ceo: "최성진"
 headquarters: "서울특별시"
+logo: "logo.png"
 ---
 
 ## 회사 개요

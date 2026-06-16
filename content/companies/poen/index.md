@@ -9,6 +9,7 @@ website: "https://poen.co.kr/en/"
 founded: "2019"
 ceo: "Seongjin Choi"
 headquarters: "Seoul, Korea"
+logo: "logo.png"
 ---
 
 ## Company Overview
