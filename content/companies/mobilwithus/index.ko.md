@@ -36,7 +36,7 @@ UN ECE R155/R156 대응, Cyber Resilience Act 준비, ECU 보안 통합, 컨트�
 
 MOBIL Sherpa+는 회사 제품 페이지에서 글로벌 OEM 4곳 이상, ECU 11개 이상 프로젝트 검증 이력을 제시합니다.
 
-지원 반도체 라인업에는 NXP S32K1XX/S32K3XX, Infineon TC3XX, Microchip SAME5X/SAMC2X/TA100이 포함됩니다. 2026년에는 ESS BMS 프로젝트에 CRA 대응 보안 기능을 적용하고 공급했습니다([머니투데이](https://www.mt.co.kr/industry/2026/04/14/2026041314470612188)).
+지원 반도체 라인업에는 NXP S32K1XX/S32K3XX, Infineon TC3XX, Microchip SAME5X/SAMC2X/TA100이 포함됩니다. 2026년에는 ESS BMS 프로젝트에 CRA 대응 보안 기능을 적용하고 공급했습니다.
 
 IBK창공 프로그램에도 참여했으며, 독일과 룩셈부르크 연계 스케일업 트랙 이력이 있습니다.
 

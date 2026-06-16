@@ -1,5 +1,5 @@
 shortcode:
-  recent_articles: "Company Portfolio"
+  recent_articles: "Our Ecosystem"
 recent:
   show_more: "View all companies"
 company_count_all: "{{ .total }} companies"

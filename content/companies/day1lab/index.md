@@ -38,7 +38,7 @@ The company focuses on low-carbon materials, microplastic-free degradation, and 
 
 ## Traction & References
 
-- DAY1LAB has raised Series A funding. Cumulative investment is more than KRW 4 billion([The VC](https://thevc.kr/theday1lab)).
+- DAY1LAB has raised Series A funding. Cumulative investment is more than KRW 4 billion.
 - DAY1LAB was selected for the Ministry of SMEs and Startups TIPS program.
 - Certifications include USDA Biobased, TÜV AUSTRIA OK COMPOST HOME/INDUSTRIAL, BPI commercial compostability, Korean environmental labels, ISO 9001, and ISO 14001.
 - DAY1LAB won a CES 2024 Innovation Award in Sustainability, Eco-Design & Smart Energy.

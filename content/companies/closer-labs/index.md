@@ -34,9 +34,9 @@ Use cases include customer inquiry analysis, order and review analysis, business
 
 Deskroom shows CLASS101 and Sentbe as customer cases on its official product page. The CLASS101 case includes a 50 percent reduction in refund-related VoC.
 
-Closer Labs signed a Deskroom supply contract with APR in 2025([Asia Economy](https://cm.asiae.co.kr/en/article/2025102809470961626)). The company also supplied Deskroom to Ignis for order, review, customer inquiry, SNS, and external brand data analysis([VentureSquare](https://www.venturesquare.net/en/1023907/)).
+Closer Labs signed a Deskroom supply contract with APR in 2025. The company also supplied Deskroom to Ignis for order, review, customer inquiry, SNS, and external brand data analysis.
 
-Deskroom was rebuilt as an AI platform for enterprise decision-making in 2025([Deskroom Blog](https://blog.deskroom.so/newsroom/deskroom-expands-into-ai-driven-decision-making-platform)).
+Deskroom was rebuilt as an AI platform for enterprise decision-making in 2025.
 
 ## Collaboration Relevance
 

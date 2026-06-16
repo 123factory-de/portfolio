@@ -9,7 +9,7 @@ website: "https://texnic.kr"
 founded: "2016년"
 ceo: "신부선"
 headquarters: "서울"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요
@@ -36,7 +36,7 @@ TEXNIC의 주요 시장은 패션, 인테리어, 자동차 분야의 프리미�
 
 ## 성과 및 레퍼런스
 
-- Pre-A 투자와 임팩트 투자자 참여 이력이 있습니다([The VC](https://thevc.kr/rightroute)).
+- Pre-A 투자와 임팩트 투자자 참여 이력이 있습니다.
 - TEXNIC은 2023년 프리미엄 재활용 소재로 출시되었습니다.
 - 원단 상용화를 완료했고 여러 기업에 생산 및 납품하고 있습니다.
 - 삼성물산 Beanpole은 2023 F/W 골프 라인에 이 소재를 적용했고 반복 주문도 진행했습니다.

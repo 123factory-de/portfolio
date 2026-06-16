@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ko-KR"
 languageName = "한국어"
 weight = 2
-title = "123 Factory 포트폴리오"
+title = "123 Factory's Portfolio"
 
 [params]
   displayName = "KO"
@@ -13,6 +13,6 @@ title = "123 Factory 포트폴리오"
 
 [params.author]
   name = "123 Factory"
-  headline = "한국과 유럽을 잇는 과감한 아이디어를 지원합니다."
+  headline = "한국과 유럽을 잇는 혁신적인 아이디어를 지원합니다."
   bio = "123 Factory는 한국과 유럽의 스타트업, 기술 기업, 기업 파트너, 생태계 빌더와 함께합니다."
   links = []

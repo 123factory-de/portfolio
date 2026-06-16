@@ -14,15 +14,11 @@ logo: "logo.png"
 
 ## Company Overview
 
-Trobai is an AI deep tech studio founded by KAIST PhD researchers. It focuses on turning technical rigor into products that change how people live, rather than chasing trends.
-
-Its first product is AirNotte, and the company frames that work as building the intelligence layer for travel.
+Trobai is an AI deep tech startup founded by KAIST PhD researchers, dedicated to transforming technical rigor into products that impact daily lives. Its flagship project, AirNotte, functions as an intelligence layer for travel, utilizing Neuro-Symbolic AI to streamline trip planning and structured decision support.
 
 ## Technology & Product
 
-[Trobai](https://www.trobai.com/) develops Neuro-Symbolic AI technology. AirNotte applies that stack to travel planning and structured decision support.
-
-The system is designed to combine natural language, constraints, optimization, and verification so the output is practical rather than just plausible.
+Trobai develops proprietary Neuro-Symbolic AI technology. The system combines natural language processing, real-world constraints, and validation to ensure that recommendations are highly practical and executable rather than just plausible.
 
 ## Market & Use Cases
 
@@ -32,12 +28,10 @@ The broader opportunity is any product that needs an intelligence layer on top o
 
 ## Traction & References
 
-- Trobai was founded in January 2026.
-- The company is based in Seoul's Gangbuk-gu.
-- The team won first place in the 2026 tourism open innovation program.
-- The company was recognized in the Ministry of Science and ICT's AI Champion program.
-- Trobai has three patent applications related to its Neuro-Symbolic AI work.
-- AirNotte is currently in preparation.
+- Won 1st place in the 2026 Tourism Open Innovation program.
+- Recognized for technical excellence in the Ministry of Science and ICT's AI Champion program.
+- Filed three key patents covering its core Neuro-Symbolic AI reasoning algorithms.
+- Currently finalizing the private beta version of AirNotte.
 
 ## Collaboration Relevance
 

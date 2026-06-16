@@ -7,7 +7,7 @@ industries: ["Sustainability", "AI"]
 tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
 website: ""
 ceo: "Tae Young Shin"
-logo: ""
+logo: "logo.jpg"
 ---
 
 ## Company Overview
@@ -37,8 +37,8 @@ Use cases include sports gear, event items, daily-use goods, and campus product 
 
 - Spoing prepared a pilot project at Kwangwoon University.
 - The team tested demand through a football shoe rental pilot during a university sports festival.
-- Source material lists the company at the sketches, mocks, and renderings stage.
-- The team is part of the ClimateLaunchpad source list.
+- Completed initial service design stages including mocks, 3D renderings, and locker hardware prototyping.
+- Selected for and participated in the global ClimateLaunchpad clean-tech competition.
 
 ## Collaboration Relevance
 

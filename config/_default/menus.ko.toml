@@ -1,9 +1,9 @@
 [[main]]
-  name = "홈"
+  name = "Home"
   pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "기업"
+  name = "Companies"
   pageRef = "companies"
   weight = 20

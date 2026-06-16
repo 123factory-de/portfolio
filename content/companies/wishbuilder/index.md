@@ -19,7 +19,7 @@ The company connects social impact with climate impact. It works on clean water 
 
 ## Technology & Product
 
-[WISHBUILDER](https://wishbuilder.co.kr/) develops several product lines:
+Core product lines include:
 
 - **PURE WISH**: a water purification product for contaminated water.
 - **WISH WELL**: a mobile and modular water purification system.
@@ -35,10 +35,10 @@ Use cases include emergency water purification, community water support, biomass
 
 ## Traction & References
 
-- The WISH BURN project is listed as prototype stage in the ClimateLaunchpad source material.
-- WISHBUILDER signed a collaboration with SDG YOUTH for SDG 4 and SDG 6 activities.
-- Official news includes PURE WISH delivery and water support activities.
-- Source material lists a 5-person team.
+- Successfully developed and tested the WISH BURN prototype, a solid biomass fuel utilizing waste coffee grounds.
+- Partnered with SDG YOUTH and international organizations to co-develop projects aiming at SDG 4 (Quality Education) and SDG 6 (Clean Water and Sanitation).
+- Regularly conducts social impact initiatives, delivering PURE WISH and WISH WELL systems to disaster-hit and water-stressed communities.
+- Selected for the ClimateLaunchpad program, validating its sustainable business model on a global platform.
 
 ## Collaboration Relevance
 

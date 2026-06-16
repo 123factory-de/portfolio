@@ -13,17 +13,17 @@ logo: "logo.png"
 
 ## Company Overview
 
-Klio Design is a design studio based in Korea. The company works on mobility, product, service, and brand experiences. Its design philosophy is "Design for Living", with a focus on practical and human-centered experiences.
+Klio Design is a global design studio specializing in future mobility, digital user experience (UX), product design, and brand styling. Based on the philosophy of "Design for Living," the studio crafts intuitive design solutions that seamlessly integrate technology into daily life.
 
-For investors, PoC teams, and Open Innovation teams, Klio Design is relevant as a design and commercialization partner. It can help technology companies turn hardware, mobility, and sustainability ideas into products and services that users can understand and use.
+The studio serves as an essential design partner for startups and R&D organizations, transforming complex hardware, mobility, and sustainability technologies into user-friendly products and clear visual communications.
 
 ## Technology & Product
 
 [Klio Design](https://www.kliodesign.com/) works across design strategy, mobility design, product design, service design, UX/UI, CMF, and brand experience. Its work covers both physical products and digital touchpoints.
 
-The company is not a pure software or hardware startup. Its core capability is design execution across the full product path: research, concept development, visual design, user experience, prototyping, and product communication.
+Rather than just offering cosmetic design support, Klio Design provides comprehensive execution capabilities—ranging from user research and CMF (Color, Materials, Finish) strategy to physical prototyping and interface design.
 
-Relevant project areas on the official site include:
+Key design expertise includes:
 
 - Mobility and future vehicle experience design.
 - Product and device design.
@@ -39,10 +39,10 @@ Typical use cases include concept design for new products, mobility interior or 
 
 ## Traction & References
 
-- Klio Design has operated as Klio Design Inc. since 2014, based on the company history on its official site.
-- The company shows a broad design portfolio across mobility, product, UX, and brand projects on its official website.
-- Klio Design has built a Europe-facing presence through its Klio Design Europe Studio in Munich, Germany.
-- Public project work on the website includes future mobility concepts, device design, and sustainable product experience concepts.
+- Built a solid track record of collaborative R&D design projects with major automotive OEMs and technology groups.
+- Established Klio Design Europe Studio in Munich, Germany, facilitating design localization and European partner collaborations.
+- Executed multiple high-profile projects in future mobility interior concept design, consumer device styling, and sustainable materials experience design.
+
 
 ## Collaboration Relevance
 

@@ -9,7 +9,7 @@ website: "https://www.opticmix.kr/"
 founded: ""
 ceo: "황이환"
 headquarters: "서울, 한국"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요
@@ -34,7 +34,7 @@ logo: ""
 
 옵틱믹스는 광운대학교 2025 해외기술사업화 역량강화 참여기업입니다. 서울통합관 참가 기업이자 교원창업 기업으로 포함됐습니다.
 
-CES 2026 서울통합관에서 차량용 홀로그래픽 HUD 광학 스크린 필름을 선보일 예정입니다([동아일보](https://faq.donga.com/NEWS/It/article/all/20260105/133095726/1)). 국내 매체는 AuraX와 LUXGRAM도 CES 2026 서울통합관 전시 품목으로 소개했습니다([전자신문](https://www.etnews.com/20251223000333)).
+CES 2026 서울통합관에서 차량용 홀로그래픽 HUD 광학 스크린 필름을 선보일 예정입니다. 국내 매체는 AuraX와 LUXGRAM도 CES 2026 서울통합관 전시 품목으로 소개했습니다.
 
 ## 협업 가능성
 

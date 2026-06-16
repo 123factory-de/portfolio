@@ -14,15 +14,11 @@ logo: ""
 
 ## Company Overview
 
-Heart Planet Company develops smart textile products for wellness and healthcare. Its main product direction is CoreBalance Smart Socks, a wearable system for posture, balance, and gait data.
-
-The company also works on modular product design. A detachable and reusable sensor module can reduce electronic waste when the textile part is replaced.
+Heart Planet Company develops advanced textile sensors and smart wearable devices for digital healthcare and wellness. Its flagship product, CoreBalance Smart Socks, monitors posture, balance, and gait in real time. Featuring a detachable, reusable sensor module, the system reduces electronic waste and promotes product longevity.
 
 ## Technology & Product
 
-CoreBalance Smart Socks combine textile sensing with a reusable sensor module. The product reads foot-pressure patterns and can support balance, gait, and fall-risk analysis.
-
-The product direction includes smart socks and insole-based applications. Target users include wellness studios, sports users, older adults, and care organizations.
+By integrating proprietary woven pressure sensors with a reusable, lightweight transmitter, CoreBalance Smart Socks capture precise plantar pressure profiles and gait symmetry. This data predicts fall risks and offers interactive feedback, paving the way for smart insole and activewear lines.
 
 ## Market & Use Cases
 

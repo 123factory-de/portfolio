@@ -24,7 +24,7 @@ FUST Lab의 제품 라인은 소재 가공과 수처리로 나뉩니다.
 
 - **[DEBREX](https://www.fustlab.com/)**: 유화, 분산, 추출, 수처리에 적용하는 집속형 초음파 장비입니다. DEBREX 30/50은 제형 개발용 연구 장비, DEBREX 100은 연속 공정 기반 생산성 장비, DEBREX 500은 스케일업과 대량생산 장비로 포지셔닝됩니다.
 - **[CAVITOX](https://www.fustlab.com/page/water_treatment.php?locale=en_US)**: 산업·제약 폐수와 PFAS 등 난분해성 오염물질을 겨냥한 초음파 기반 고급산화 수처리 장비입니다.
-- **Cosmetics ODM**: DEBREX 공정 기술을 활용한 무계면활성제 화장품 제형 및 ODM 응용입니다. 현대코퍼레이션 독일법인과의 데모룸 구축 및 유럽 고객 테스트 환경 운영도 진행했습니다([와우테일](https://wowtale.net/2026/02/11/254510/)).
+- **Cosmetics ODM**: DEBREX 공정 기술을 활용한 무계면활성제 화장품 제형 및 ODM 응용입니다. 현대코퍼레이션 독일법인과의 데모룸 구축 및 유럽 고객 테스트 환경 운영도 진행했습니다.
 
 DEBREX는 원통형 초음파 처리 방식으로 제어된 유로 안에 에너지를 집중합니다. 통합 냉각, 실시간 공진 주파수 추적, 유량 제어, 자동 세척, 디스플레이 기반 모니터링을 통해 연구실 테스트부터 생산 공정까지 안정적인 운전을 지원합니다.
 
@@ -38,7 +38,7 @@ DEBREX는 원통형 초음파 처리 방식으로 제어된 유로 안에 에너
 
 ## 성과 및 레퍼런스
 
-- 2023년 Seed, 2024년 Pre-A, 2025년 Pre-Series A bridge 투자를 유치했습니다. 누적 투자금은 약 66억 원입니다([와우테일](https://wowtale.net/2026/02/11/254510/)).
+- 2023년 Seed, 2024년 Pre-A, 2025년 Pre-Series A bridge 투자를 유치했습니다. 누적 투자금은 약 66억 원입니다.
 - [공식 연혁](https://www.fustlab.com/page/history.php?locale=en_US)에 따르면 DEBREX는 2023년 국내 출시됐고, DEBREX 100/500은 CE, FCC, KC 인증을 확보했습니다.
 - Sanyo Trading 수출, P&G Singapore PoC, Resonac 및 Nippon Kayaku PoC, 한국·일본·독일 사무소 및 데모룸이 주요 사업화 레퍼런스입니다.
 - DEBREX CES 2025 Innovation Award, CAVITOX CES 2026 Innovation Award, CAVITOX Edison Awards 2026 수상, Water Industry Startup Grand Prize, DCAMP D-Day winner, Deep Tech TIPS, K-water startup partner, KEITI Eco-Startup, KDB NextONE, IBK ChangGong Europe Program 등이 주요 수상 및 선정 이력입니다.

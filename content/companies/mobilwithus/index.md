@@ -36,7 +36,7 @@ Use cases include UN ECE R155 and R156 response, Cyber Resilience Act preparatio
 
 MOBIL Sherpa+ has been validated across more than four global OEM programs and more than eleven ECU projects, based on the company product page.
 
-The supported semiconductor lineup includes NXP S32K1XX/S32K3XX, Infineon TC3XX, and Microchip SAME5X/SAMC2X/TA100. MOBILWITHUS also applied and supplied CRA security functions for an ESS BMS project in 2026([Money Today](https://www.mt.co.kr/industry/2026/04/14/2026041314470612188)).
+The supported semiconductor lineup includes NXP S32K1XX/S32K3XX, Infineon TC3XX, and Microchip SAME5X/SAMC2X/TA100. MOBILWITHUS also applied and supplied CRA security functions for an ESS BMS project in 2026.
 
 The company has joined IBK Changgong programs, including Germany and Luxembourg-linked scale-up tracks.
 
