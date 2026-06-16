@@ -34,9 +34,9 @@ logo: "logo.png"
 
 Deskroom 공식 제품 페이지에는 CLASS101과 Sentbe 고객 사례가 공개되어 있습니다. CLASS101 사례에서는 환불 관련 VoC가 50% 감소했습니다.
 
-클로저랩스는 2025년 APR과 Deskroom 공급 계약을 체결했습니다([아시아경제](https://cm.asiae.co.kr/en/article/2025102809470961626)). Ignis에는 주문, 리뷰, 고객 문의, SNS, 외부 브랜드 데이터 분석을 위해 Deskroom을 공급했습니다([VentureSquare](https://www.venturesquare.net/en/1023907/)).
+클로저랩스는 2025년 APR과 Deskroom 공급 계약을 체결했습니다. Ignis에는 주문, 리뷰, 고객 문의, SNS, 외부 브랜드 데이터 분석을 위해 Deskroom을 공급했습니다.
 
-Deskroom은 2025년 기업 의사결정용 AI 플랫폼으로 개편됐습니다([Deskroom Blog](https://blog.deskroom.so/newsroom/deskroom-expands-into-ai-driven-decision-making-platform)).
+Deskroom은 2025년 기업 의사결정용 AI 플랫폼으로 개편됐습니다.
 
 ## 협업 가능성
 

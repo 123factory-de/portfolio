@@ -22,7 +22,7 @@ The company focuses on air distribution, not only HVAC capacity. Better airflow 
 
 [FlowSox](https://www.fabricduct.kr/) is a fabric duct and design platform. Fabricduct designs, makes, installs, and checks ducts for each site.
 
-Key products and capabilities include:
+Core product and service categories include:
 
 - FlowSox fabric ducts for cooling, heating, and ventilation.
 - Fabric defrost pockets for cold-chain and refrigeration sites.
@@ -38,10 +38,10 @@ Use cases include even air distribution, lower HVAC energy waste, better crop or
 
 ## Traction & References
 
-- Fabricduct was selected for Korea's TIPS R&D program in 2025.
-- Source material lists KRW 500 million seed investment, 2025 revenue of KRW 613 million, and awards including the Ministry of SMEs and Startups Minister Award.
-- Customers listed in the source material include Nongshim, CJ CheilJedang, Kurly, Baemin B Mart, Hyundai Green Food, and smart-farm operators.
-- The company is part of the ClimateLaunchpad source list.
+- Selected for the prestigious TIPS R&D support program by the Ministry of SMEs and Startups (MSS) in 2025.
+- Secured KRW 500 million in seed investment, achieved KRW 613 million in revenue (2025), and received the MSS Minister's Award.
+- Partnered with enterprise clients including Nongshim, CJ CheilJedang, Kurly, Baemin B Mart, and Hyundai Green Food.
+- Participated in the ClimateLaunchpad program for clean-tech innovations.
 
 ## Collaboration Relevance
 

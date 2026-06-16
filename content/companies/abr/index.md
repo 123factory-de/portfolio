@@ -14,26 +14,26 @@ logo: "logo.png"
 
 ## Company Overview
 
-ABR develops eco-friendly battery recycling technologies to process lithium-ion battery manufacturing scrap and end-of-life batteries. The company uses a physical, water-and-ultrasound-based direct recycling method to recover battery-grade materials without high-temperature smelting or harsh chemicals.
+ABR recycles lithium-ion battery manufacturing scrap and end-of-life batteries. Its direct recycling method uses water and ultrasonic waves to recover battery-grade materials. The process avoids high-temperature smelting and harsh chemicals.
 
 ## Technology & Product
 
 ABR offers direct recycling services and remanufactured battery materials:
 
-- **Direct Recycling Process**: ABR uses water and ultrasonic waves to separate active cathode and anode materials from foil substrates in battery manufacturing scrap ([ABR](https://adbatteryrecycle.com/ABOUT)).
-- **Remanufactured Cathode Materials**: High-purity recycled cathode powders (such as NCM) reclaimed directly from manufacturing waste ([ABR Products](https://www.adbatteryrecycle.com/product)).
-- **Recycled Anode Materials & Precursors**: Recovered graphite anode powders and NCM solution-based precursors ready for re-entry into the battery manufacturing loop ([ABR Products](https://www.adbatteryrecycle.com/product)).
-- **Recycled Activated Carbon**: Carbon-based materials extracted and prepared for industrial adsorption and energy applications ([ABR Products](https://www.adbatteryrecycle.com/product)).
+- **Direct Recycling Process**: ABR uses water and ultrasonic waves to separate active cathode and anode materials from foil substrates in battery manufacturing scrap.
+- **Remanufactured Cathode Materials**: High-purity recycled cathode powders (such as NCM) reclaimed directly from manufacturing waste.
+- **Recycled Anode Materials & Precursors**: Recovered graphite anode powders and NCM solution-based precursors ready for re-entry into the battery manufacturing loop.
+- **Recycled Activated Carbon**: Carbon-based materials extracted and prepared for industrial adsorption and energy applications.
 
 ## Market & Use Cases
 
-ABR targets battery cell manufacturers and automotive OEMs looking to manage production scrap and secure closed-loop material supply chains. By recovering active materials directly, ABR's process reduces the energy and carbon footprint compared to hydrometallurgical or pyrometallurgical recycling.
+ABR serves battery cell manufacturers and automotive OEMs. These customers need to manage production scrap and build closed-loop material supply chains. Because ABR recovers active materials directly, its process uses less energy and produces less carbon than hydrometallurgical or pyrometallurgical recycling.
 
 ## Traction & References
 
-- ABR demonstrated its physical direct recycling process and products at the K-BATTERY SHOW 2024 ([AVING](https://kr.aving.net/news/articleView.html?idxno=1794071)).
-- The company was selected for the IBK Changgong Gwangju 3rd cohort in 2025 ([IBK Changgong](https://adbatteryrecycle.com/ABOUT)).
-- ABR is supported by the Jeonnam Creative Economy Innovation Center (J-CCEI) 2025 program ([J-CCEI](https://adbatteryrecycle.com/ABOUT)).
+- ABR demonstrated its physical direct recycling process and products at the K-BATTERY SHOW 2024.
+- The company was selected for the IBK Changgong Gwangju 3rd cohort in 2025.
+- ABR is supported by the Jeonnam Creative Economy Innovation Center (J-CCEI) 2025 program.
 
 ## Collaboration Relevance
 

@@ -14,9 +14,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-Datasketchers builds AI software for ESG and compliance work. The company focuses on suppliers that need to respond to buyer standards, food safety rules, and sustainability requirements.
-
-The team also provides web, SaaS, and digital transformation services. Its climate-tech direction is an AI tool for supplier ESG review and administrative risk reduction.
+Data Sketchers develops AI-driven compliance and ESG management software for global supply chains. The platform automates complex document verification, aligning supplier safety and sustainability data with global buyer standards and food regulatory frameworks, significantly reducing administrative risks and audit times.
 
 ## Technology & Product
 

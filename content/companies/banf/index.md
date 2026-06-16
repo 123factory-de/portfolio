@@ -36,7 +36,7 @@ Key use cases include tire tread monitoring, overload detection, wheel alignment
 
 ## Traction & References
 
-- BANF raised a KRW 4.5 billion Series A round in 2022([Unicorn Factory](https://www.unicornfactory.co.kr/article/2022092614025290054)).
+- BANF raised a KRW 4.5 billion Series A round in 2022.
 - Key partners and customers include vehicle makers, tire companies, fleet operators, Nira Dynamics, Hyundai Motor Group, Volvo Group Camp X, DHL, the U.S. Army, and SAE International.
 - Awards and selections include CES 2024 Vehicle Tech & Advanced Mobility Innovation Award, 2023 K-Digital Grand Championship Grand Prize, 2023 IRF Global Road Achievement Awards, TechCrunch Battlefield Top 20, DHL Fastforward Challenge Global Top 3, SAE International GAMIC Top 10, [Global ICT Future Unicorn](https://m.mt.co.kr/renew/view.html?no=2024052317432761829), and [Forbes Asia 100 To Watch](https://platum.kr/archives/269397).
 - BANF has pre-production progress and revenue growth through 2025.

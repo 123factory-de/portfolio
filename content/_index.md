@@ -1,6 +1,6 @@
 ---
 title: "123 Factory's Portfolio"
-description: "A portfolio of startups and technology companies 123 Factory is watching closely."
+description: "A curated portfolio of high-growth tech startups expanding into Europe with 123 Factory."
 ---
 
-A portfolio of startups and technology companies 123 Factory is watching closely.
+A curated portfolio of high-growth tech startups expanding into Europe with 123 Factory.

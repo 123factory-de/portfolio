@@ -38,7 +38,7 @@ DAY1LAB은 천연 고분자와 해양 식물 유래 성분을 활용해 생분�
 
 ## 성과 및 레퍼런스
 
-- Series A 투자를 유치했으며, 누적 투자금은 40억 원 이상입니다([The VC](https://thevc.kr/theday1lab)).
+- Series A 투자를 유치했으며, 누적 투자금은 40억 원 이상입니다.
 - 중소벤처기업부 TIPS 프로그램에 선정됐습니다.
 - USDA Biobased, TUV AUSTRIA OK COMPOST HOME/INDUSTRIAL, BPI 상업 퇴비화, 국내 환경표지, ISO 9001, ISO 14001 등 인증을 보유하고 있습니다.
 - CES 2024 Sustainability, Eco-Design & Smart Energy 부문 Innovation Award를 수상했습니다.

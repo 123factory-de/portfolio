@@ -34,7 +34,7 @@ Use cases include large vehicle HUD screens, transparent advertising displays, t
 
 OpticMix is part of Kwangwoon University's 2025 overseas technology commercialization support group. The company is listed as a Seoul Pavilion and faculty startup participant.
 
-The company plans to present vehicle holographic HUD optical screen film at CES 2026 Seoul Pavilion([Dong-A Ilbo](https://faq.donga.com/NEWS/It/article/all/20260105/133095726/1)). Korean media also introduced AuraX and LUXGRAM as CES 2026 Seoul Pavilion items([ETNews](https://www.etnews.com/20251223000333)).
+The company plans to present vehicle holographic HUD optical screen film at CES 2026 Seoul Pavilion. Korean media also introduced AuraX and LUXGRAM as CES 2026 Seoul Pavilion items.
 
 ## Collaboration Relevance
 

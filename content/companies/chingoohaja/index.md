@@ -14,9 +14,7 @@ logo: "logo.svg"
 
 ## Company Overview
 
-Chingoohaja builds services for older adults, families, and care providers. The company combines social connection with AI-based monitoring.
-
-Its work is relevant to aging societies where many seniors live alone or have limited daily contact. The service aims to support emotional well-being, early risk detection, and family communication.
+Chingoohaja develops an AI-based care monitoring platform connecting seniors, families, and care institutions. Addressing challenges in aging societies, the platform enables emotional well-being checks, early detection of cognitive or physical risks through daily speech analysis, and real-time alerts.
 
 ## Technology & Product
 
@@ -32,9 +30,9 @@ Climate resilience is also relevant. During heat waves or other climate-related 
 
 ## Traction & References
 
-Chingoohaja is in private beta and demonstrator stage. The team has completed more than 250 interviews and MVP tests.
-
-The company has received startup support funding, office support, and the National Assembly Speaker Award. Samsung Medical Center, Ulsan CCEI, Seoul AI Hub, DDM, and senior-care organizations are part of its collaboration network.
+- Successfully completed MVP testing and private beta trials based on extensive insights from 250+ senior and caregiver interviews.
+- Received startup support funding and was honored with the National Assembly Speaker Award.
+- Formed collaborative networks with leading institutions, including Seoul AI Hub, Ulsan CCEI, and Samsung Medical Center.
 
 ## Collaboration Relevance
 

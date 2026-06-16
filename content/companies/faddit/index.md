@@ -14,9 +14,7 @@ logo: "logo.svg"
 
 ## Company Overview
 
-Faddit builds software for fashion production. The company focuses on the workflow from design sketch to technical drawings, patterns, and production requests.
-
-The goal is to reduce manual work in small-batch fashion production. This can help designers, brands, and sewing factories work with clearer files and fewer production errors.
+Faddit provides a cloud-based SaaS platform that digitalizes fashion design-to-production workflows. By connecting design sketches, technical drawings, patterns, and production orders in a unified workspace, it eliminates communication errors between fashion brands and factories, reducing sample remaking costs and fabric waste.
 
 ## Technology & Product
 

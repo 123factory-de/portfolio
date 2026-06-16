@@ -14,9 +14,7 @@ logo: "logo.svg"
 
 ## Company Overview
 
-SSenStone develops authentication technology for users, devices, IoT, PLC, and OT/ICS environments. Its core technology is OTAC, a one-time dynamic authentication code.
-
-The company addresses a common security issue: fixed passwords and static credentials are hard to protect across many devices and industrial systems. OTAC replaces static values with changing codes that can be verified without the same one-time code being reused.
+SSenStone develops cutting-edge authentication technologies for user access, financial transactions, IoT, and OT/ICS environments. Its proprietary One-Time Authentication Code (OTAC) technology generates unique, dynamic codes in real time, enabling secure device and user validation even in offline or disconnected settings without an active network.
 
 ## Technology & Product
 

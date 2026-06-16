@@ -330,9 +330,6 @@
       const params = new URLSearchParams(window.location.search);
 
       const countLabel = (visible, total, industry) => {
-        if (locale === "ko") {
-          return industry === "all" ? `${total}개 회사` : `${visible} / ${total}개 회사`;
-        }
         return industry === "all" ? `${total} companies` : `${visible} of ${total} companies`;
       };
 

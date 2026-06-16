@@ -24,7 +24,7 @@ FUST Lab has product lines for material processing and water treatment:
 
 - **[DEBREX](https://www.fustlab.com/)**: focused ultrasonic equipment for emulsification, dispersion, extraction, and water treatment. DEBREX 30/50 are for formulation R&D, DEBREX 100 is for continuous processing, and DEBREX 500 is for scale-up and mass production.
 - **[CAVITOX](https://www.fustlab.com/page/water_treatment.php?locale=en_US)**: ultrasonic advanced oxidation equipment for hard-to-degrade wastewater, including PFAS-related contaminants.
-- **Cosmetics ODM**: surfactant-free cosmetic formulation and ODM using DEBREX process technology. FUST Lab also built a demo-room setup in Germany for European customer testing([Wowtale](https://wowtale.net/2026/02/11/254510/)).
+- **Cosmetics ODM**: surfactant-free cosmetic formulation and ODM using DEBREX process technology. FUST Lab also built a demo-room setup in Germany for European customer testing.
 
 DEBREX uses cylindrical ultrasonic processing to focus energy inside a controlled flow path. Cooling, real-time frequency tracking, flow-rate control, automated cleaning, and monitoring help stable operation from lab tests to production.
 
@@ -38,7 +38,7 @@ Core use cases include surfactant-free nano-emulsification, uniform particle dis
 
 ## Traction & References
 
-- FUST Lab raised seed investment in 2023, Pre-A investment in 2024, and a Pre-Series A bridge round in 2025. Cumulative funding is about KRW 6.6 billion([Wowtale](https://wowtale.net/2026/02/11/254510/)).
+- FUST Lab raised seed investment in 2023, Pre-A investment in 2024, and a Pre-Series A bridge round in 2025. Cumulative funding is about KRW 6.6 billion.
 - [FUST Lab history](https://www.fustlab.com/page/history.php?locale=en_US) lists the domestic launch of DEBREX in 2023. It also lists CE, FCC, and KC certification for DEBREX 100/500.
 - Key business cases include Sanyo Trading exports, P&G Singapore PoC, Resonac and Nippon Kayaku PoC, and offices or demo rooms in Korea, Japan, and Germany.
 - Recognition includes CES 2025 Innovation Award for DEBREX, CAVITOX CES 2026 Innovation Award, Edison Awards 2026 recognition for CAVITOX, Water Industry Startup Grand Prize, DCAMP D-Day winner, Deep Tech TIPS, K-water startup partner, KEITI Eco-Startup, KDB NextONE, and IBK ChangGong Europe Program.

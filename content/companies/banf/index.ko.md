@@ -36,7 +36,7 @@ BANF의 Tire Profile System은 세 가지 구성요소가 중심입니다.
 
 ## 성과 및 레퍼런스
 
-- 2022년 45억 원 규모의 Series A 투자를 유치했습니다([유니콘팩토리](https://www.unicornfactory.co.kr/article/2022092614025290054)).
+- 2022년 45억 원 규모의 Series A 투자를 유치했습니다.
 - 차량 제조사, 타이어 기업, fleet 운영사, Nira Dynamics, 현대자동차그룹, Volvo Group Camp X, DHL, 미 육군, SAE International 등이 주요 레퍼런스입니다.
 - CES 2024 Vehicle Tech & Advanced Mobility Innovation Award, 2023 K-디지털 그랜드 챔피언십 대상, 2023 IRF Global Road Achievement Awards, TechCrunch Battlefield Top 20, DHL Fastforward Challenge Global Top 3, SAE International GAMIC Top 10, [글로벌 ICT 미래 유니콘 육성 사업](https://m.mt.co.kr/renew/view.html?no=2024052317432761829), [Forbes Asia 100 To Watch](https://platum.kr/archives/269397) 등이 주요 수상 및 선정 이력입니다.
 - 2025년까지 매출 성장과 양산 전 단계 진행 이력이 있습니다.

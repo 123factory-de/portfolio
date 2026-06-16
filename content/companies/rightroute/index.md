@@ -36,7 +36,7 @@ The material offers moisture permeability, waterproofing, low density, high tens
 
 ## Traction & References
 
-- RightRoute has Pre-A investment and impact investor participation([The VC](https://thevc.kr/rightroute)).
+- RightRoute has Pre-A investment and impact investor participation.
 - TEXNIC launched as a premium recycled material in 2023.
 - Fabric commercialization is complete, with production and delivery for multiple companies.
 - Samsung C&T Beanpole launched a 2023 F/W golf line using the material and placed repeat orders.

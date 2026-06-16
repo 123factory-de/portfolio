@@ -14,9 +14,7 @@ logo: "logo.svg"
 
 ## Company Overview
 
-HeatAI builds measurement, reporting, and verification software for building energy projects. The company focuses on heat-pump operation data, energy-saving evidence, and audit-ready reports for public and commercial buildings.
-
-The product helps building owners and energy agencies turn operating data into clear performance records. This is useful when a heat-pump project needs to prove savings, compare performance, or prepare data for carbon and energy programs.
+HeatAI develops automated Measurement, Reporting, and Verification (MRV) software for building energy retrofits. The platform monitors heat-pump operational data in real time to calculate seasonal performance factor (SPF), verify energy savings, and generate audit-ready reports essential for public subsidy compliance and carbon credit markets.
 
 ## Technology & Product
 
