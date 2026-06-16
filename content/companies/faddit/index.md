@@ -9,7 +9,7 @@ website: "https://faddit.co.kr/"
 founded: "2025"
 ceo: "Sung-rak Choi"
 headquarters: "Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview
