@@ -1,5 +1,5 @@
 ---
-title: "FUST Lab"
+title: "퍼스트랩"
 date: 2026-06-10
 draft: false
 description: "화학 및 배터리 조성용 DEBREX 집속 초음파 나노 분산 장비를 개발합니다."

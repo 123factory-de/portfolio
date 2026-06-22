@@ -1,5 +1,5 @@
 ---
-title: "DAY1LAB"
+title: "더데이원랩"
 date: 2026-06-10
 draft: false
 description: "해조류 유래 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."

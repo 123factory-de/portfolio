@@ -10,7 +10,7 @@ website: "https://www.opticmix.kr/"
 founded: ""
 ceo: "Yihwan Hwang"
 headquarters: "Seoul, Korea"
-logo: ""
+logo: "logo.png"
 ---
 
 ## Company Overview
