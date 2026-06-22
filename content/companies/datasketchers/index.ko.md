@@ -3,7 +3,8 @@ title: "데이터스케쳐스"
 date: 2026-06-10
 draft: false
 description: "데이터스케쳐스는 협력사의 ESG와 컴플라이언스 대응을 돕는 AI 도구를 개발합니다."
-industries: ["AI", "Sustainability"]
+industries: ["Information Technology"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Supply Chain Technology"]
 tags: ["ESG compliance", "RAG", "supplier risk", "SaaS", "climatelaunchpad"]
 website: "https://data-sketchers.com/"
 founded: "2025"

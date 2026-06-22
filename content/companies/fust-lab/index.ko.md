@@ -3,7 +3,8 @@ title: "FUST Lab"
 date: 2026-06-10
 draft: false
 description: "화학 및 배터리 조성용 DEBREX 집속 초음파 나노 분산 장비를 개발합니다."
-industries: ["Battery", "Manufacturing"]
+industries: ["Business Products and Services", "Materials and Resources"]
+verticals: ["Nanotechnology", "Advanced Manufacturing"]
 tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
 website: "https://www.fustlab.com"
 founded: "2022년 5월 30일"

@@ -3,7 +3,8 @@ title: "IOMTEK"
 date: 2026-06-15
 draft: false
 description: "Eco-friendly composite materials and climate-responsive films made from waste plastics and industrial by-products."
-industries: ["Materials", "Sustainability"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["upcycling", "composite-materials", "waste-plastic", "climate-responsive-film", "circular-economy", "KOSME PoC"]
 website: "https://iomtek.com"
 founded: "2020"

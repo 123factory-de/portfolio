@@ -3,7 +3,8 @@ title: "APGREEN"
 date: 2026-06-15
 draft: false
 description: "On-site hydrogen production and power generation systems based on catalytic reforming and fuel-cell integration."
-industries: ["Energy", "Sustainability"]
+industries: ["Energy"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["hydrogen", "fuel-cell", "catalytic-reforming", "distributed-energy", "clean-tech", "KOSME PoC"]
 website: "https://apgreen.net"
 founded: "2022"

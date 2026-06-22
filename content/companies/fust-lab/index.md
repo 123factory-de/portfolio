@@ -3,7 +3,8 @@ title: "FUST Lab"
 date: 2026-06-10
 draft: false
 description: "Developer of DEBREX focused ultrasonic nano-dispersion equipment for chemical and battery formulations."
-industries: ["Battery", "Manufacturing"]
+industries: ["Business Products and Services", "Materials and Resources"]
+verticals: ["Nanotechnology", "Advanced Manufacturing"]
 tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
 website: "https://www.fustlab.com"
 founded: "May 30, 2022"

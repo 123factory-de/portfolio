@@ -3,7 +3,8 @@ title: "BANF"
 date: 2026-06-10
 draft: false
 description: "타이어 장착 센서와 운송 차량 데이터 분석을 결합한 지능형 타이어 시스템을 개발합니다."
-industries: ["Mobility", "AI"]
+industries: ["Business Products and Services", "Information Technology"]
+verticals: ["Internet of Things (IoT)", "Mobility Tech", "Big Data"]
 tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
 website: "https://banf.ai/en"
 founded: "2020년 12월 18일"

@@ -3,7 +3,8 @@ title: "Klio Design"
 date: 2026-06-10
 draft: false
 description: "Design studio helping companies build mobility, product, and service experiences."
-industries: ["Mobility", "Sustainability"]
+industries: ["Business Products and Services"]
+verticals: ["Mobility Tech"]
 tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014"

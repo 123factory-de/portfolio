@@ -3,7 +3,8 @@ title: "MOBILWITHUS"
 date: 2026-06-10
 draft: false
 description: "Automotive embedded security software company for ECU, SDV, ESS BMS, and cybersecurity compliance."
-industries: ["Mobility", "Cybersecurity"]
+industries: ["Information Technology"]
+verticals: ["Cybersecurity", "Mobility Tech"]
 tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
 website: "https://www.mobilwithus.com/"
 founded: ""

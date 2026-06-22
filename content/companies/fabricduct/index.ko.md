@@ -3,7 +3,8 @@ title: "패브릭덕트"
 date: 2026-06-10
 draft: false
 description: "스마트팜과 산업 시설의 공조 효율을 높이는 섬유 덕트 시스템을 개발합니다."
-industries: ["Energy", "Manufacturing"]
+industries: ["Business Products and Services"]
+verticals: ["Construction Technology", "Cleantech"]
 tags: ["HVAC", "fabric duct", "energy efficiency", "smart farm", "climatelaunchpad"]
 website: "https://www.fabricduct.kr/"
 founded: "2024"

@@ -3,7 +3,8 @@ title: "센스톤"
 date: 2026-06-10
 draft: false
 description: "센스톤은 사용자, 기기, IoT, PLC, OT 환경에 단방향 동적 인증코드 기술을 적용하는 사이버보안 기업입니다."
-industries: ["Cybersecurity", "Manufacturing"]
+industries: ["Information Technology"]
+verticals: ["Cybersecurity", "Internet of Things (IoT)"]
 tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
 website: "https://www.ssenstone.com/en/"
 founded: ""

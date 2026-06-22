@@ -3,7 +3,8 @@ title: "소무나"
 date: 2026-06-15
 draft: false
 description: "차량 공회전 방지와 온실가스 감축을 위해 AI 기반의 배터리 제어 및 무시동 콜드체인 시스템을 제공합니다."
-industries: ["Energy", "Mobility", "Sustainability"]
+industries: ["Business Products and Services", "Energy"]
+verticals: ["Supply Chain Technology", "Cleantech"]
 tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
 website: "https://somuna.co.kr"
 founded: "2020"

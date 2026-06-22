@@ -3,7 +3,8 @@ title: "HeatAI"
 date: 2026-06-10
 draft: false
 description: "HeatAI builds MRV software for building heat-pump performance and energy-saving data."
-industries: ["Energy", "AI"]
+industries: ["Information Technology", "Energy"]
+verticals: ["Climate Tech", "Cleantech"]
 tags: ["building energy", "heat pump", "MRV", "audit-grade data", "climatelaunchpad"]
 website: "https://www.heatai.co.kr/"
 founded: ""

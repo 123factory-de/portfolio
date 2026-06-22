@@ -3,7 +3,8 @@ title: "다이나믹인더스트리"
 date: 2026-06-15
 draft: false
 description: "수명이 다한 폐태양광 패널을 친환경 기계식 공정으로 재활용하여 실리콘, 유리, 유가금속 등을 회수하는 기술을 제공합니다."
-industries: ["Energy", "Sustainability"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["solar-recycling", "material-recovery", "clean-tech", "solar-panel", "resource-circulation", "KOSME PoC"]
 website: "https://dynamicindustry.kr"
 founded: "2021"

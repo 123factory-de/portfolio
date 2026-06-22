@@ -3,7 +3,8 @@ title: "이옴텍"
 date: 2026-06-15
 draft: false
 description: "폐플라스틱과 산업 부산물을 활용해 고성능 친환경 복합소재와 온난화 대응형 단열 필름을 개발·제조하는 업사이클링 소재 기술을 제공합니다."
-industries: ["Materials", "Sustainability"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["upcycling", "composite-materials", "waste-plastic", "climate-responsive-film", "circular-economy", "KOSME PoC"]
 website: "https://iomtek.com"
 founded: "2020"

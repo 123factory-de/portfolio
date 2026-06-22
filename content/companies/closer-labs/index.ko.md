@@ -3,7 +3,8 @@ title: "클로저랩스"
 date: 2026-06-10
 draft: false
 description: "클로저랩스는 데이터 통합, 분석, 의사결정 지원을 위한 기업용 AI 플랫폼 Deskroom을 운영합니다."
-industries: ["AI", "Cybersecurity"]
+industries: ["Information Technology"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
 tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
 website: "https://www.deskroom.so/en"
 founded: ""

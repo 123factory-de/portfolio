@@ -3,7 +3,8 @@ title: "Fabricduct"
 date: 2026-06-10
 draft: false
 description: "HVAC startup building fabric duct systems for efficient airflow in farms and industrial sites."
-industries: ["Energy", "Manufacturing"]
+industries: ["Business Products and Services"]
+verticals: ["Construction Technology", "Cleantech"]
 tags: ["HVAC", "fabric duct", "energy efficiency", "smart farm", "climatelaunchpad"]
 website: "https://www.fabricduct.kr/"
 founded: "2024"
