@@ -1,0 +1,40 @@
+---
+title: "Woozza"
+date: 2026-06-22
+draft: false
+description: "대기·지반 환경을 실시간 무인 계측해 사면 붕괴와 산사태 피해를 예방하는 스마트건설 안전 모니터링 기업."
+industries: ["Information Technology"]
+verticals: ["Internet of Things (IoT)", "Construction Technology", "Climate Tech"]
+tags: ["disaster-prevention", "geotechnical-monitoring", "smart-rain-gauge", "inclinometer", "weather-instruments"]
+founded: "2019"
+ceo: "조영우"
+headquarters: "부산"
+logo: ""
+---
+
+## 회사 개요
+
+우짜는 사면 붕괴, 산사태, 침수 피해를 막기 위한 무인 실시간 모니터링 시스템을 만듭니다. 현장의 대기와 지반 환경을 직접 계측하고, 과거에 사람이 수기로 하던 계측과 보고 과정을 자동화합니다([한국건설기술연구원 스마트건설지원센터](https://www.kict.re.kr/gallery.es?act=view&b_list=6&bid=tnnt&keyField=&keyWord=&list_no=14421&mid=a10407040200&nPage=1&orderby=&tag=)). 기상청 공인 기상장비업체이기도 합니다([스포츠경향](https://sports.khan.co.kr/article/202312071818003)).
+
+## 기술 및 제품
+
+- **무인 대기·지반환경 계측 모니터링 시스템**: 사면 붕괴 재해 예방을 위해 기상·지반 상태를 실시간으로 측정하고, 계측과 보고를 자동화합니다([한국건설기술연구원 스마트건설지원센터](https://www.kict.re.kr/gallery.es?act=view&b_list=6&bid=tnnt&keyField=&keyWord=&list_no=14421&mid=a10407040200&nPage=1&orderby=&tag=)).
+- **무인 지중경사계**: 흙막이, 도심 굴착 구간 등 다양한 현장에서 지반 변위를 실시간 감지하고, 설치·계측·보고 과정에 자동화 기술을 적용합니다([서울경제TV](https://www.sentv.co.kr/article/view/sentv202504160105)).
+- **스마트 강수량계 및 기상장비**: 강수 관측과 대기 데이터 수집을 위한 장비입니다([스포츠경향](https://sports.khan.co.kr/article/202312071818003)).
+- **3차원 대기환경정보 가시화**: 볼륨 렌더링을 활용해 대기환경정보를 시각화하는 기술로, 인제대학교와의 기술이전을 통해 개발했습니다([머니투데이](https://www.mt.co.kr/policy/2023/01/31/2023013115292163976)).
+
+## 시장 및 활용 분야
+
+주요 대상은 사면과 기상 위험에 노출된 건설 현장, 토목 공사, 공공 인프라입니다. 굴착 구간과 흙막이의 지반 변위 감시, 강우 관측을 통한 사면 붕괴 예측, 수기 점검을 대체하는 자동·상시 계측이 대표적인 활용 사례입니다([서울경제TV](https://www.sentv.co.kr/article/view/sentv202504160105)). 가시화 기술은 태풍, 강우, 강설, 미세먼지 계측에도 활용할 수 있습니다([머니투데이](https://www.mt.co.kr/policy/2023/01/31/2023013115292163976)).
+
+## 성과 및 레퍼런스
+
+- 2023년 국토교통부 주최 스마트건설 창업아이디어 공모전에서 최우수상인 한국건설기술연구원 원장상을 수상했습니다([스포츠경향](https://sports.khan.co.kr/article/202312071818003)).
+- 한국건설기술연구원 스마트건설지원센터 원외창업기업으로, 멘토링, 연구자 매칭, 시제품 제작 지원 등을 받습니다([스포츠경향](https://sports.khan.co.kr/article/202312071818003)).
+- 2023년 1월 인제대학교 산학협력단과 3차원 대기환경정보 가시화 장치 개발 기술이전 계약을 체결했습니다([머니투데이](https://www.mt.co.kr/policy/2023/01/31/2023013115292163976)).
+
+## 협업 가능성
+
+- 건설사와 인프라 운영사는 사면, 굴착 현장, 흙막이의 재해 조기 경보를 위한 PoC를 진행할 수 있습니다.
+- 공공기관과 기상 분야 파트너는 우짜의 기상·지반 데이터를 침수·산사태 위험 관리 사업에 활용할 수 있습니다.
+- 기상청 인증과 건설연 입주 이력은 기후 대응·스마트건설 사업, 한국-유럽 실증에서 신뢰 기반이 됩니다.
