@@ -5,7 +5,7 @@ draft: false
 description: "Hydrogen-based engine cleaning technology that removes carbon, improves fuel efficiency, and cuts exhaust gas."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["hydrogen", "Rebooz", "engine carbon cleaning"]
+tags: ["hydrogen", "Rebooz", "engine carbon cleaning", "Gangnam-gu Testbed"]
 website: "http://www.gedkorea.com"
 founded: "2016"
 ceo: "Dongyeon Kang"
@@ -15,15 +15,15 @@ logo: "logo.png"
 
 ## Company Overview
 
-GED develops clean hydrogen technology for combustion-engine vehicles. Its technology reduces exhaust emissions while improving engine power and fuel efficiency([Money Today](https://www.mt.co.kr/industry/2024/08/08/2024080718214495862)).
+GED develops clean hydrogen technology for combustion-engine vehicles. Its technology reduces exhaust emissions while improving engine power and fuel efficiency.
 
-The company built its own hydrogen engine cleaning brand, Rebooz([Money Today](https://www.mt.co.kr/industry/2024/08/08/2024080718214495862)). GED focuses on environmental protection and energy efficiency, with a business aligned to global carbon-neutral standards.
+The company built its own hydrogen engine cleaning brand, Rebooz. GED focuses on environmental protection and energy efficiency, with a business aligned to global carbon-neutral standards.
 
 ## Technology & Product
 
-Rebooz is a hydrogen-based engine carbon cleaning solution. It uses only water and electrolysis to generate hydrogen in real time, then injects it into the engine to burn off and remove built-up carbon. No chemical agents are used([Money Today](https://www.mt.co.kr/industry/2024/08/08/2024080718214495862)).
+Rebooz is a hydrogen-based engine carbon cleaning solution. It uses only water and electrolysis to generate hydrogen in real time, then injects it into the engine to burn off and remove built-up carbon. No chemical agents are used.
 
-The reported effects are a large drop in exhaust gas, up to 80%, along with better fuel efficiency([Nate News](https://news.nate.com/view/20250617n00854)).
+The reported effects are a large drop in exhaust gas, up to 80%, along with better fuel efficiency.
 
 ## Market & Use Cases
 
@@ -31,8 +31,8 @@ The technology targets owners and operators of combustion-engine vehicles who ne
 
 ## Traction & References
 
-- GED holds more than 130 patents and core technologies in areas such as EV wireless charging and mobility, building a strong technical barrier([Nate News](https://news.nate.com/view/20250617n00854)).
-- Rebooz was selected for the UAE "Future 100" as an innovative renewable-energy technology, and GED has secured references across Korea, the Middle East, Europe, and North America([Nate News](https://news.nate.com/view/20250617n00854)).
+- GED holds more than 130 patents and core technologies in areas such as EV wireless charging and mobility, building a strong technical barrier([Donga Ilbo](https://www.donga.com/news/Economy/article/all/20250616/131803503/2)).
+- Rebooz was selected for the UAE "Future 100" as an innovative renewable-energy technology, and GED has secured references across Korea, the Middle East, Europe, and North America([Donga Ilbo](https://www.donga.com/news/Economy/article/all/20250616/131803503/2)).
 - GED is expanding across Asia, with market entries in Japan, Indonesia, and Vietnam([Money Today](https://www.mt.co.kr/industry/2024/08/08/2024080718214495862)).
 - GED was selected for the 2026 Gangnam-gu Test Bed program.
 

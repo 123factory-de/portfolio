@@ -5,7 +5,7 @@ draft: false
 description: "MK Solar recovers and regenerates rare earth metals from industrial waste using eco-friendly urban mining technology."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Advanced Manufacturing"]
-tags: ["rare earth recycling", "urban mining", "permanent magnet", "waste acid recovery", "circular economy"]
+tags: ["rare earth recycling", "urban mining", "permanent magnet", "waste acid recovery", "circular economy", "Gangnam-gu Testbed"]
 website: "http://www.mksolar.co.kr"
 founded: "2010"
 ceo: "Jin-seon Lee"
@@ -33,7 +33,7 @@ Useful pilot settings include factory waste streams where rare earth recovery ca
 
 ## Traction & References
 
-MK Solar reports about KRW 1 billion in revenue from rare earth metal recycling and sales([Saramin](https://www.saramin.co.kr/zf_user/company-info/view/csn/MVd6NjUrSXJTLzFJekgvdE8vZ016QT09)). The company runs a dedicated R&D lab at the Asan Tangjeong Unicorn Knowledge Industry Center to advance its metal separation process.
+MK Solar has commercialized rare earth metal recycling and sales, and generates revenue from this business. The company runs a dedicated R&D lab at the Asan Tangjeong Unicorn Knowledge Industry Center to advance its metal separation process.
 
 MK Solar was selected for the 2026 Gangnam-gu Test-Bed program, which supports pilot deployment of its technology.
 

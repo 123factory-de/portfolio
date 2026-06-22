@@ -5,7 +5,7 @@ draft: false
 description: "틴커는 AI 초개인화로 남성에게 어울리는 스타일을 찾아주는 큐레이션 스타일링 커머스입니다."
 industries: ["Consumer Products and Services", "Information Technology"]
 verticals: ["Ecommerce", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["남성 패션", "스타일링 플랫폼", "큐레이션 커머스", "초개인화"]
+tags: ["남성 패션", "스타일링 플랫폼", "큐레이션 커머스", "초개인화", "Gangnam-gu Testbed"]
 website: "http://www.tinker.style"
 founded: "2022"
 ceo: "김태억"
@@ -15,13 +15,13 @@ logo: "logo.png"
 
 ## 회사 개요
 
-틴커는 30~40대 남성을 위한 큐레이션 스타일링 커머스입니다. 남성의 일상적인 패션 고민을 해결하고 각자에게 어울리는 스타일을 찾아줍니다. 쿠팡과 스타일리스트 출신 멤버들이 모여 남성 스타일의 새로운 기준을 만들어 갑니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+틴커는 30~40대 남성을 위한 큐레이션 스타일링 커머스입니다. 남성의 일상적인 패션 고민을 해결하고 각자에게 어울리는 스타일을 찾아줍니다. 쿠팡과 스타일리스트 출신 멤버들이 모여 남성 스타일의 새로운 기준을 만들어 갑니다.
 
 ## 기술 및 제품
 
-[틴커](http://www.tinker.style)는 끝없는 상품 목록을 직접 뒤지게 하는 대신 남성 의류와 코디 전체를 큐레이션합니다. 서비스의 핵심은 사용자의 프로필과 스타일 니즈에 맞춰 상품을 추천하는 AI 초개인화입니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+[틴커](http://www.tinker.style)는 끝없는 상품 목록을 직접 뒤지게 하는 대신 남성 의류와 코디 전체를 큐레이션합니다. 서비스의 핵심은 사용자의 프로필과 스타일 니즈에 맞춰 상품을 추천하는 AI 초개인화입니다.
 
-스타일 인플루언서와 함께하는 '스타일버디샵'도 운영해, 믿을 만한 큐레이터가 완성한 코디를 그대로 쇼핑할 수 있습니다([틴커](http://www.tinker.style)). 상품군은 아우터, 상의, 하의, 신발, 액세서리를 아우릅니다.
+스타일 인플루언서와 함께하는 '스타일버디샵'도 운영해, 믿을 만한 큐레이터가 완성한 코디를 그대로 쇼핑할 수 있습니다. 상품군은 아우터, 상의, 하의, 신발, 액세서리를 아우릅니다.
 
 ## 시장 및 활용 분야
 
@@ -31,9 +31,9 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-2023년 7월 중소벤처기업부 TIPS에 선정되었으며, 운영기관은 본엔젤스벤처파트너스입니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+2023년 7월 중소벤처기업부 TIPS에 선정되었으며, 운영기관은 본엔젤스벤처파트너스입니다.
 
-2026년 강남구 테스트베드 사업 대상 기업에도 선정되었습니다. 팀에는 쿠팡과 전문 스타일링 분야 경력을 가진 멤버들이 함께합니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+2026년 강남구 테스트베드 사업 대상 기업에도 선정되었습니다. 팀에는 쿠팡과 전문 스타일링 분야 경력을 가진 멤버들이 함께합니다.
 
 ## 협업 가능성
 

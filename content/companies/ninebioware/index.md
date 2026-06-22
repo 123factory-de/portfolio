@@ -19,7 +19,7 @@ NineBioWare is an AI diagnostics company focused on the early detection of neuro
 
 ## Technology & Product
 
-The platform combines the FluometricDX reader, a fluorescence-based biosensing device, with the FluoreArray microfluidic cartridge and machine-learning analysis to run ultra-sensitive blood diagnostics. Public patent disclosures outline the company's development of spiral microfluidic detection platforms and biomolecule detection devices using stretchable materials. These hardware platforms are designed to capture and analyze fluid samples via antibody-binding complexes, supporting the extraction of complex biomarker profiles for AI analysis.
+The platform combines the FluometricDX reader, a fluorescence-based biosensing device, with the FluoreArray microfluidic cartridge and machine-learning analysis to run ultra-sensitive blood diagnostics. The company is developing spiral microfluidic detection platforms and biomolecule detection devices that use stretchable materials. These platforms capture and analyze fluid samples via antibody-binding complexes to extract complex biomarker profiles for AI analysis.
 
 ## Market & Use Cases
 

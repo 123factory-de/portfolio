@@ -5,7 +5,7 @@ draft: false
 description: "엠케이솔라는 친환경 도시광산 기술로 산업 폐기물에서 희토류 금속을 회수·재생합니다."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Advanced Manufacturing"]
-tags: ["rare earth recycling", "urban mining", "permanent magnet", "waste acid recovery", "circular economy"]
+tags: ["rare earth recycling", "urban mining", "permanent magnet", "waste acid recovery", "circular economy", "Gangnam-gu Testbed"]
 website: "http://www.mksolar.co.kr"
 founded: "2010"
 ceo: "이진선"
@@ -33,7 +33,7 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-희토류 금속 재생 및 판매로 약 10억 원의 매출을 기록하고 있습니다([Saramin](https://www.saramin.co.kr/zf_user/company-info/view/csn/MVd6NjUrSXJTLzFJekgvdE8vZ016QT09)). 아산 탕정 유니콘지식산업센터에 연구소를 두고 금속 분리 공정을 고도화하고 있습니다.
+희토류 금속 재생·판매를 상업화해 매출을 내고 있습니다. 아산 탕정 유니콘지식산업센터에 연구소를 두고 금속 분리 공정을 고도화하고 있습니다.
 
 2026년 강남구 테스트베드 사업 지원 대상 기업으로 선정되어 기술 실증을 진행합니다.
 

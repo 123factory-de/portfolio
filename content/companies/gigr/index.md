@@ -5,7 +5,7 @@ draft: false
 description: "GIGR builds Playad, a multi-agent AI platform that plans, creates, tests, and optimizes ad creative."
 industries: ["Information Technology"]
 verticals: ["Adtech", "Artificial Intelligence & Machine Learning (AI/ML)", "Marketing Tech", "Gaming"]
-tags: ["Playad", "multi-agent AI", "ad creative", "generative AI"]
+tags: ["Playad", "multi-agent AI", "ad creative", "generative AI", "Gangnam-gu Testbed"]
 website: "https://playad.ai/"
 founded: "2024"
 ceo: "Jae-yeon Cho"
@@ -23,7 +23,7 @@ The goal is to remove the high cost and long lead time of traditional creative p
 
 Playad is a multi-agent AI platform for marketing creative. It takes campaign performance data, then plans and generates new ad assets such as video, images, and banners. It feeds these assets back into the ad system and learns from the results.
 
-Playad is built as an AI-native creative platform. It started with interactive advertising and expanded to images and video. The product launched in the third quarter of 2025([Venture Square](https://www.venturesquare.net/1035292)).
+Playad is built as an AI-native creative platform. It started with interactive advertising and expanded to images and video. The product launched in the third quarter of 2025.
 
 ## Market & Use Cases
 

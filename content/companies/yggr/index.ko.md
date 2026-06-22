@@ -1,21 +1,21 @@
 ---
-title: "레이지요거트"
+title: "와이지지알"
 date: 2026-06-22
 draft: false
-description: "레이지요거트는 72시간 유청 필터링과 자체 제조 시설로 프리미엄 그릭요거트를 생산하는 브랜드입니다."
+description: "72시간 유청 필터링과 자체 제조 시설로 프리미엄 그릭요거트 브랜드 '레이지요거트'를 운영하는 F&B 기업입니다."
 industries: ["Consumer Products and Services"]
 verticals: ["Foodtech"]
-tags: ["Greek yogurt", "72-hour whey straining", "F&B brand", "YGGR", "FOROOTS"]
+tags: ["Greek yogurt", "72-hour whey straining", "F&B brand", "YGGR", "FOROOTS", "Gangnam-gu Testbed"]
 website: "https://www.lazyyogurt.com"
 founded: "2024"
 ceo: "김영찬"
 headquarters: "서울, 한국"
-logo: "logo.png"
+logo: ""
 ---
 
 ## 회사 개요
 
-레이지요거트(Lazy Yogurt)는 주식회사 와이지지알(YGGR Corp.)이 운영하는 프리미엄 그릭요거트 브랜드입니다. 1등급 원유와 유산균을 사용해 72시간 동안 유청을 천천히 걸러내며, 단백질 함량이 높고 진한 요거트를 만듭니다([Lazy Yogurt](https://www.lazyyogurt.com)).
+레이지요거트(Lazy Yogurt)는 주식회사 와이지지알(YGGR Corp.)이 운영하는 프리미엄 그릭요거트 브랜드입니다. 1등급 원유와 유산균을 사용해 72시간 동안 유청을 천천히 걸러내며, 단백질 함량이 높고 진한 요거트를 만듭니다.
 
 모회사는 소비자 F&B 브랜드를 직접 개발하고 운영합니다. 레이지요거트와 함께 인플루언서 마케팅 플랫폼 포루츠(FOROOTS), 일본 감성 큐레이션 미디어를 운영하며, 제조와 브랜드·마케팅 채널을 연결한 포트폴리오를 구축하고 있습니다.
 
@@ -23,17 +23,17 @@ logo: "logo.png"
 
 핵심 제품은 [레이지요거트](https://www.lazyyogurt.com) 그릭요거트입니다. 72시간 유청 필터링 공법으로 단백질 농도를 높이고 쫀득하고 꾸덕한 질감을 구현합니다. 보존제와 인공 착색료를 쓰지 않으며, 플레인·가향·반려동물용 라인을 갖추고 있습니다.
 
-서울 성수동에 자체 제조 시설을 두고 대량 양산과 리테일 유통을 진행합니다. 또한 자체 인플루언서 마케팅 플랫폼 포루츠를 운영하며 국내외 브랜드 성장을 지원합니다([Linkareer](https://www.linkareer.com)).
+서울 성수동에 자체 제조 시설을 두고 대량 양산과 리테일 유통을 진행합니다. 또한 자체 인플루언서 마케팅 플랫폼 포루츠를 운영하며 국내외 브랜드 성장을 지원합니다.
 
 ## 시장 및 활용 분야
 
-주요 고객은 고단백·클린라벨 요거트를 찾는 건강 지향 소비자입니다. 직영점, 온라인몰, 네이버 스마트스토어를 통해 판매하며 단체 케이터링과 B2B 제휴 프로그램도 운영합니다([Lazy Yogurt](https://www.lazyyogurt.com)).
+주요 고객은 고단백·클린라벨 요거트를 찾는 건강 지향 소비자입니다. 직영점, 온라인몰, 네이버 스마트스토어를 통해 판매하며 단체 케이터링과 B2B 제휴 프로그램도 운영합니다.
 
 프리미엄 그릭요거트 수요가 늘고 있는 국내외 시장에서 리테일·프랜차이즈 확장에도 적합한 브랜드입니다.
 
 ## 성과 및 레퍼런스
 
-서울 직영점 외에 일본 오사카 난바와 나카자키초에 2개 매장을 포함해 총 4개 오프라인 매장을 운영합니다([Lazy Yogurt](https://www.lazyyogurt.com)). 일본 시장 확대를 위해 마스터 프랜차이즈 구조를 추진하고 있습니다([Linkareer](https://www.linkareer.com)).
+서울 직영점 외에 일본 오사카 난바와 나카자키초에 2개 매장을 포함해 총 4개 오프라인 매장을 운영합니다([Lazy Yogurt](https://www.lazyyogurt.com)). 일본 시장 확대를 위해 마스터 프랜차이즈 구조를 추진하고 있습니다.
 
 성수동에 자체 제조 시설을 구축하고 HACCP 식품안전 인증을 획득했습니다([KingoSpring](http://www.kingospring.com)). 액셀러레이터 킹고스프링으로부터 시드 투자를 유치했고, 민간투자 연계형 매칭융자(LIPS)를 승인받았습니다([KingoSpring](http://www.kingospring.com)). 2026년 강남구 테스트베드 사업 지원 대상 기업으로도 선정되었습니다.
 

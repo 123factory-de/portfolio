@@ -5,7 +5,7 @@ draft: false
 description: "Nota AI optimizes AI models for hardware and runs on-device vision intelligence for edge devices, transport, and safety."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
-tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI"]
+tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI", "Gangnam-gu Testbed"]
 website: "https://www.kr.nota.ai/"
 founded: "2015"
 ceo: "Myung-su Chae"
@@ -17,7 +17,7 @@ logo: "logo.png"
 
 Nota AI is a Korean company that makes AI models smaller and faster so they can run on edge devices. Its core platform, NetsPresso, optimizes models for specific hardware. On top of this, Nota AI builds on-device vision intelligence products for smart cities, transportation, and industrial safety.
 
-The company started in 2015 and is now listed on the KOSDAQ market([DART](https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=01810477)). It operates from a Daejeon headquarters with additional offices in Seoul, Sunnyvale, and Berlin.
+The company started in 2015 and is now listed on the KOSDAQ market. It operates from a Daejeon headquarters with additional offices in Seoul, Sunnyvale, and Berlin.
 
 ## Technology & Product
 
@@ -33,7 +33,7 @@ Typical use cases include license plate recognition, pedestrian and fall detecti
 
 ## Traction & References
 
-Cumulative patent filings are 215 and registered patents are 108([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). Revenue grew from KRW 3.6 billion in 2023 to KRW 8.4 billion in 2024([IT Donga](https://www.donga.com/en/article/all/20251017/5906752/1)).
+Cumulative patent filings are 215 and registered patents are 108([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). Revenue grew from KRW 8.4 billion in 2024 to KRW 13.1 billion in 2025([Sisa Journal-e](https://www.sisajournal-e.com/news/articleView.html?idxno=419174)).
 
 Nota AI works with global semiconductor companies including NVIDIA, Qualcomm, Samsung Electronics, Renesas, Sony, MediaTek, and NXP([Nota AI](https://www.nota.ai/aboutus)). It was selected for CB Insights' 2025 AI 100 and won a 2024 Minister of SMEs and Startups award([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). In 2025 it signed a supply contract with Dubai's Roads and Transport Authority for a generative-AI traffic solution([Nota AI ITS](https://www.kr.nota.ai/ai-solutions-its)). The company is registered on the DIPS1000+ deep-tech list and was a 2017 TIPS startup([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
 

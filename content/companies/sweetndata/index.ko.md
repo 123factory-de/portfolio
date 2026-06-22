@@ -5,7 +5,7 @@ draft: false
 description: "스위트앤데이터는 팬이 직접 초개인화 콘텐츠를 만드는 IP 기반 AI 솔루션으로 팬덤 시장을 공략합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-tags: ["엔터테크", "팬덤", "휴먼 AI 트윈", "AI 포토부스", "PhotoSweet"]
+tags: ["엔터테크", "팬덤", "휴먼 AI 트윈", "AI 포토부스", "PhotoSweet", "Gangnam-gu Testbed"]
 website: "https://sweetndata.co.kr/"
 founded: "2022"
 ceo: "안재관"
@@ -15,13 +15,13 @@ logo: "logo.svg"
 
 ## 회사 개요
 
-스위트앤데이터는 엔터테크 분야의 초개인화 콘텐츠·IP 기업입니다. 팬이 자신이 좋아하는 인물과 브랜드를 중심으로 직접 콘텐츠를 만들 수 있는 IP 기반 AI 솔루션을 제공합니다. 팬덤 시장에 새로운 개인화 경험을 더하는 것이 핵심입니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+스위트앤데이터는 엔터테크 분야의 초개인화 콘텐츠·IP 기업입니다. 팬이 자신이 좋아하는 인물과 브랜드를 중심으로 직접 콘텐츠를 만들 수 있는 IP 기반 AI 솔루션을 제공합니다. 팬덤 시장에 새로운 개인화 경험을 더하는 것이 핵심입니다.
 
 ## 기술 및 제품
 
-[스위트앤데이터](https://sweetndata.co.kr/)는 독자적인 '휴먼 AI 트윈' 기술로 팬이 자신만의 IP 콘텐츠를 생성하도록 합니다. AI 포토부스, 팬카드 같은 초개인화 서비스를 제공하며, 연예기획사와 MCN이 팬과 소통하는 데 활용할 수 있습니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+[스위트앤데이터](https://sweetndata.co.kr/)는 독자적인 '휴먼 AI 트윈' 기술로 팬이 자신만의 IP 콘텐츠를 생성하도록 합니다. AI 포토부스, 팬카드 같은 초개인화 서비스를 제공하며, 연예기획사와 MCN이 팬과 소통하는 데 활용할 수 있습니다.
 
-자사 사이트에서는 PhotoSweet, 팝업스토어 경험, 바우처 도구 등 제품화된 서비스를 선보입니다([스위트앤데이터](https://sweetndata.co.kr/)). 이를 통해 AI로 생성한 콘텐츠를 행사장과 리테일 공간의 실제 팬 접점과 연결합니다.
+자사 사이트에서는 PhotoSweet, 팝업스토어 경험, 바우처 도구 등 제품화된 서비스를 선보입니다. 이를 통해 AI로 생성한 콘텐츠를 행사장과 리테일 공간의 실제 팬 접점과 연결합니다.
 
 ## 시장 및 활용 분야
 
@@ -31,7 +31,7 @@ logo: "logo.svg"
 
 ## 성과 및 레퍼런스
 
-2024년 12월 중소벤처기업부 TIPS에 선정되었으며, 운영기관은 씨엔티테크입니다([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+2024년 12월 중소벤처기업부 TIPS에 선정되었으며, 운영기관은 씨엔티테크입니다.
 
 프로젝트 포트폴리오에는 롯데컬처웍스, SM컬처파트너스, 스타필드, 롯데시네마 베트남 등 기업·문화 파트너와의 협업이 포함됩니다([스위트앤데이터](https://sweetndata.co.kr/)). 2026년 강남구 테스트베드 사업 대상 기업에도 선정되었습니다.
 

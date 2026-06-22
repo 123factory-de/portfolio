@@ -5,7 +5,7 @@ draft: false
 description: "VISIONSPACE builds digital twin and Physical AI software that simulates and monitors factory and logistics automation."
 industries: ["Information Technology", "Business Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing", "Robotics & Drones", "Supply Chain Technology"]
-tags: ["TESSERACT", "TARS", "digital twin", "Physical AI", "robot simulation"]
+tags: ["TESSERACT", "TARS", "digital twin", "Physical AI", "robot simulation", "Gangnam-gu Testbed"]
 website: "https://visionspace.co.kr/index.html"
 founded: "2023"
 ceo: "Won-seok Choi"
@@ -15,15 +15,15 @@ logo: "logo.png"
 
 ## Company Overview
 
-VISIONSPACE builds digital twin and Physical AI software for factory and logistics automation. The platform turns a real site into a virtual model, then uses AI simulation and real-time 3D monitoring to design and run automation. The company describes its tools as an all-in-one digital twin solution that supports projects from planning to operation([VISIONSPACE](https://visionspace.co.kr/index.html)).
+VISIONSPACE builds digital twin and Physical AI software for factory and logistics automation. The platform turns a real site into a virtual model, then uses AI simulation and real-time 3D monitoring to design and run automation. The company describes its tools as an all-in-one digital twin solution that supports projects from planning to operation.
 
 The company was founded in 2023 and is based in Seongnam, with a Seoul branch. Its two core products are TESSERACT and TARS.
 
 ## Technology & Product
 
-[TESSERACT](https://visionspace.co.kr/solutions.html) is a Physical AI robot simulator built on digital twin technology. It designs and tests space layout, robot placement, equipment flow, and operating scenarios in a virtual environment. Its own engine can generate a 3D simulation from drawings and images alone, which lets teams validate an automation plan before going live. The product page reports up to 23 percent lower development and operating cost, around 30 percent OEE improvement, up to 25 percent shorter cycle time, and up to 80 percent fewer delays or failures([VISIONSPACE Solutions](https://visionspace.co.kr/solutions.html)).
+[TESSERACT](https://visionspace.co.kr/solutions.html) is a Physical AI robot simulator built on digital twin technology. It designs and tests space layout, robot placement, equipment flow, and operating scenarios in a virtual environment. Its own engine can generate a 3D simulation from drawings and images alone, which lets teams validate an automation plan before going live. The product page reports up to 23 percent lower development and operating cost, around 30 percent OEE improvement, up to 25 percent shorter cycle time, and up to 80 percent fewer delays or failures.
 
-[TARS](https://visionspace.co.kr/solutions.html) is a low-latency AI control system that links robots, equipment, and existing systems. It moves beyond simple monitoring to AI-based autonomous control and integrated management, with real-time 3D monitoring of the whole site. The platform also includes an AI 3D generator and a DB engine that connects to a customer's existing APIs for real-time data collection and analysis([VISIONSPACE](https://visionspace.co.kr/index.html)).
+[TARS](https://visionspace.co.kr/solutions.html) is a low-latency AI control system that links robots, equipment, and existing systems. It moves beyond simple monitoring to AI-based autonomous control and integrated management, with real-time 3D monitoring of the whole site. The platform also includes an AI 3D generator and a DB engine that connects to a customer's existing APIs for real-time data collection and analysis.
 
 ## Market & Use Cases
 

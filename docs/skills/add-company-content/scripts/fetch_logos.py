@@ -56,7 +56,6 @@ companies = [
     ("globaleur", "https://www.globaleur.com/"),
     ("ged", "http://www.gedkorea.com/"),
     ("mk-solar", "http://www.mksolar.co.kr/"),
-    ("lazy-yogurt", "https://www.lazyyogurt.com/"),
     ("p2ach-ai", "https://p2ach.ai/"),
     ("nota-ai", "https://www.kr.nota.ai/"),
     ("visionspace", "https://visionspace.co.kr/"),

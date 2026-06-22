@@ -5,7 +5,7 @@ draft: false
 description: "Tinker is a men's styling and curation commerce platform that uses AI personalization to help men dress better."
 industries: ["Consumer Products and Services", "Information Technology"]
 verticals: ["Ecommerce", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["mens fashion", "styling platform", "curation commerce", "personalization"]
+tags: ["mens fashion", "styling platform", "curation commerce", "personalization", "Gangnam-gu Testbed"]
 website: "http://www.tinker.style"
 founded: "2022"
 ceo: "Kim Tae-eok"
@@ -15,13 +15,13 @@ logo: "logo.png"
 
 ## Company Overview
 
-Tinker is a styling and curation commerce platform for men in their 30s and 40s. It helps men solve everyday fashion problems and find a look that suits them. The team combines retail and stylist experience to set a clearer standard for men's style([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+Tinker is a styling and curation commerce platform for men in their 30s and 40s. It helps men solve everyday fashion problems and find a look that suits them. The team combines retail and stylist experience to set a clearer standard for men's style.
 
 ## Technology & Product
 
-[Tinker](http://www.tinker.style) curates men's clothing and full outfits instead of leaving users to browse endless product lists. The service is built around AI personalization that matches items to each user's profile and style needs([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+[Tinker](http://www.tinker.style) curates men's clothing and full outfits instead of leaving users to browse endless product lists. The service is built around AI personalization that matches items to each user's profile and style needs.
 
-The platform also works with style influencers through a curated "Style Buddy Shop", so users can shop looks put together by trusted curators([Tinker](http://www.tinker.style)). The catalog covers outerwear, tops, bottoms, footwear, and accessories.
+The platform also works with style influencers through a curated "Style Buddy Shop", so users can shop looks put together by trusted curators. The catalog covers outerwear, tops, bottoms, footwear, and accessories.
 
 ## Market & Use Cases
 
@@ -31,9 +31,9 @@ Curation commerce fits this segment well, because many male shoppers prefer guid
 
 ## Traction & References
 
-Tinker was selected for the Ministry of SMEs and Startups TIPS program in July 2023, with Bon Angels Venture Partners as the operating partner([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+Tinker was selected for the Ministry of SMEs and Startups TIPS program in July 2023, with Bon Angels Venture Partners as the operating partner.
 
-The company was also selected for the 2026 Gangnam-gu test-bed program. The team includes members with backgrounds at Coupang and in professional styling([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=2487&sfl=wr_26&stx=2023&page=20)).
+The company was also selected for the 2026 Gangnam-gu test-bed program. The team includes members with backgrounds at Coupang and in professional styling.
 
 ## Collaboration Relevance
 

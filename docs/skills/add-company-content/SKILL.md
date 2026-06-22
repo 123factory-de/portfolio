@@ -134,6 +134,11 @@ Tone:
 - Link concrete proof points to relevant sources when available: official history pages, company pages, investor profiles, award pages, press articles, certification pages, or trusted startup databases.
 - Prefer official company pages for product and technology explanations. Use third-party links for funding, awards, selections, and press-reported traction when official pages do not cover the specific proof point.
 - Add links inline where they help the reader verify the claim. Do not create a long source dump at the end of the page.
+- **Link placement by section** — concentrate links in `Traction & References` / `성과 및 레퍼런스`, with one exception:
+  - `Company Overview`, `Market & Use Cases`, `Collaboration Relevance` (and `회사 개요`, `시장 및 활용 분야`, `협업 가능성`): no inline links. These sections are the author's synthesis, not claims that need external validation, and the homepage is already in the facts block `website`.
+  - `Technology & Product` / `기술 및 제품`: only a navigational product/technology deep-link on the product name (per the rule above). Do not add parenthetical source citations here.
+  - `Traction & References` / `성과 및 레퍼런스`: this is where source links live — funding, awards, certifications, customers, programs, IP.
+  - Never cite the company's own root homepage (e.g. `([Company](https://company.com))`) as a source anywhere; it is redundant with the `website` field. Deep product/solution pages are fine in `Technology & Product`.
 - In `Collaboration Relevance` / `협업 가능성`, include collaboration-relevant details when supported by source material: likely partner types, PoC use cases, market-entry angles, integration points, supply chain relevance, or Korea-Europe fit.
 - If information is uncertain, avoid turning it into a firm claim. Either omit it or state the uncertainty briefly in plain language.
 - Do not include a "Fit With 123factory" section.

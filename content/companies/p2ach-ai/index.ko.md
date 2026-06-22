@@ -5,7 +5,7 @@ draft: false
 description: "피치에이아이는 온디바이스 비전 AI로 옥외광고와 리테일 미디어의 광고 효과를 측정합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-tags: ["edge AI", "vision AI", "DOOH", "retail media", "on-device analytics"]
+tags: ["edge AI", "vision AI", "DOOH", "retail media", "on-device analytics", "Gangnam-gu Testbed"]
 website: "https://p2ach.ai"
 founded: "2021"
 ceo: "이동열"
@@ -15,13 +15,13 @@ logo: "logo.svg"
 
 ## 회사 개요
 
-피치에이아이(P2ACH AI)는 비전 AI와 엣지 컴퓨팅으로 오프라인 공간을 측정 가능한 광고 매체로 바꿉니다. 영상을 기기 자체에서 비식별 메타데이터로 분석하기 때문에, 원본 영상이 센서 밖으로 나가지 않습니다([P2ACH AI](https://p2ach.ai)).
+피치에이아이(P2ACH AI)는 비전 AI와 엣지 컴퓨팅으로 오프라인 공간을 측정 가능한 광고 매체로 바꿉니다. 영상을 기기 자체에서 비식별 메타데이터로 분석하기 때문에, 원본 영상이 센서 밖으로 나가지 않습니다.
 
 이 온디바이스 방식은 카메라 영상을 중앙 서버로 전송할 때 발생하는 개인정보 리스크를 없앱니다. 덕분에 광고주와 리테일러는 옥외광고와 매장 미디어에서 실제 주목도와 반응을 측정할 수 있습니다.
 
 ## 기술 및 제품
 
-[피치에이아이 플랫폼](https://p2ach.ai)은 엣지 AI 박스 위에서 여러 모듈을 결합해 동작합니다. 관객 분석 모듈은 방문객의 연령과 성별을 비식별 방식으로 추정합니다. Re-ID 기술은 여러 카메라에 걸친 이동을 추적해 중복 없이 순방문자를 집계합니다. 실시간 타겟팅은 화면 앞에 있는 사람에 맞춰 콘텐츠를 송출합니다([P2ACH AI](https://p2ach.ai)).
+[피치에이아이 플랫폼](https://p2ach.ai)은 엣지 AI 박스 위에서 여러 모듈을 결합해 동작합니다. 관객 분석 모듈은 방문객의 연령과 성별을 비식별 방식으로 추정합니다. Re-ID 기술은 여러 카메라에 걸친 이동을 추적해 중복 없이 순방문자를 집계합니다. 실시간 타겟팅은 화면 앞에 있는 사람에 맞춰 콘텐츠를 송출합니다.
 
 리테일 환경에서는 스마트 선반·재고 분석, 동선 히트맵, 데이터를 최적화 제안으로 바꿔주는 AI 에이전트가 더해집니다. 옥외광고(DOOH)에서는 몇 명이 광고를 얼마나 오래, 어느 정도 주목해서 보는지를 측정해 광고 성과를 정량화합니다.
 

@@ -5,7 +5,7 @@ draft: false
 description: "AI and physics-based platform that predicts material properties to speed up materials R&D."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing"]
-tags: ["physics-informed AI", "materials informatics", "computational chemistry"]
+tags: ["physics-informed AI", "materials informatics", "computational chemistry", "Gangnam-gu Testbed"]
 website: "https://www.lymeric.ai"
 founded: "2025"
 ceo: "Sukho Hong"
@@ -15,15 +15,15 @@ logo: ""
 
 ## Company Overview
 
-Lymeric builds AI software for materials research and development. The platform predicts material properties so R&D teams can find good candidates faster and rely less on costly lab experiments([Lymeric](https://www.lymeric.ai)).
+Lymeric builds AI software for materials research and development. The platform predicts material properties so R&D teams can find good candidates faster and rely less on costly lab experiments.
 
-The company combines machine learning, computational chemistry, and accumulated experimental data. This helps researchers work in fields where data is scarce or testing is expensive, such as batteries, displays, and semiconductors([Lymeric](https://www.lymeric.ai)).
+The company combines machine learning, computational chemistry, and accumulated experimental data. This helps researchers work in fields where data is scarce or testing is expensive, such as batteries, displays, and semiconductors.
 
 ## Technology & Product
 
-The core approach is physics-informed AI([Lymeric](https://www.lymeric.ai)). By adding physical rules to the models, Lymeric can predict reliable property values even with a small amount of experimental data.
+The core approach is physics-informed AI. By adding physical rules to the models, Lymeric can predict reliable property values even with a small amount of experimental data.
 
-The platform is built as a set of modules for materials R&D([Lymeric](https://www.lymeric.ai)):
+The platform is built as a set of modules for materials R&D:
 
 - Physics-informed property prediction.
 - Candidate screening to narrow down promising compositions.
@@ -33,7 +33,7 @@ This lets a research team move from molecular and nanoscale analysis to experime
 
 ## Market & Use Cases
 
-The main users are corporate and institutional materials R&D teams. Typical use cases include predicting and optimizing new compositions for battery cathode and anode materials, and predicting blended formulations for cosmetics active ingredients([Seoul AI Hub](https://seoulaihub.kr)).
+The main users are corporate and institutional materials R&D teams. Typical use cases include predicting and optimizing new compositions for battery cathode and anode materials, and predicting blended formulations for cosmetics active ingredients.
 
 The platform fits research areas where each experiment is slow and expensive. In these fields, better candidate prediction directly cuts development time and cost.
 

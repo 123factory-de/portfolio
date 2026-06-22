@@ -5,7 +5,7 @@ draft: false
 description: "노타는 하드웨어에 맞춰 AI 모델을 경량화·최적화하고, 엣지 디바이스와 교통·안전 분야에 온디바이스 영상지능을 제공합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
-tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI"]
+tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI", "Gangnam-gu Testbed"]
 website: "https://www.kr.nota.ai/"
 founded: "2015"
 ceo: "채명수"
@@ -17,7 +17,7 @@ logo: "logo.png"
 
 노타(Nota AI)는 AI 모델을 더 작고 빠르게 만들어 엣지 디바이스에서도 구동되도록 하는 한국 AI 기업입니다. 핵심 플랫폼 NetsPresso는 특정 하드웨어에 맞춰 모델을 최적화합니다. 이 기술을 바탕으로 스마트시티, 교통, 산업 안전 분야의 온디바이스 영상지능 제품을 함께 제공합니다.
 
-2015년에 설립됐고 현재 코스닥 상장사입니다([DART](https://englishdart.fss.or.kr/dsbc001/selectPopup.ax?selectKey=01810477)). 대전 본사를 중심으로 서울, 새너제이(Sunnyvale), 베를린에 사무소를 두고 있습니다.
+2015년에 설립됐고 현재 코스닥 상장사입니다. 대전 본사를 중심으로 서울, 서니베일, 베를린에 사무소를 두고 있습니다.
 
 ## 기술 및 제품
 
@@ -33,7 +33,7 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-누적 특허 출원은 215건, 등록 특허는 108건입니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 매출은 2023년 36억 원에서 2024년 84억 원으로 늘었습니다([IT동아](https://www.donga.com/en/article/all/20251017/5906752/1)).
+누적 특허 출원은 215건, 등록 특허는 108건입니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 매출은 2024년 84억 원에서 2025년 131억 원으로 늘었습니다([시사저널e](https://www.sisajournal-e.com/news/articleView.html?idxno=419174)).
 
 노타는 NVIDIA, 퀄컴, 삼성전자, 르네사스, 소니, 미디어텍, NXP 등 글로벌 반도체 기업과 협업하고 있습니다([Nota AI](https://www.nota.ai/aboutus)). CB Insights 2025 AI 100에 선정됐고, 2024년 중소벤처기업부 장관상을 받았습니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 2025년에는 두바이 교통국(RTA)과 생성형 AI 기반 교통 솔루션 공급 계약을 체결했습니다([Nota AI ITS](https://www.kr.nota.ai/ai-solutions-its)). DIPS1000+ 딥테크 목록에 등재돼 있으며 2017년 TIPS 지원 스타트업이기도 합니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
 

@@ -5,7 +5,7 @@ draft: false
 description: "기거는 광고 크리에이티브의 기획·제작·실험·최적화를 통합하는 멀티 에이전트 AI 플랫폼 '플레이애드'를 개발합니다."
 industries: ["Information Technology"]
 verticals: ["Adtech", "Artificial Intelligence & Machine Learning (AI/ML)", "Marketing Tech", "Gaming"]
-tags: ["Playad", "multi-agent AI", "ad creative", "generative AI"]
+tags: ["Playad", "multi-agent AI", "ad creative", "generative AI", "Gangnam-gu Testbed"]
 website: "https://playad.ai/"
 founded: "2024"
 ceo: "조재연"
@@ -23,7 +23,7 @@ logo: "logo.png"
 
 플레이애드는 마케팅 크리에이티브를 위한 멀티 에이전트 AI 플랫폼입니다. 캠페인 성과 데이터를 입력하면 반응이 좋은 영상, 이미지, 배너 등 새로운 광고 소재를 직접 기획하고 생성합니다. 생성한 소재는 광고 시스템에 다시 반영되고, 그 결과를 학습해 다음 소재에 활용합니다.
 
-플레이애드는 AI 네이티브 크리에이티브 플랫폼으로 설계됐습니다. 인터랙티브 광고에서 출발해 이미지와 영상까지 영역을 넓혔으며, 2025년 3분기에 정식 출시했습니다([벤처스퀘어](https://www.venturesquare.net/1035292)).
+플레이애드는 AI 네이티브 크리에이티브 플랫폼으로 설계됐습니다. 인터랙티브 광고에서 출발해 이미지와 영상까지 영역을 넓혔으며, 2025년 3분기에 정식 출시했습니다.
 
 ## 시장 및 활용 분야
 

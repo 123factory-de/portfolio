@@ -5,7 +5,7 @@ draft: false
 description: "SweetnData builds IP-based AI solutions that let fans create ultra-personalized content for the fandom market."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-tags: ["entertainment tech", "fandom", "Human AI Twin", "AI photo booth", "PhotoSweet"]
+tags: ["entertainment tech", "fandom", "Human AI Twin", "AI photo booth", "PhotoSweet", "Gangnam-gu Testbed"]
 website: "https://sweetndata.co.kr/"
 founded: "2022"
 ceo: "An Jae-kwan"
@@ -15,13 +15,13 @@ logo: "logo.svg"
 
 ## Company Overview
 
-SweetnData is an ultra-personalized content and IP company in entertainment tech. It builds IP-based AI solutions that help fans create their own content around the people and brands they follow. The main goal is to bring new personalized experiences to the fandom market([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+SweetnData is an ultra-personalized content and IP company in entertainment tech. It builds IP-based AI solutions that help fans create their own content around the people and brands they follow. The main goal is to bring new personalized experiences to the fandom market.
 
 ## Technology & Product
 
-[SweetnData](https://sweetndata.co.kr/) uses its own "Human AI Twin" technology to let fans generate personalized IP content. The company offers ultra-personalized services such as an AI photo booth and fan cards, which entertainment agencies and MCNs can use to engage their audiences([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+[SweetnData](https://sweetndata.co.kr/) uses its own "Human AI Twin" technology to let fans generate personalized IP content. The company offers ultra-personalized services such as an AI photo booth and fan cards, which entertainment agencies and MCNs can use to engage their audiences.
 
-On its site, the company presents productized services including PhotoSweet, pop-up store experiences, and voucher tools([SweetnData](https://sweetndata.co.kr/)). These connect AI-generated content with real fan touchpoints at events and retail spaces.
+On its site, the company presents productized services including PhotoSweet, pop-up store experiences, and voucher tools. These connect AI-generated content with real fan touchpoints at events and retail spaces.
 
 ## Market & Use Cases
 
@@ -31,7 +31,7 @@ Personalized IP content is well suited to Korea's strong entertainment and fando
 
 ## Traction & References
 
-SweetnData was selected for the Ministry of SMEs and Startups TIPS program in December 2024, with CNT Tech as the operating partner([TIPS](https://www.jointips.or.kr/bbs/board.php?bo_table=team&wr_id=3538&sfl=wr_26&stx=2024&page=2)).
+SweetnData was selected for the Ministry of SMEs and Startups TIPS program in December 2024, with CNT Tech as the operating partner.
 
 The company's project portfolio includes work with enterprises and cultural partners such as Lotte Culture Works, SM Culture Partners, Starfield, and Lotte Cinema Vietnam([SweetnData](https://sweetndata.co.kr/)). It was also selected for the 2026 Gangnam-gu test-bed program.
 

@@ -5,7 +5,7 @@ draft: false
 description: "비전스페이스는 제조·물류 자동화 현장을 디지털 트윈으로 구현하고 AI 시뮬레이션과 실시간 관제를 제공하는 Physical AI 기업입니다."
 industries: ["Information Technology", "Business Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing", "Robotics & Drones", "Supply Chain Technology"]
-tags: ["TESSERACT", "TARS", "digital twin", "Physical AI", "robot simulation"]
+tags: ["TESSERACT", "TARS", "digital twin", "Physical AI", "robot simulation", "Gangnam-gu Testbed"]
 website: "https://visionspace.co.kr/index.html"
 founded: "2023"
 ceo: "최원석"
@@ -15,15 +15,15 @@ logo: "logo.png"
 
 ## 회사 개요
 
-비전스페이스(VISIONSPACE)는 제조·물류 자동화 현장을 디지털 트윈으로 구현하는 Physical AI 기업입니다. 실제 현장을 가상 모델로 옮긴 뒤 AI 시뮬레이션과 실시간 3D 관제로 자동화를 설계하고 운영합니다. 기획 단계부터 운영까지 아우르는 올인원 디지털 트윈 솔루션입니다([VISIONSPACE](https://visionspace.co.kr/index.html)).
+비전스페이스(VISIONSPACE)는 제조·물류 자동화 현장을 디지털 트윈으로 구현하는 Physical AI 기업입니다. 실제 현장을 가상 모델로 옮긴 뒤 AI 시뮬레이션과 실시간 3D 관제로 자동화를 설계하고 운영합니다. 기획 단계부터 운영까지 아우르는 올인원 디지털 트윈 솔루션입니다.
 
 2023년에 설립됐으며 경기도 성남시에 본사를 두고 서울 지사를 운영합니다. 핵심 제품은 TESSERACT와 TARS입니다.
 
 ## 기술 및 제품
 
-[TESSERACT](https://visionspace.co.kr/solutions.html)는 디지털 트윈 기반의 Physical AI 로봇 시뮬레이터입니다. 자동화 공장과 물류센터의 공간, 로봇 배치, 설비 동선, 운영 시나리오를 가상 환경에서 설계하고 검증합니다. 도면과 이미지만으로 3D 시뮬레이션을 자동 생성하는 자체 엔진을 갖춰, 현장 투입 전에 운영 전략을 미리 점검할 수 있습니다. 개발·운영 비용을 최대 23% 절감하고, OEE를 약 30% 높이며, 공정 사이클 타임을 최대 25% 단축하고, 지연·장애를 최대 80%까지 줄입니다([VISIONSPACE Solutions](https://visionspace.co.kr/solutions.html)).
+[TESSERACT](https://visionspace.co.kr/solutions.html)는 디지털 트윈 기반의 Physical AI 로봇 시뮬레이터입니다. 자동화 공장과 물류센터의 공간, 로봇 배치, 설비 동선, 운영 시나리오를 가상 환경에서 설계하고 검증합니다. 도면과 이미지만으로 3D 시뮬레이션을 자동 생성하는 자체 엔진을 갖춰, 현장 투입 전에 운영 전략을 미리 점검할 수 있습니다. 개발·운영 비용을 최대 23% 절감하고, OEE를 약 30% 높이며, 공정 사이클 타임을 최대 25% 단축하고, 지연·장애를 최대 80%까지 줄입니다.
 
-[TARS](https://visionspace.co.kr/solutions.html)는 로봇, 장비, 기존 시스템을 연동하는 초저지연 AI 통합관제 솔루션입니다. 단순 모니터링을 넘어 AI 기반 자율 제어와 통합 관리를 제공하며, 현장 전체를 실시간 3D로 모니터링합니다. 여기에 AI 3D 생성 기능과 DB 엔진을 더해 고객의 기존 API와 연동하고 실시간 데이터 수집·분석을 지원합니다([VISIONSPACE](https://visionspace.co.kr/index.html)).
+[TARS](https://visionspace.co.kr/solutions.html)는 로봇, 장비, 기존 시스템을 연동하는 초저지연 AI 통합관제 솔루션입니다. 단순 모니터링을 넘어 AI 기반 자율 제어와 통합 관리를 제공하며, 현장 전체를 실시간 3D로 모니터링합니다. 여기에 AI 3D 생성 기능과 DB 엔진을 더해 고객의 기존 API와 연동하고 실시간 데이터 수집·분석을 지원합니다.
 
 ## 시장 및 활용 분야
 

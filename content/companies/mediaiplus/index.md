@@ -27,7 +27,7 @@ The primary market consists of early-stage pharmaceutical and biotech companies 
 
 ## Traction & References
 
-MediC provides a database built on over 700,000 processed and annotated clinical trial records globally. As of February 2026, FiCRO has secured a database of more than 29,700 CROs worldwide([Hankyung](https://www.hankyung.com/article/202602279169i)). According to the CEO, the platform reduces the clinical preparation time for client companies from roughly six months to about ten days, cutting costs significantly. The company holds CDISC Platinum certification and participated in the NEMIC healthtech accelerator program in the US in 2023. MEDIAIPLUS was also selected for the TIPS program and the IBK Changgong innovation program.
+MediC provides a database built on over 700,000 processed and annotated clinical trial records globally. As of February 2026, FiCRO has secured a database of more than 29,700 CROs worldwide([Hankyung](https://www.hankyung.com/article/202602279169i)). The company reports that the platform cuts clients' clinical preparation time from roughly six months to about ten days, with significant cost savings. The company holds CDISC Platinum certification and participated in the NEMIC healthtech accelerator program in the US in 2023. MEDIAIPLUS was also selected for the TIPS program and the IBK Changgong innovation program.
 
 ## Collaboration Relevance
 
