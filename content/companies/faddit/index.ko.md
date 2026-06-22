@@ -3,7 +3,8 @@ title: "패딧"
 date: 2026-06-10
 draft: false
 description: "패딧은 패션 디자인 스케치부터 CAD 패턴까지 이어지는 생산 업무를 자동화합니다."
-industries: ["AI", "Manufacturing"]
+industries: ["Information Technology"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Software as a Service (SaaS)"]
 tags: ["fashion tech", "pattern automation", "CAD", "circular fashion", "climatelaunchpad"]
 website: "https://faddit.co.kr/"
 founded: "2025"

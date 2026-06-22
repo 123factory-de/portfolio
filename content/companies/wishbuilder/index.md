@@ -3,7 +3,8 @@ title: "WISHBUILDER"
 date: 2026-06-10
 draft: false
 description: "Circular-resource startup connecting water treatment, sanitation, and low-carbon biomass fuel."
-industries: ["Sustainability", "Energy"]
+industries: ["Energy", "Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["water treatment", "biomass fuel", "circular resources", "carbon reduction", "climatelaunchpad"]
 website: "https://wishbuilder.co.kr/"
 ceo: "Hyojin Kim"

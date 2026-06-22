@@ -3,7 +3,8 @@ title: "스푸잉"
 date: 2026-06-10
 draft: false
 description: "무인 락커와 QR 출입을 활용한 캠퍼스 기반 공유 플랫폼입니다."
-industries: ["Sustainability", "AI"]
+industries: ["Consumer Products and Services"]
+verticals: ["Internet of Things (IoT)", "Mobile"]
 tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
 website: ""
 ceo: "신태영"

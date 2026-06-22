@@ -3,7 +3,8 @@ title: "Chingoohaja"
 date: 2026-06-10
 draft: false
 description: "Chingoohaja combines senior social connection with AI-based care monitoring."
-industries: ["Healthcare", "AI"]
+industries: ["Healthcare", "Consumer Products and Services"]
+verticals: ["Digital Health", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["senior care", "AI monitoring", "social connection", "climate resilience", "climatelaunchpad"]
 website: "https://www.chingoohaja.com/"
 founded: ""

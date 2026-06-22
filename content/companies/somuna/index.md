@@ -3,7 +3,8 @@ title: "Somuna"
 date: 2026-06-15
 draft: false
 description: "AI battery-controlled idle-free cold-chain system for refrigerated transport vehicles."
-industries: ["Energy", "Mobility", "Sustainability"]
+industries: ["Business Products and Services", "Energy"]
+verticals: ["Supply Chain Technology", "Cleantech"]
 tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
 website: "https://somuna.co.kr"
 founded: "2020"

@@ -3,7 +3,8 @@ title: "Datasketchers"
 date: 2026-06-10
 draft: false
 description: "Datasketchers builds AI tools that help suppliers manage ESG and compliance requirements."
-industries: ["AI", "Sustainability"]
+industries: ["Information Technology"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Supply Chain Technology"]
 tags: ["ESG compliance", "RAG", "supplier risk", "SaaS", "climatelaunchpad"]
 website: "https://data-sketchers.com/"
 founded: "2025"

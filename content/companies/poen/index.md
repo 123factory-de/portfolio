@@ -3,7 +3,8 @@ title: "POEN"
 date: 2026-06-15
 draft: false
 description: "Circular economy startup transforming used EV battery packs into new energy storage solutions."
-industries: ["Energy", "Sustainability"]
+industries: ["Energy", "Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["battery-recycling", "remanufacturing", "ev-battery", "circular-economy", "energy-storage", "KOSME PoC"]
 website: "https://poen.co.kr/en/"
 founded: "2019"

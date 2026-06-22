@@ -3,7 +3,8 @@ title: "SSenStone"
 date: 2026-06-10
 draft: false
 description: "Cybersecurity company using one-time dynamic authentication for users, devices, IoT, PLC, and OT environments."
-industries: ["Cybersecurity", "Manufacturing"]
+industries: ["Information Technology"]
+verticals: ["Cybersecurity", "Internet of Things (IoT)"]
 tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
 website: "https://www.ssenstone.com/en/"
 founded: ""

@@ -3,7 +3,8 @@ title: "BANF"
 date: 2026-06-10
 draft: false
 description: "Intelligent tire system company combining tire-mounted sensors, wireless power, and fleet data analytics."
-industries: ["Mobility", "AI"]
+industries: ["Business Products and Services", "Information Technology"]
+verticals: ["Internet of Things (IoT)", "Mobility Tech", "Big Data"]
 tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
 website: "https://banf.ai/en"
 founded: "December 18, 2020"

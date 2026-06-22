@@ -3,7 +3,8 @@ title: "LESAUT"
 date: 2026-06-10
 draft: false
 description: "LESAUT makes sustainable fashion accessories with vegan and recycled materials."
-industries: ["Sustainability", "Materials"]
+industries: ["Consumer Products and Services"]
+verticals: ["Lifestyles of Health and Sustainability (LOHAS) & Wellness", "Cleantech"]
 tags: ["sustainable fashion", "recycled fabric", "vegan materials", "circular fashion", "climatelaunchpad"]
 website: "https://www.le-saut.com/44"
 founded: ""

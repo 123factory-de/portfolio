@@ -3,7 +3,8 @@ title: "Klio Design"
 date: 2026-06-10
 draft: false
 description: "모빌리티, 제품, 서비스 경험을 설계하는 디자인 스튜디오입니다."
-industries: ["Mobility", "Sustainability"]
+industries: ["Business Products and Services"]
+verticals: ["Mobility Tech"]
 tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014년"

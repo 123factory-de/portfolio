@@ -3,7 +3,8 @@ title: "하트플래닛컴퍼니"
 date: 2026-06-10
 draft: false
 description: "하트플래닛컴퍼니는 자세, 균형, 보행 데이터를 측정하는 스마트 양말과 섬유 센서를 개발합니다."
-industries: ["Healthcare", "Sustainability"]
+industries: ["Healthcare", "Consumer Products and Services"]
+verticals: ["Wearables & Quantified Self", "Digital Health"]
 tags: ["smart socks", "textile sensor", "wearable", "circular economy", "climatelaunchpad"]
 website: ""
 founded: ""

@@ -3,7 +3,8 @@ title: "DAY1LAB"
 date: 2026-06-10
 draft: false
 description: "해조류 유래 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."
-industries: ["Bio", "Materials"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
 website: "https://day1-lab.com/en/"
 founded: "2021"

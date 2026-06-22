@@ -3,7 +3,8 @@ title: "RightRoute"
 date: 2026-06-10
 draft: false
 description: "Recycling technology company turning EV battery separator waste into high-value TEXNIC fabrics and yarns."
-industries: ["Battery", "Materials"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
 website: "https://texnic.kr"
 founded: "2016"

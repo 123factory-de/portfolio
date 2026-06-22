@@ -3,7 +3,8 @@ title: "Spoing"
 date: 2026-06-10
 draft: false
 description: "Campus sharing platform using smart lockers and QR access to reduce short-term purchases."
-industries: ["Sustainability", "AI"]
+industries: ["Consumer Products and Services"]
+verticals: ["Internet of Things (IoT)", "Mobile"]
 tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
 website: ""
 ceo: "Tae Young Shin"

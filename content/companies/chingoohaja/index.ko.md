@@ -3,7 +3,8 @@ title: "친구하자"
 date: 2026-06-10
 draft: false
 description: "친구하자는 시니어 관계 형성과 AI 기반 돌봄 모니터링을 결합한 서비스를 만듭니다."
-industries: ["Healthcare", "AI"]
+industries: ["Healthcare", "Consumer Products and Services"]
+verticals: ["Digital Health", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["senior care", "AI monitoring", "social connection", "climate resilience", "climatelaunchpad"]
 website: "https://www.chingoohaja.com/"
 founded: ""

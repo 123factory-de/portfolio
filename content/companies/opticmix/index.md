@@ -3,7 +3,8 @@ title: "OpticMix"
 date: 2026-06-10
 draft: false
 description: "OpticMix develops holographic optical screen film for transparent displays, AR-like signage, and mobility HUDs."
-industries: ["Mobility", "Materials"]
+industries: ["Materials and Resources", "Information Technology"]
+verticals: ["Augmented Reality (AR)", "Advanced Manufacturing", "Mobility Tech"]
 tags: ["holographic display", "HUD", "AR", "transparent display", "SBA PoC"]
 website: "https://www.opticmix.kr/"
 founded: ""

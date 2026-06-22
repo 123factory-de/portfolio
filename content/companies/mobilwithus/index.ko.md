@@ -3,7 +3,8 @@ title: "모빌위더스"
 date: 2026-06-10
 draft: false
 description: "모빌위더스는 ECU, SDV, ESS BMS, 사이버보안 규제 대응을 위한 차량 임베디드 보안 소프트웨어를 개발합니다."
-industries: ["Mobility", "Cybersecurity"]
+industries: ["Information Technology"]
+verticals: ["Cybersecurity", "Mobility Tech"]
 tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
 website: "https://www.mobilwithus.com/"
 founded: ""

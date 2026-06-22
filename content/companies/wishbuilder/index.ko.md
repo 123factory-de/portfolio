@@ -3,7 +3,8 @@ title: "위시빌더"
 date: 2026-06-10
 draft: false
 description: "정수, 위생, 폐자원, 저탄소 바이오매스 연료를 연결하는 순환자원 스타트업입니다."
-industries: ["Sustainability", "Energy"]
+industries: ["Energy", "Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["water treatment", "biomass fuel", "circular resources", "carbon reduction", "climatelaunchpad"]
 website: "https://wishbuilder.co.kr/"
 ceo: "김효진"

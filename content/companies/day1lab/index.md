@@ -3,7 +3,8 @@ title: "DAY1LAB"
 date: 2026-06-10
 draft: false
 description: "Alternative plastic materials company developing seaweed-derived biodegradable and microplastic-free materials."
-industries: ["Bio", "Materials"]
+industries: ["Materials and Resources"]
+verticals: ["Cleantech", "Climate Tech"]
 tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
 website: "https://day1-lab.com/en/"
 founded: "2021"

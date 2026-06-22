@@ -3,7 +3,8 @@ title: "히트에이아이"
 date: 2026-06-10
 draft: false
 description: "히트에이아이는 건물 히트펌프 성능과 에너지 절감 데이터를 검증하는 MRV 소프트웨어를 개발합니다."
-industries: ["Energy", "AI"]
+industries: ["Information Technology", "Energy"]
+verticals: ["Climate Tech", "Cleantech"]
 tags: ["building energy", "heat pump", "MRV", "audit-grade data", "climatelaunchpad"]
 website: "https://www.heatai.co.kr/"
 founded: ""

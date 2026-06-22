@@ -3,7 +3,8 @@ title: "Closer Labs"
 date: 2026-06-10
 draft: false
 description: "Closer Labs operates Deskroom, an enterprise AI platform for data integration, analytics, and decision support."
-industries: ["AI", "Cybersecurity"]
+industries: ["Information Technology"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
 tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
 website: "https://www.deskroom.so/en"
 founded: ""
