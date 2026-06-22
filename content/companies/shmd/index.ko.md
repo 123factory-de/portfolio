@@ -1,5 +1,5 @@
 ---
-title: "SHMD"
+title: "에스에이치엠디"
 date: 2026-06-22
 draft: false
 description: "웨어러블 뇌혈류 측정 기기와 자가검진 앱을 결합한 AI 기반 뇌졸중 예방·뇌건강 솔루션 기업."

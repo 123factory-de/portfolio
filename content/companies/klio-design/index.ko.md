@@ -1,5 +1,5 @@
 ---
-title: "Klio Design"
+title: "클리오디자인"
 date: 2026-06-10
 draft: false
 description: "모빌리티, 제품, 서비스 경험을 설계하는 디자인 스튜디오입니다."

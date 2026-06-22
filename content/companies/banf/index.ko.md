@@ -1,5 +1,5 @@
 ---
-title: "BANF"
+title: "반프"
 date: 2026-06-10
 draft: false
 description: "타이어 장착 센서와 운송 차량 데이터 분석을 결합한 지능형 타이어 시스템을 개발합니다."

@@ -1,5 +1,5 @@
 ---
-title: "RightRoute"
+title: "라잇루트"
 date: 2026-06-10
 draft: false
 description: "EV 배터리 분리막 폐기물을 고부가 TEXNIC 원단과 원사로 전환합니다."

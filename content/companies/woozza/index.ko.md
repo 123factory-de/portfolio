@@ -1,5 +1,5 @@
 ---
-title: "Woozza"
+title: "우짜"
 date: 2026-06-22
 draft: false
 description: "대기·지반 환경을 실시간 무인 계측해 사면 붕괴와 산사태 피해를 예방하는 스마트건설 안전 모니터링 기업."

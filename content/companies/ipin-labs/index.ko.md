@@ -1,5 +1,5 @@
 ---
-title: "IPIN LABS"
+title: "아이핀랩스"
 date: 2026-06-22
 draft: false
 description: "GPS가 닿지 않는 실내 산업 현장에서 기존 무선 신호를 활용해 자산을 실시간 추적하는 AI 실내 측위 솔루션."
@@ -28,7 +28,7 @@ logo: "logo.png"
 ## 성과 및 레퍼런스
 
 - BPIN은 CES 2025 산업용 장비·기계 부문에서 혁신상을 수상했습니다([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
-- 공식 홈페이지에 SK telecom, SK hynix, Wistron을 레퍼런스로 소개합니다([IPIN LABS](https://home.ipinlabs.com/)).
+- SK telecom, SK hynix, Wistron 등을 레퍼런스로 두고 있습니다([IPIN LABS](https://home.ipinlabs.com/)).
 - 2024년 11월 기준 누적 계측 면적은 약 166만 m²에 이릅니다([IPIN LABS](https://home.ipinlabs.com/)).
 - CES 2025에서 미국 사무용품 유통사, 자동차 제조사, 일본 대형 SI 기업 등과 자산 추적 솔루션 협의를 진행했습니다([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
 
