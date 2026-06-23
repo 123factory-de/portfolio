@@ -10,6 +10,7 @@ founded: "2019"
 ceo: "조영우"
 headquarters: "부산"
 logo: ""
+website: "https://woooozza.com/"
 ---
 
 ## 회사 개요

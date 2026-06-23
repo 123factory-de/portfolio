@@ -10,6 +10,7 @@ founded: "2019"
 ceo: "Youngwoo Jo"
 headquarters: "Busan, Korea"
 logo: ""
+website: "https://woooozza.com/en/"
 ---
 
 ## Company Overview
