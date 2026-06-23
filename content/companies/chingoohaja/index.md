@@ -7,7 +7,7 @@ industries: ["Healthcare", "Consumer Products and Services"]
 verticals: ["Digital Health", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["senior care", "AI monitoring", "social connection", "climate resilience", "climatelaunchpad"]
 website: "https://www.chingoohaja.com/"
-founded: ""
+founded: "2025"
 ceo: "Sungwoo Cho"
 headquarters: "Seoul, Korea"
 logo: "logo.png"

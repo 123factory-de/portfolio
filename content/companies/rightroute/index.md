@@ -6,9 +6,9 @@ description: "Recycling technology company turning EV battery separator waste in
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
 tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
-website: "https://texnic.kr"
+website: "https://texnic.kr/en/index.php"
 founded: "2016"
-ceo: "Buseon Shin"
+ceo: "Shin Min-jeong"
 headquarters: "Seoul, Korea"
 logo: "logo.png"
 ---
@@ -21,11 +21,11 @@ TEXNIC is a premium recycled material. It uses useful features of battery separa
 
 ## Technology & Product
 
-[RightRoute](https://texnic.kr) works with lithium-ion battery separator waste, including LiBS and ceramic coated separators. These materials are hard to recycle because UHMWPE has very high molecular weight, high viscosity, and difficult molding properties. Much of this waste is usually downcycled, incinerated, or landfilled.
+[RightRoute](https://texnic.kr/en/index.php) works with lithium-ion battery separator waste, including LiBS and ceramic coated separators. These materials are hard to recycle because UHMWPE has very high molecular weight, high viscosity, and difficult molding properties. Much of this waste is usually downcycled, incinerated, or landfilled.
 
 RightRoute's proprietary processes convert this waste into:
 
-- **[TEXNIC laminated fabric](https://texnic.kr)** made with lamination, surface processing, and low-temperature bonding.
+- **[TEXNIC laminated fabric](https://texnic.kr/en/index.php)** made with lamination, surface processing, and low-temperature bonding.
 - **TEXNIC yarn** made with separator slitting and winding technology.
 - Functional material lines such as TEXNIC Shell, Pack, Grit, and Nuvo.
 

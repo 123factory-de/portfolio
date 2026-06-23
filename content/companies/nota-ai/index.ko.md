@@ -1,5 +1,5 @@
 ---
-title: "노타 (Nota AI)"
+title: "노타"
 date: 2026-06-22
 draft: false
 description: "노타는 하드웨어에 맞춰 AI 모델을 경량화·최적화하고, 엣지 디바이스와 교통·안전 분야에 온디바이스 영상지능을 제공합니다."
@@ -35,7 +35,7 @@ logo: "logo.png"
 
 누적 특허 출원은 215건, 등록 특허는 108건입니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 매출은 2024년 84억 원에서 2025년 131억 원으로 늘었습니다([시사저널e](https://www.sisajournal-e.com/news/articleView.html?idxno=419174)).
 
-노타는 NVIDIA, 퀄컴, 삼성전자, 르네사스, 소니, 미디어텍, NXP 등 글로벌 반도체 기업과 협업하고 있습니다([Nota AI](https://www.nota.ai/aboutus)). CB Insights 2025 AI 100에 선정됐고, 2024년 중소벤처기업부 장관상을 받았습니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 2025년에는 두바이 교통국(RTA)과 생성형 AI 기반 교통 솔루션 공급 계약을 체결했습니다([Nota AI ITS](https://www.kr.nota.ai/ai-solutions-its)). DIPS1000+ 딥테크 목록에 등재돼 있으며 2017년 TIPS 지원 스타트업이기도 합니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
+노타는 NVIDIA, 퀄컴, 삼성전자, 르네사스, 소니, 미디어텍, NXP 등 글로벌 반도체 기업과 협업하고 있습니다([Nota AI](https://www.kr.nota.ai/aboutus)). CB Insights 2025 AI 100에 선정됐고, 2024년 중소벤처기업부 장관상을 받았습니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). 2025년에는 두바이 교통국(RTA)과 생성형 AI 기반 교통 솔루션 공급 계약을 체결했습니다([Nota AI ITS](https://www.kr.nota.ai/ai-solutions-its)). DIPS1000+ 딥테크 목록에 등재돼 있으며 2017년 TIPS 지원 스타트업이기도 합니다([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
 
 ## 협업 가능성
 

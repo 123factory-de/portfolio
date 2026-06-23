@@ -39,9 +39,9 @@ Use cases include even air distribution, lower HVAC energy waste, better crop or
 
 ## Traction & References
 
-- Selected for the prestigious TIPS R&D support program by the Ministry of SMEs and Startups (MSS) in 2025.
-- Secured KRW 500 million in seed investment, achieved KRW 613 million in revenue (2025), and received the MSS Minister's Award.
-- Partnered with enterprise clients including Nongshim, CJ CheilJedang, Kurly, Baemin B Mart, and Hyundai Green Food.
+- Raised KRW 500 million in seed investment from the Busan Creative Economy Innovation Center, the Korea SMEs and Startups Agency, and Busan United Technology Holdings, and was selected for the MSS TIPS R&D program with an additional KRW 500 million in R&D funding([InTheNews](https://www.inthenews.co.kr/news/article.html?no=79781)).
+- Grew revenue by 750% after joining the Youth Startup Academy and received the MSS Minister's Award([InTheNews](https://www.inthenews.co.kr/news/article.html?no=83010)).
+- Deployed at more than 20 facilities including Kurly, Korea Post, Coupang, Baemin B Mart, and Poongsan([Seoul Economic Daily](https://en.sedaily.com/society/2026/03/25/busan-startups-fabric-duct-delivers-uniform-airflow-to)).
 - Participated in the ClimateLaunchpad program for clean-tech innovations.
 
 ## Collaboration Relevance

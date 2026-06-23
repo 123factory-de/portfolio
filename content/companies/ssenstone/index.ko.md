@@ -6,9 +6,9 @@ description: "센스톤은 사용자, 기기, IoT, PLC, OT 환경에 단방향 �
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Internet of Things (IoT)"]
 tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
-website: "https://www.ssenstone.com/en/"
-founded: ""
-ceo: ""
+website: "https://www.ssenstone.com/?hsLang=ko"
+founded: "2015"
+ceo: "유창훈"
 headquarters: "한국"
 logo: "logo.svg"
 ---
@@ -33,9 +33,9 @@ PLC 접근 제어, 기기 인증, 피싱 저항 인증, 산업 원격 접속, �
 
 ## 성과 및 레퍼런스
 
-센스톤은 글로벌 특허 출원 340건 이상, 특허 등록 200건 이상, 글로벌 IP 380건 이상을 보유하고 있습니다.
+센스톤은 글로벌 특허 출원 340건 이상, 특허 등록 200건 이상, 글로벌 IP 380건 이상을 보유하고 있습니다([센스톤](https://www.ssenstone.com/tech/about)).
 
-2020년 중소벤처기업부 K-유니콘 프로젝트 Baby Unicorn 1위에 선정됐습니다. 같은 해 Europas Award 사이버보안 부문 1위와 Cyber Security Breakthrough Award Authentication Solution of the Year를 수상했습니다.
+2020년 중소벤처기업부 K-유니콘 프로젝트 Baby Unicorn 1위에 선정됐습니다([전자신문](https://www.etnews.com/20200707000328)). 같은 해 영국 자회사 swIDch가 Europas Awards 사이버보안 부문 1위([전자신문](https://www.etnews.com/20200707000328))와 2020 CyberSecurity Breakthrough Award Authentication Solution of the Year를 수상했습니다([Business Wire](https://www.businesswire.com/news/home/20201016005143/en/swIDch-Wins-Authentication-Solution-of-the-Year-in-the-2020-CyberSecurity-Breakthrough-Awards)).
 
 글로벌 사업은 swIDch를 통해 전개하며, OTAC 기술은 50곳 이상의 고객에게 제공됐습니다.
 

@@ -2,7 +2,7 @@
 title: "Somuna"
 date: 2026-06-15
 draft: false
-description: "AI battery-controlled idle-free cold-chain system for refrigerated transport vehicles."
+description: "AI dual-battery control and idle-free refrigeration systems for refrigerated transport vehicles."
 industries: ["Business Products and Services", "Energy"]
 verticals: ["Supply Chain Technology", "Cleantech"]
 tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
@@ -21,9 +21,9 @@ Somuna develops battery management systems (BMS) and smart monitoring apps for l
 
 Somuna offers three main technology and service modules:
 
-- **AI Battery Control System**: Software and hardware that manages on-board secondary batteries to power ancillary vehicle systems independently of the main engine.
-- **AI Idle-Free Cold-Chain System**: A hybrid battery-driven cooling system that sustains refrigeration temperatures during cargo stops, eliminating fuel waste, noise, and tailpipe emissions.
-- **AI Smart Monitoring System**: A real-time web platform and operations dashboard that tracks vehicle location, battery charge levels, and refrigeration compartment temperatures during transport.
+- **AI Dual Battery Control Technology**: Software and hardware that manages on-board secondary batteries to power ancillary vehicle systems independently of the main engine.
+- **AI Idle-Free Refrigeration System**: A hybrid battery-driven cooling system that sustains refrigeration temperatures during cargo stops, eliminating fuel waste, noise, and tailpipe emissions.
+- **NODECAR Monitoring System**: A real-time web platform and operations dashboard that tracks vehicle location, battery charge levels, and refrigeration compartment temperatures during transport.
 
 ## Market & Use Cases
 
@@ -31,11 +31,9 @@ Somuna serves cold-chain logistics, fresh-food delivery services, pharmaceutical
 
 ## Traction & References
 
-- Somuna recorded annual revenues of KRW 1.03 billion in 2024 and KRW 1.105 billion in 2025.
-- The company was selected by SK Innovation for the SV² Impact Partnering Season 2 green social venture program in 2020.
-- Somuna deployed its first retail commercial installation at SK Energy's Incheon Naetruck House logistics depot in October 2020.
-- The company completed its Pre-A investment round and was selected for the TIPS program in July 2025.
-- Somuna secured bridge funding from the Small & Medium Business Corporation (SBC) in August 2025 and strategic investment from Samsung Fire & Marine Insurance.
+- The company was selected by SK Innovation for the SV² Impact Partnering Season 2 green social venture program in 2020([Auto Daily](https://www.autodaily.co.kr/news/articleView.html?idxno=422817)).
+- Somuna deployed its first retail commercial installation at SK Energy's Incheon Naetruck House logistics depot in October 2020([CVinfo](https://www.cvinfo.com/news/articleView.html?idxno=20856)).
+- The company completed its Pre-A investment round and was selected for the TIPS program in July 2025([DailySecu](https://www.dailysecu.com/news/articleView.html?idxno=168079)).
 
 ## Collaboration Relevance
 

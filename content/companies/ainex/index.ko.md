@@ -6,7 +6,7 @@ description: "위·대장 내시경 검사 중 병변을 실시간으로 검출�
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
 tags: ["endoscopy-ai", "Bio:cap"]
-website: "https://ainex.io/"
+website: "https://ainex.io/kor/"
 founded: "2019"
 ceo: "이항재"
 headquarters: "대한민국 서울"
@@ -19,7 +19,7 @@ logo: "logo.png"
 
 ## 기술 및 제품
 
-핵심 솔루션인 [ENAD](https://ainex.io/Technology/Technology.php)는 기존 내시경 시스템과 모니터 환경에서 그대로 동작하는 실시간 AI 진단 보조 소프트웨어입니다. 하부 위장관용 솔루션인 [ENAD CADe](https://ainex.io/Lower_GI/lower-gi.php)는 대장내시경 중 용종을 실시간으로 찾아내며, ENAD CADx는 검출된 용종을 선종/종양, 증식성 용종, 무경성 톱니모양 병변 등 세 가지 범주로 분류하여 의료진의 빠른 의사결정을 돕습니다.
+핵심 솔루션인 [ENAD](https://ainex.io/kor/Technology/Technology.php)는 기존 내시경 시스템과 모니터 환경에서 그대로 동작하는 실시간 AI 진단 보조 소프트웨어입니다. 하부 위장관용 솔루션인 [ENAD CADe](https://ainex.io/kor/Lower_GI/lower-gi.php)는 대장내시경 중 용종을 실시간으로 찾아내며, ENAD CADx는 검출된 용종을 선종/종양, 증식성 용종, 무경성 톱니모양 병변 등 세 가지 범주로 분류하여 의료진의 빠른 의사결정을 돕습니다.
 
 ## 시장 및 활용 분야
 

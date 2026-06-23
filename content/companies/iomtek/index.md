@@ -6,7 +6,7 @@ description: "Eco-friendly composite materials and climate-responsive films made
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
 tags: ["upcycling", "composite-materials", "waste-plastic", "climate-responsive-film", "circular-economy", "KOSME PoC"]
-website: "https://iomtek.com"
+website: "https://iomtek.com/en/"
 founded: "2020"
 ceo: "Youngjun Park"
 headquarters: "Gyeongju, Korea"

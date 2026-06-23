@@ -8,7 +8,7 @@ verticals: ["Cleantech", "Climate Tech"]
 tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
 website: "https://texnic.kr"
 founded: "2016년"
-ceo: "신부선"
+ceo: "신민정"
 headquarters: "서울"
 logo: "logo.png"
 ---

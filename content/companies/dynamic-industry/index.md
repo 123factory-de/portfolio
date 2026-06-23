@@ -8,7 +8,7 @@ verticals: ["Cleantech", "Climate Tech"]
 tags: ["solar-recycling", "material-recovery", "clean-tech", "solar-panel", "resource-circulation", "KOSME PoC"]
 website: "https://dynamicindustry.kr"
 founded: "2021"
-ceo: "Hyunsu Kim"
+ceo: "Hyon Soo Kim"
 headquarters: "Wanju, Korea"
 logo: "logo.png"
 ---

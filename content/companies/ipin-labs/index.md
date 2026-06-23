@@ -7,6 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Supply Chain Technology"]
 tags: ["BPIN", "indoor-positioning", "RTLS", "digital-twin", "asset-tracking", "Gangnam-gu Testbed"]
 website: "https://home.ipinlabs.com/"
+founded: "2022"
 ceo: "Jaehyun Yoo"
 headquarters: "Seoul, Korea"
 logo: "logo.png"
@@ -27,10 +28,10 @@ The main customers are operators of large indoor or mixed indoor-outdoor sites t
 
 ## Traction & References
 
-- BPIN won a CES 2025 Innovation Award in the industrial equipment and machinery category([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
+- BPIN won a CES 2025 Innovation Award in the industrial equipment and machinery category([IPIN LABS Blog](https://home.ipinlabs.com/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
 - The company lists SK telecom, SK hynix, and Wistron among its references([IPIN LABS](https://home.ipinlabs.com/)).
 - Total measured area reached about 1.66 million m² as of November 2024([IPIN LABS](https://home.ipinlabs.com/)).
-- At CES 2025, the company held asset-tracking discussions with a US office-supplies distributor, an automaker, and a large Japanese SI firm([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
+- At CES 2025, the company held asset-tracking discussions with a US office-supplies distributor, an automaker, and a large Japanese SI firm([IPIN LABS Blog](https://home.ipinlabs.com/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
 
 ## Collaboration Relevance
 

@@ -37,9 +37,9 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-- 플랫폼은 20만 건 이상의 커머스 연동과 150만 개 이상의 여행지 벡터 데이터를 처리하며, 1초 미만의 응답 속도와 99.99% 가동률, 6개 언어를 지원합니다.
+- 플랫폼은 20만 건 이상의 커머스 연동과 150만 개 이상의 여행지 벡터 데이터를 처리하며, 1초 미만의 응답 속도와 99.99% 가동률, 15개 이상 언어를 지원합니다.
 - 엔터프라이즈 고객을 위해 SOC-2 기준의 보안 통제와 프라이빗 배포, 데이터 격리, 암호화를 제공합니다.
-- 싱가포르항공 AppChallenge 2020에서 2위(Top Voted)를 차지했습니다([Globaleur](https://www.globaleur.com/post/globaleur-announced-as-the-winner-of-singapore-airlines-appchallenge-2020)).
+- 싱가포르항공 AppChallenge 2020에서 2위(Top Voted)를 차지했습니다.
 - 2020년 서울관광재단의 관광 스타트업 프로젝트에 선정되었습니다([서울관광](https://english.visitseoul.net/partners-en/startup-project-2020/GLOBALEUR_/36613)).
 - 케이넷투자파트너스와 실리콘밸리 VC들로부터 약 36억 원 규모의 Pre-Series A를 유치했습니다([전자신문](https://www.etnews.com/20221121000254)).
 - 2026년 강남구 테스트베드 사업 지원 대상 기업으로 선정되었습니다.

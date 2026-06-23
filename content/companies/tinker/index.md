@@ -31,7 +31,7 @@ Curation commerce fits this segment well, because many male shoppers prefer guid
 
 ## Traction & References
 
-Tinker was selected for the Ministry of SMEs and Startups TIPS program in July 2023, with Bon Angels Venture Partners as the operating partner.
+Tinker was selected for the Ministry of SMEs and Startups TIPS program in November 2023, with Bon Angels Venture Partners as the operating partner.
 
 The company was also selected for the 2026 Gangnam-gu test-bed program. The team includes members with backgrounds at Coupang and in professional styling.
 

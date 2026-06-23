@@ -31,11 +31,8 @@ APGREEN targets distributed energy consumers, hydrogen refueling stations, indus
 
 ## Traction & References
 
-- The company has filed or registered 15 patents covering hydrogen and solid carbon manufacturing, carbon capture, and low-emission reforming.
-- APGREEN won the H2 Innovation Award (Hydrogen Production category) and the Best Product Media Award Excellent Pick at the World Hydrogen Expo (WHE) 2025.
-- The company was selected for the "2025 Preliminary Hydrogen Specialist Company Support Project" by the Ministry of Trade, Industry and Energy and Jeonbuk Province.
-- APGREEN is a member of the IBK Changgong Gwangju 4th cohort in 2026.
-- The company holds ISO 9001, ISO 14001, ISO 45001, and ISO 50001 certifications.
+- APGREEN holds 20 patents in total — 9 applied and 11 pending([APGREEN](https://apgreen.net/)).
+- APGREEN won the H2 Innovation Award (Hydrogen Production category) and the Best Product Media Award Excellent Pick at the World Hydrogen Expo (WHE) 2025([Venture Square](https://www.venturesquare.net/1019617)).
 
 ## Collaboration Relevance
 

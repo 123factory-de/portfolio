@@ -6,7 +6,7 @@ description: "Datasketchers builds AI tools that help suppliers manage ESG and c
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Supply Chain Technology"]
 tags: ["ESG compliance", "RAG", "supplier risk", "SaaS", "climatelaunchpad"]
-website: "https://data-sketchers.com/"
+website: "https://data-sketchers.com/en/"
 founded: "2025"
 ceo: "Shinbum Choi"
 headquarters: "Seoul, Korea"
@@ -19,7 +19,7 @@ Data Sketchers develops AI-driven compliance and ESG management software for glo
 
 ## Technology & Product
 
-[Datasketchers](https://data-sketchers.com/) uses RAG-based AI to match supplier audit data with regulations, ESG frameworks, and buyer standards. The system finds compliance gaps and turns them into practical reports.
+[Datasketchers](https://data-sketchers.com/en/) uses RAG-based AI to match supplier audit data with regulations, ESG frameworks, and buyer standards. The system finds compliance gaps and turns them into practical reports.
 
 The company also operates D-SKET services such as web builders, canvas tools, and event support. These services give the team delivery experience with business users and digital workflows.
 

@@ -6,7 +6,8 @@ description: "AI-based brain health solutions for stroke prevention, combining a
 industries: ["Healthcare"]
 verticals: ["Digital Health", "Wearables & Quantified Self", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["CEREBAND", "BRAINCHECK.AI", "transcranial-doppler", "stroke-prevention", "non-invasive-diagnostics", "Gangnam-gu Testbed"]
-website: "https://shmd.io/"
+website: "https://shmd.io/en"
+founded: "2024"
 ceo: "Minyoung Song"
 headquarters: "Cheongju, Korea"
 logo: "logo.png"
@@ -29,10 +30,10 @@ The main users are people who want to track stroke and brain health risk at home
 
 ## Traction & References
 
-- BRAINCHECK.AI launched in May 2025 and has been used by more than 5,000 people across 34 countries, with clinical research behind its screening models([BRAINCHECK.AI](https://shmd.io/braincheck-ai/)).
+- BRAINCHECK.AI has been used by more than 5,000 people across 34 countries, with clinical research behind its screening models([BRAINCHECK.AI](https://shmd.io/en/braincheck-ai/)).
 - The company joined the NVIDIA Inception Program in 2025([VentureSquare](https://www.venturesquare.net/971557)).
 - SHMD was selected across all TIPS tracks — startup commercialization, R&D, and overseas marketing — receiving about KRW 800 million in support([SHMD](https://shmd.io/shmd-%ED%8C%81%EC%8A%A4-%EC%A0%84-%EB%B6%84%EC%95%BC-%EC%84%9D%EA%B6%8Crd%EB%B6%80%ED%84%B0-%ED%95%B4%EC%99%B8%EB%A7%88%EC%BC%80%ED%8C%85%EA%B9%8C%EC%A7%80-%ED%8A%B8%EB%A6%AC%ED%94%8C/)).
-- It was selected for the Chungbuk IP Center's IP-Nara program and designated a 2025 export-potential enterprise([SHMD](https://shmd.io/)).
+- It was selected for the Chungbuk IP Center's IP-Nara program([Newsis](https://www.newsis.com/view/NISX20250605_0003202812)) and designated a 2025 export-potential enterprise([Money Today](https://www.mt.co.kr/industry/2025/04/17/2025041612053826362)).
 
 ## Collaboration Relevance
 
