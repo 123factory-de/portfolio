@@ -27,7 +27,7 @@ Ainex targets gastroenterologists and internal medicine departments conducting r
 
 ## Traction & References
 
-ENAD has been adopted by more than 130 hospitals in Korea and over 30 global institutions. The software demonstrates robust clinical performance, improving the adenoma detection rate by 16.2%p with ENAD CADe. ENAD CADx classifies detected polyps — adenoma/neoplasm, hyperplastic polyp, or sessile serrated lesion — with over 90% accuracy. ENAD CADx has obtained Class III medical device approval from the MFDS in Korea and passed the Innovative Medical Device integrated review in 2025. The product has also been approved and commercialized in seven countries, including Thailand, Singapore, and Vietnam. In January 2026, Ainex signed an MOU with Olympus Korea to expand ENAD's domestic business([Ainex Press](https://ainex.io/bbs/board.php?bo_table=s4_2&wr_id=1)).
+ENAD has been adopted by more than 130 hospitals in Korea and over 30 global institutions. The software demonstrates robust clinical performance, improving the adenoma detection rate by 16.2%p with ENAD CADe. ENAD CADx classifies detected polyps — adenoma/neoplasm, hyperplastic polyp, or sessile serrated lesion — with over 90% accuracy. ENAD CADx has obtained Class III medical device approval from the MFDS in Korea and passed the Innovative Medical Device integrated review in 2025, and was designated an innovative product by Korea's Public Procurement Service (PPS) in April 2026. The product has also been approved and commercialized in seven countries, including Thailand, Singapore, and Vietnam. In January 2026, Ainex signed an MOU with Olympus Korea to expand ENAD's domestic business([Ainex Press](https://ainex.io/bbs/board.php?bo_table=s4_2&wr_id=1)).
 
 ## Collaboration Relevance
 

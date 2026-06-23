@@ -6,7 +6,7 @@ description: "TOF-MRA 기반 뇌혈관 영상을 3D 컬러와 정량 SIG 데이�
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
 tags: ["medical-imaging", "mra", "Bio:cap"]
-website: "https://en.mediimg.com/"
+website: "https://mediimg.com/"
 founded: "2018"
 ceo: "정슬기"
 headquarters: "대한민국 서울"
@@ -19,7 +19,7 @@ logo: "logo.png"
 
 ## 기술 및 제품
 
-주력 소프트웨어인 [NeuFlow](https://en.mediimg.com/)는 복잡한 고급 설정 없이 TOF-MRA 스캔 데이터만으로 빠른 혈관 분석이 가능한 솔루션입니다. MRA 기반으로 뇌혈관 벽 전단응력(wall shear stress)을 분석하는 세계 최초 소프트웨어로, 전단응력 지표인 SIG(Shear-induced Gray)와 혈관별 정밀 측정 데이터를 바탕으로 임상 현장에서 진단 보조로 활용할 수 있는 AI 건강 리포트를 제공합니다.
+주력 소프트웨어인 [NeuFlow](https://mediimg.com/)는 복잡한 고급 설정 없이 TOF-MRA 스캔 데이터만으로 빠른 혈관 분석이 가능한 솔루션입니다. MRA 기반으로 뇌혈관 벽 전단응력(wall shear stress)을 분석하는 세계 최초 소프트웨어로, 전단응력 지표인 SIG(Shear-induced Gray)와 혈관별 정밀 측정 데이터를 바탕으로 임상 현장에서 진단 보조로 활용할 수 있는 AI 건강 리포트를 제공합니다.
 
 ## 시장 및 활용 분야
 

@@ -6,7 +6,7 @@ description: "피치에이아이는 온디바이스 비전 AI로 옥외광고와
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
 tags: ["edge AI", "vision AI", "DOOH", "retail media", "on-device analytics", "Gangnam-gu Testbed"]
-website: "https://p2ach.ai"
+website: "https://p2ach.ai/ko/"
 founded: "2021"
 ceo: "이동열"
 headquarters: "서울, 한국"
@@ -21,7 +21,7 @@ logo: "logo.svg"
 
 ## 기술 및 제품
 
-[피치에이아이 플랫폼](https://p2ach.ai)은 엣지 AI 박스 위에서 여러 모듈을 결합해 동작합니다. 관객 분석 모듈은 방문객의 연령과 성별을 비식별 방식으로 추정합니다. Re-ID 기술은 여러 카메라에 걸친 이동을 추적해 중복 없이 순방문자를 집계합니다. 실시간 타겟팅은 화면 앞에 있는 사람에 맞춰 콘텐츠를 송출합니다.
+[피치에이아이 플랫폼](https://p2ach.ai/ko/)은 엣지 AI 박스 위에서 여러 모듈을 결합해 동작합니다. 관객 분석 모듈은 방문객의 연령과 성별을 비식별 방식으로 추정합니다. Re-ID 기술은 여러 카메라에 걸친 이동을 추적해 중복 없이 순방문자를 집계합니다. 실시간 타겟팅은 화면 앞에 있는 사람에 맞춰 콘텐츠를 송출합니다.
 
 리테일 환경에서는 스마트 선반·재고 분석, 동선 히트맵, 데이터를 최적화 제안으로 바꿔주는 AI 에이전트가 더해집니다. 옥외광고(DOOH)에서는 몇 명이 광고를 얼마나 오래, 어느 정도 주목해서 보는지를 측정해 광고 성과를 정량화합니다.
 
@@ -33,9 +33,9 @@ logo: "logo.svg"
 
 ## 성과 및 레퍼런스
 
-AWS, GS리테일, 한화비전, 롯데, 신한, 서울교통공사 등을 파트너·고객으로 두고 있습니다([P2ACH AI](https://p2ach.ai)). 실증에서 광고 주목도 상승, 광고 상품 매출 증가, 운영비 절감 등의 효과가 보고되었습니다([P2ACH AI](https://p2ach.ai)).
+AWS, GS리테일, 한화비전, 롯데, 신한, 서울교통공사 등을 파트너·고객으로 두고 있습니다([P2ACH AI](https://p2ach.ai/ko/)). 실증에서 광고 주목도 상승, 광고 상품 매출 증가, 운영비 절감 등의 효과가 보고되었습니다([P2ACH AI](https://p2ach.ai/ko/)).
 
-일본에서는 시즈오카 철도 노선과 대형 편의점 체인을 대상으로 PoC 및 설치 계약을 진행했습니다([StartupN](https://www.startupn.kr)). 중소벤처기업부 딥테크 팁스(Deep-tech TIPS)에 선정되었고([RndCircle](https://www.rndcircle.io)), 2025년 약 30억 원 규모의 프리A 라운드를 마무리했습니다([Platum](https://platum.kr)). 2026년 강남구 테스트베드 사업 지원 대상 기업으로도 선정되었습니다.
+일본에서는 시즈오카 철도 노선을 대상으로 PoC 및 설치 계약을 진행했습니다. 중소벤처기업부 딥테크 팁스(Deep-tech TIPS)에 선정되었고, 2025년 약 30억 원 규모의 프리A 라운드를 마무리했습니다. 2026년 강남구 테스트베드 사업 지원 대상 기업으로도 선정되었습니다.
 
 ## 협업 가능성
 

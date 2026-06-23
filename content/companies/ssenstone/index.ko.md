@@ -6,7 +6,7 @@ description: "센스톤은 사용자, 기기, IoT, PLC, OT 환경에 단방향 �
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Internet of Things (IoT)"]
 tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
-website: "https://www.ssenstone.com/en/"
+website: "https://www.ssenstone.com/?hsLang=ko"
 founded: ""
 ceo: ""
 headquarters: "한국"

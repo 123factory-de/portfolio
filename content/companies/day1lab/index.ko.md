@@ -2,31 +2,30 @@
 title: "더데이원랩"
 date: 2026-06-10
 draft: false
-description: "해조류 유래 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."
+description: "전분 기반 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
 tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
-website: "https://day1-lab.com/en/"
+website: "https://day1-lab.com/"
 founded: "2021"
 ceo: "이주봉"
-headquarters: "서울 관악구"
+headquarters: "서울 구로구"
 logo: "logo.png"
 ---
 
 ## 회사 개요
 
-DAY1LAB은 천연 고분자와 해양 식물 유래 성분을 활용해 생분해성 플라스틱 대체 소재를 개발합니다. 플라스틱 폐기물, 미세플라스틱, 탄소 배출 문제를 소재 단계에서 줄이는 데 초점을 둡니다.
+DAY1LAB은 전분을 비롯한 식물 유래 천연 고분자를 활용해 생분해성 플라스틱 대체 소재를 개발합니다. 플라스틱 폐기물, 미세플라스틱, 탄소 배출 문제를 소재 단계에서 줄이는 데 초점을 둡니다.
 
 핵심 방향은 석유계 플라스틱을 대체할 수 있는 소재 전환입니다. 포장재와 소비재 영역에서 사용할 수 있고, 사용 후에는 토양, 해양, 퇴비화 환경 등에서 분해될 수 있는 소재를 지향합니다.
 
 ## 기술 및 제품
 
-주요 소재 플랫폼은 해조류 기반 생분해 소재와 전분-셀룰로오스 복합 기술 기반 천연 고분자 소재 RETARCH입니다. 원료 소재, 생산용 컴파운드, 완제품까지 밸류체인 전반을 다룹니다.
+핵심 소재는 미세플라스틱을 발생시키지 않고 분해되는 전분 기반 열가소성 천연 고분자 소재 RETARCH입니다. 원료 소재, 생산용 컴파운드, 완제품까지 밸류체인 전반을 다룹니다.
 
 주요 제품과 기술 영역은 다음과 같습니다.
 
-- **Lead-free**: 해조류와 해양 식물 유래 성분을 활용한 고기능성 생분해 플라스틱 대체 소재입니다.
-- **RETARCH resin grade**: 베이스 레진 또는 첨가제로 쓰이는 100% 바이오 기반 전분-셀룰로오스 복합 소재입니다.
+- **RETARCH resin grade**: 베이스 레진 또는 첨가제로 쓰이는 100% 바이오 기반 전분 복합 소재입니다.
 - **RETARCH compound grade**: 제조 공정에 최적화된 생산용 펠릿입니다.
 - **고장벽 코팅 및 필름 소재**: 산소와 수분 차단을 통해 식품 포장재에 적용할 수 있는 기능성 필름 소재입니다.
 - **완제품**: 블로운 필름 압출, T-die 압출, 사출 성형 등 기존 제조 라인에서 생산 가능한 제품군입니다.
@@ -42,7 +41,7 @@ DAY1LAB은 천연 고분자와 해양 식물 유래 성분을 활용해 생분�
 - Series A 투자를 유치했으며, 누적 투자금은 40억 원 이상입니다.
 - 중소벤처기업부 TIPS 프로그램에 선정됐습니다.
 - USDA Biobased, TUV AUSTRIA OK COMPOST HOME/INDUSTRIAL, BPI 상업 퇴비화, 국내 환경표지, ISO 9001, ISO 14001 등 인증을 보유하고 있습니다.
-- CES 2024 Sustainability, Eco-Design & Smart Energy 부문 Innovation Award를 수상했습니다.
+- CES 2024 Sustainability & Energy Transition 부문 Innovation Award를 수상했습니다.
 - 미세플라스틱·유해 물질 불검출, 녹색기술 인증, 혐기성 소화 분석, 국내외 소재 IP 등으로 소재의 안전성과 성능을 입증했습니다.
 
 ## 협업 가능성

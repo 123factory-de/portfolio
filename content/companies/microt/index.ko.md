@@ -6,7 +6,7 @@ description: "녹내장 환자의 안압 조절을 돕는 국내 제조 미세�
 industries: ["Healthcare"]
 verticals: ["Healthtech", "Life Sciences"]
 tags: ["ophthalmology-implant", "glaucoma", "Bio:cap"]
-website: "https://microtinc.com/en/"
+website: "https://microtinc.com/"
 founded: "2019"
 ceo: "한종철"
 headquarters: "대한민국 서울"
@@ -19,7 +19,7 @@ logo: "logo.svg"
 
 ## 기술 및 제품
 
-주력 제품인 [A-stream Glaucoma Shunt](https://www.microtinc.com/en/medical-pro01_01.php)는 눈 안의 방수 배출 경로를 새롭게 만들어 안압을 조절하는 초소형 녹내장 임플란트입니다. 메디컬 등급의 실리콘 소재로 제조되며, 내경 100μm, 외경 228μm, 길이 6mm의 규격과 1mm의 윙 고정 구조를 갖춰 안전한 안착을 돕습니다. 의료기기 라인업 외에도 시신경 및 눈 주변 피부 관리를 위한 눈꺼풀 클렌저 `Cleaneol`과 건기식 `Maxnamin`을 함께 제공합니다.
+주력 제품인 [A-stream Glaucoma Shunt](https://microtinc.com/en/medical-pro01_01.php)는 눈 안의 방수 배출 경로를 새롭게 만들어 안압을 조절하는 초소형 녹내장 임플란트입니다. 메디컬 등급의 실리콘 소재로 제조되며, 내경 100μm, 길이 6mm의 규격과 1mm의 윙 고정 구조를 갖춰 안전한 안착을 돕습니다. 의료기기 라인업 외에도 시신경 및 눈 주변 피부 관리를 위한 눈꺼풀 클렌저 `Cleaneol`과 건기식 `Maxnamin`을 함께 제공합니다.
 
 ## 시장 및 활용 분야
 

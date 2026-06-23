@@ -6,7 +6,7 @@ description: "GPS가 닿지 않는 실내 산업 현장에서 기존 무선 신�
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Supply Chain Technology"]
 tags: ["BPIN", "indoor-positioning", "RTLS", "digital-twin", "asset-tracking", "Gangnam-gu Testbed"]
-website: "https://home.ipinlabs.com/"
+website: "https://home.ipinlabs.com/ko"
 ceo: "유재현"
 headquarters: "서울 강남"
 logo: "logo.png"
@@ -28,8 +28,8 @@ logo: "logo.png"
 ## 성과 및 레퍼런스
 
 - BPIN은 CES 2025 산업용 장비·기계 부문에서 혁신상을 수상했습니다([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
-- SK telecom, SK hynix, Wistron 등을 레퍼런스로 두고 있습니다([IPIN LABS](https://home.ipinlabs.com/)).
-- 2024년 11월 기준 누적 계측 면적은 약 166만 m²에 이릅니다([IPIN LABS](https://home.ipinlabs.com/)).
+- SK telecom, SK hynix, Wistron 등을 레퍼런스로 두고 있습니다([IPIN LABS](https://home.ipinlabs.com/ko)).
+- 2024년 11월 기준 누적 계측 면적은 약 166만 m²에 이릅니다([IPIN LABS](https://home.ipinlabs.com/ko)).
 - CES 2025에서 미국 사무용품 유통사, 자동차 제조사, 일본 대형 SI 기업 등과 자산 추적 솔루션 협의를 진행했습니다([IPIN LABS Blog](https://home.ipinlabs.com/ko/feeds/blog/ces-2025-expedition-a-world-led-by-ai)).
 
 ## 협업 가능성

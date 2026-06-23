@@ -6,7 +6,7 @@ description: "타이어 장착 센서와 운송 차량 데이터 분석을 결�
 industries: ["Business Products and Services", "Information Technology"]
 verticals: ["Internet of Things (IoT)", "Mobility Tech", "Big Data"]
 tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
-website: "https://banf.ai/en"
+website: "https://banf.ai/ko"
 founded: "2020년 12월 18일"
 ceo: "유성한"
 headquarters: "서울 강남구"
@@ -37,9 +37,9 @@ BANF의 Tire Profile System은 세 가지 구성요소가 중심입니다.
 
 ## 성과 및 레퍼런스
 
-- 2022년 45억 원 규모의 Series A 투자를 유치했습니다.
+- 2022년 45억 원, 2023년 20억 원을 더해 총 65억 원 규모의 프리 시리즈 A 투자를 유치했습니다.
 - 현대자동차그룹, Volvo Group Camp X, DHL, Nira Dynamics, 미 육군, SAE International 등과 협력해 왔으며, 차량 제조사·타이어 기업·물류 운송업체가 주요 고객군입니다.
-- 수상 이력으로는 CES 2024 Vehicle Tech & Advanced Mobility Innovation Award, 2023 K-디지털 그랜드 챔피언십 대상, 2023 IRF Global Road Achievement Awards 등이 있습니다. 이 외에 TechCrunch Battlefield Top 20, DHL Fastforward Challenge Global Top 3, SAE International GAMIC Top 10, [글로벌 ICT 미래 유니콘 육성 사업](https://m.mt.co.kr/renew/view.html?no=2024052317432761829), [Forbes Asia 100 To Watch](https://platum.kr/archives/269397)에 선정됐습니다.
+- 수상 이력으로는 CES 2024 Vehicle Tech & Advanced Mobility Innovation Award, 2023 K-디지털 그랜드 챔피언십 대상, 2023 IRF Global Road Achievement Awards 등이 있습니다. 이 외에 TechCrunch Battlefield Top 20, DHL Fastforward Challenge Global Top 3, SAE International GAMIC Top 10, [글로벌 ICT 미래 유니콘 육성 사업](https://m.mt.co.kr/renew/view.html?no=2024052317432761829), [Forbes Asia 100 To Watch (2025)](https://www.mt.co.kr/industry/2025/09/02/2025090116055777362)에 선정됐습니다.
 - 2025년까지 매출 성장과 양산 전 단계 진행 이력이 있습니다.
 
 ## 협업 가능성

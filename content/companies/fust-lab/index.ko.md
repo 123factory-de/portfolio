@@ -6,7 +6,7 @@ description: "화학 및 배터리 조성용 DEBREX 집속 초음파 나노 분�
 industries: ["Business Products and Services", "Materials and Resources"]
 verticals: ["Nanotechnology", "Advanced Manufacturing"]
 tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
-website: "https://www.fustlab.com"
+website: "https://www.fustlab.co.kr/?locale=ko_KR"
 founded: "2022년 5월 30일"
 ceo: "황보민성"
 headquarters: "서울 마포구 / 대전 유성구"
@@ -23,8 +23,8 @@ FUST Lab은 한국표준과학연구원 연구소기업으로, 집속형 초음�
 
 FUST Lab의 제품 라인은 소재 가공과 수처리로 나뉩니다.
 
-- **[DEBREX](https://www.fustlab.com/)**: 유화, 분산, 추출, 수처리에 적용하는 집속형 초음파 장비입니다. DEBREX 30/50은 제형 개발용 연구 장비, DEBREX 100은 연속 공정 기반 생산성 장비, DEBREX 500은 스케일업과 대량생산 장비로 포지셔닝됩니다.
-- **[CAVITOX](https://www.fustlab.com/page/water_treatment.php?locale=en_US)**: 산업·제약 폐수와 PFAS 등 난분해성 오염물질을 겨냥한 초음파 기반 고급산화 수처리 장비입니다.
+- **[DEBREX](https://www.fustlab.co.kr/?locale=ko_KR)**: 유화, 분산, 추출, 수처리에 적용하는 집속형 초음파 장비입니다. DEBREX 30/50은 제형 개발용 연구 장비, DEBREX 100은 연속 공정 기반 생산성 장비, DEBREX 500은 스케일업과 대량생산 장비로 포지셔닝됩니다.
+- **[CAVITOX](https://www.fustlab.co.kr/page/water_treatment.php?locale=ko_KR)**: 산업·제약 폐수와 PFAS 등 난분해성 오염물질을 겨냥한 초음파 기반 고급산화 수처리 장비입니다.
 - **Cosmetics ODM**: DEBREX 공정 기술을 활용한 무계면활성제 화장품 제형 및 ODM 응용입니다. 현대코퍼레이션 독일법인과의 데모룸 구축 및 유럽 고객 테스트 환경 운영도 진행했습니다.
 
 DEBREX는 원통형 초음파 처리 방식으로 제어된 유로 안에 에너지를 집중합니다. 통합 냉각, 실시간 공진 주파수 추적, 유량 제어, 자동 세척, 디스플레이 기반 모니터링을 통해 연구실 테스트부터 생산 공정까지 안정적인 가동을 지원합니다.

@@ -6,7 +6,7 @@ description: "모빌위더스는 ECU, SDV, ESS BMS, 사이버보안 규제 대�
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Mobility Tech"]
 tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
-website: "https://www.mobilwithus.com/"
+website: "https://www.mobilwithus.com/ko/"
 founded: ""
 ceo: "박한나"
 headquarters: "성남, 한국"

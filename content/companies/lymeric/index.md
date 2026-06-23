@@ -39,7 +39,6 @@ The platform fits research areas where each experiment is slow and expensive. In
 
 ## Traction & References
 
-- Lymeric is based in the Daejeon TIPS Town startup complex, operated under the Korea Institute of Startup and Entrepreneurship Development([Public Data Portal](https://www.data.go.kr)).
 - The company was selected for the 2026 Gangnam-gu Test Bed program.
 - Lymeric is selectively discussing pilot projects and partnerships with materials R&D teams([Lymeric](https://www.lymeric.ai)).
 

@@ -19,7 +19,7 @@ Microt Inc. is a medical device company specializing in ophthalmic treatments. T
 
 ## Technology & Product
 
-The flagship product is the [A-stream Glaucoma Shunt](https://www.microtinc.com/en/medical-pro01_01.php), a minimally invasive glaucoma surgery (MIGS) implant. Manufactured domestically in Korea, the A-stream is a 6mm ultra-small tube made of medical-grade silicone. It features a 100μm inner diameter and a 1mm wing fixation structure. The device works by creating a new drainage pathway for aqueous humor, safely reducing intraocular pressure. Microt has also expanded its portfolio into related eye care spaces, launching the `Cleaneol` eyelid cleanser and `Maxnamin` health supplements.
+The flagship product is the [A-stream Glaucoma Shunt](https://microtinc.com/en/medical-pro01_01.php), a minimally invasive glaucoma surgery (MIGS) implant. Manufactured domestically in Korea, the A-stream is a 6mm ultra-small tube made of medical-grade silicone. It features a 100μm inner diameter and a 1mm wing fixation structure. The device works by creating a new drainage pathway for aqueous humor, safely reducing intraocular pressure. Microt has also expanded its portfolio into related eye care spaces, launching the `Cleaneol` eyelid cleanser and `Maxnamin` health supplements.
 
 ## Market & Use Cases
 

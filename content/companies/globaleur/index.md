@@ -37,9 +37,9 @@ A clear use case is an airline or hotel adding an AI travel planner to its own a
 
 ## Traction & References
 
-- The platform handles 200K+ commerce integrations and a base of 1.5M+ destination vectors, with sub-second decision latency, 99.99% uptime, and support for six languages.
+- The platform handles 200K+ commerce integrations and a base of 1.5M+ destination vectors, with sub-second decision latency, 99.99% uptime, and support for 15+ languages.
 - Globaleur runs on SOC-2 aligned controls and offers private deployment, data isolation, and encryption for enterprise customers.
-- The company placed second (Top Voted) at the Singapore Airlines AppChallenge 2020([Globaleur](https://www.globaleur.com/post/globaleur-announced-as-the-winner-of-singapore-airlines-appchallenge-2020)).
+- The company placed second (Top Voted) at the Singapore Airlines AppChallenge 2020.
 - Globaleur was selected as one of the Seoul Tourism Organization's 2020 tourism startup projects([Seoul Tourism](https://english.visitseoul.net/partners-en/startup-project-2020/GLOBALEUR_/36613)).
 - Globaleur raised a Pre-Series A round of about KRW 3.6 billion, with K-Net Investment Partners and Silicon Valley VCs participating([ET News](https://www.etnews.com/20221121000254)).
 - Globaleur was selected for the 2026 Gangnam-gu Test Bed program.

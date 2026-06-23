@@ -35,7 +35,7 @@ Useful pilot settings include retail chains that want shopper-journey data and t
 
 P2ACH AI lists partners and customers including AWS, GS Retail, Hanwha Vision, LOTTE, Shinhan, and Seoul Metro([P2ACH AI](https://p2ach.ai)). Reported deployment results include higher viewer interest, higher sales for advertised products, and lower operating cost([P2ACH AI](https://p2ach.ai)).
 
-The company has run overseas pilots and installation contracts in Japan, including a railway line in Shizuoka and a large convenience-store chain([StartupN](https://www.startupn.kr)). It was selected for the Ministry of SMEs and Startups Deep-tech TIPS program([RndCircle](https://www.rndcircle.io)) and closed a Pre-Series A round of about KRW 3 billion in 2025([Platum](https://platum.kr)). It was also selected for the 2026 Gangnam-gu Test-Bed program.
+The company has run overseas pilots and installation contracts in Japan, including a railway line in Shizuoka. It was selected for the Ministry of SMEs and Startups Deep-tech TIPS program and closed a Pre-Series A round of about KRW 3 billion in 2025. It was also selected for the 2026 Gangnam-gu Test-Bed program.
 
 ## Collaboration Relevance
 

@@ -29,10 +29,10 @@ SHMD는 채혈이나 절개 없이 측정하는 뇌건강 하드웨어와 소프
 
 ## 성과 및 레퍼런스
 
-- BRAINCHECK.AI는 2025년 5월 출시 이후 34개국 5,000명 이상이 사용했으며, 검진 모델은 임상 연구에 기반합니다([BRAINCHECK.AI](https://shmd.io/braincheck-ai/)).
+- BRAINCHECK.AI는 34개국 5,000명 이상이 사용했으며, 검진 모델은 임상 연구에 기반합니다([BRAINCHECK.AI](https://shmd.io/braincheck-ai/)).
 - 2025년 NVIDIA Inception Program 회원사로 선정됐습니다([벤처스퀘어](https://www.venturesquare.net/971557)).
 - 정부 TIPS의 창업사업화·R&D·해외마케팅 전 분야에 선정돼 약 8억 원을 지원받았습니다([SHMD](https://shmd.io/shmd-%ED%8C%81%EC%8A%A4-%EC%A0%84-%EB%B6%84%EC%95%BC-%EC%84%9D%EA%B6%8Crd%EB%B6%80%ED%84%B0-%ED%95%B4%EC%99%B8%EB%A7%88%EC%BC%80%ED%8C%85%EA%B9%8C%EC%A7%80-%ED%8A%B8%EB%A6%AC%ED%94%8C/)).
-- 충북지식재산센터 IP나래 프로그램에 선정됐으며 2025년 수출잠재기업으로 지정됐습니다([SHMD](https://shmd.io/)).
+- 충북지식재산센터 IP나래 프로그램에 선정됐으며([뉴시스](https://www.newsis.com/view/NISX20250605_0003202812)), 2025년 수출잠재기업으로 지정됐습니다([머니투데이](https://www.mt.co.kr/industry/2025/04/17/2025041612053826362)).
 
 ## 협업 가능성
 

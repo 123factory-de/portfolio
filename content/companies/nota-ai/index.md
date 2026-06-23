@@ -6,7 +6,7 @@ description: "Nota AI optimizes AI models for hardware and runs on-device vision
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
 tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI", "Gangnam-gu Testbed"]
-website: "https://www.kr.nota.ai/"
+website: "https://www.nota.ai/"
 founded: "2015"
 ceo: "Myung-su Chae"
 headquarters: "Daejeon, Korea"
@@ -21,9 +21,9 @@ The company started in 2015 and is now listed on the KOSDAQ market. It operates 
 
 ## Technology & Product
 
-[NetsPresso](https://www.kr.nota.ai/netspresso) is an AI model optimization platform that understands hardware characteristics. It covers model development, model optimization, and model validation in one place. The platform uses techniques such as structured pruning, quantization, and graph optimization, then validates results on real devices to reduce trial and error.
+[NetsPresso](https://www.nota.ai/netspresso) is an AI model optimization platform that understands hardware characteristics. It covers model development, model optimization, and model validation in one place. The platform uses techniques such as structured pruning, quantization, and graph optimization, then validates results on real devices to reduce trial and error.
 
-[Nota Vision Agent](https://www.kr.nota.ai/ai-solutions-notavisionagent) turns video into actionable insight using generative AI. It supports real-time monitoring, instant alerts, event summary reports, and natural-language Q&A and video search. The company also offers intelligent transportation systems (ITS) and driver monitoring and face recognition (DMS & FR) solutions for traffic and automotive use.
+[Nota Vision Agent](https://www.nota.ai/ai-solutions-notavisionagent) turns video into actionable insight using generative AI. It supports real-time monitoring, instant alerts, event summary reports, and natural-language Q&A and video search. The company also offers intelligent transportation systems (ITS) and driver monitoring and face recognition (DMS & FR) solutions for traffic and automotive use.
 
 ## Market & Use Cases
 
@@ -35,7 +35,7 @@ Typical use cases include license plate recognition, pedestrian and fall detecti
 
 Cumulative patent filings are 215 and registered patents are 108([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). Revenue grew from KRW 8.4 billion in 2024 to KRW 13.1 billion in 2025([Sisa Journal-e](https://www.sisajournal-e.com/news/articleView.html?idxno=419174)).
 
-Nota AI works with global semiconductor companies including NVIDIA, Qualcomm, Samsung Electronics, Renesas, Sony, MediaTek, and NXP([Nota AI](https://www.nota.ai/aboutus)). It was selected for CB Insights' 2025 AI 100 and won a 2024 Minister of SMEs and Startups award([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). In 2025 it signed a supply contract with Dubai's Roads and Transport Authority for a generative-AI traffic solution([Nota AI ITS](https://www.kr.nota.ai/ai-solutions-its)). The company is registered on the DIPS1000+ deep-tech list and was a 2017 TIPS startup([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
+Nota AI works with global semiconductor companies including NVIDIA, Qualcomm, Samsung Electronics, Renesas, Sony, MediaTek, and NXP([Nota AI](https://www.nota.ai/aboutus)). It was selected for CB Insights' 2025 AI 100 and won a 2024 Minister of SMEs and Startups award([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)). In 2025 it signed a supply contract with Dubai's Roads and Transport Authority for a generative-AI traffic solution([Nota AI ITS](https://www.nota.ai/ai-solutions-its)). The company is registered on the DIPS1000+ deep-tech list and was a 2017 TIPS startup([DIPS1000+](https://dips1000.net/com_ai_gall_all/228?page=11)).
 
 ## Collaboration Relevance
 

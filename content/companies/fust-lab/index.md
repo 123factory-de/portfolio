@@ -6,7 +6,7 @@ description: "Developer of DEBREX focused ultrasonic nano-dispersion equipment f
 industries: ["Business Products and Services", "Materials and Resources"]
 verticals: ["Nanotechnology", "Advanced Manufacturing"]
 tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
-website: "https://www.fustlab.com"
+website: "https://www.fustlab.com/?locale=en_US"
 founded: "May 30, 2022"
 ceo: "Minsung Hwangbo"
 headquarters: "Mapo-gu, Seoul / Yuseong-gu, Daejeon, Korea"
@@ -23,7 +23,7 @@ Its main platform, DEBREX, supports surfactant-free nano-dispersion and emulsifi
 
 FUST Lab has product lines for material processing and water treatment:
 
-- **[DEBREX](https://www.fustlab.com/)**: focused ultrasonic equipment for emulsification, dispersion, extraction, and water treatment. DEBREX 30/50 are for formulation R&D, DEBREX 100 is for continuous processing, and DEBREX 500 is for scale-up and mass production.
+- **[DEBREX](https://www.fustlab.com/?locale=en_US)**: focused ultrasonic equipment for emulsification, dispersion, extraction, and water treatment. DEBREX 30/50 are for formulation R&D, DEBREX 100 is for continuous processing, and DEBREX 500 is for scale-up and mass production.
 - **[CAVITOX](https://www.fustlab.com/page/water_treatment.php?locale=en_US)**: ultrasonic advanced oxidation equipment for hard-to-degrade wastewater, including PFAS-related contaminants.
 - **Cosmetics ODM**: surfactant-free cosmetic formulation and ODM using DEBREX process technology. FUST Lab also built a demo-room setup in Germany for European customer testing.
 

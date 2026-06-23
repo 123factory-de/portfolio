@@ -6,7 +6,7 @@ description: "정밀·정량 자동 주입과 통증 저감 알고리즘을 기�
 industries: ["Healthcare"]
 verticals: ["Healthtech"]
 tags: ["medical-device", "digital-automatic-injector", "Bio:cap"]
-website: "https://medihub.co.kr/en"
+website: "https://medihub.co.kr/"
 founded: "2017"
 ceo: "염현철"
 headquarters: "대한민국 군포"

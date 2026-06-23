@@ -6,7 +6,7 @@ description: "Sustainable lithium-ion battery direct recycling technology using 
 industries: ["Materials and Resources", "Energy"]
 verticals: ["Cleantech", "Climate Tech"]
 tags: ["battery-recycling", "direct-recycling", "cathode-materials", "anode-materials", "secondary-batteries", "KOSME PoC"]
-website: "https://adbatteryrecycle.com"
+website: "http://en.adbatteryrecycle.com"
 founded: "2021"
 ceo: "Yutak Kim"
 headquarters: "Gwangyang, Korea"

@@ -19,7 +19,7 @@ MEDIHUB is a medical device company developing the `i-JECT` lineup of digitally 
 
 ## Technology & Product
 
-The core offering is the [i-JECT](https://medihub.co.kr/product/iject) product family, which includes i-JECT ST for local anesthesia, i-JECT B, i-JECT V, and i-JECT MD. These devices use a pain-relief algorithm and provide precise, automated volume control and constant pressure injection. The i-JECT ST was developed through collaborative research with the Seoul National University Dental Hospital Medical Device R&BD platform. The i-JECT B is specifically designed to reduce procedure pain and minimize drug loss using a patented Low Dead Space syringe.
+The core offering is the [i-JECT](https://medihub.co.kr/en/product/iject) product family, which includes i-JECT ST for local anesthesia, i-JECT B, i-JECT V, and i-JECT MD. These devices use a pain-relief algorithm and provide precise, automated volume control and constant pressure injection. The i-JECT ST was developed through collaborative research with the Seoul National University Dental Hospital Medical Device R&BD platform. The i-JECT B is specifically designed to reduce procedure pain and minimize drug loss using a patented Low Dead Space syringe.
 
 ## Market & Use Cases
 

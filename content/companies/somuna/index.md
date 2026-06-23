@@ -6,7 +6,7 @@ description: "AI battery-controlled idle-free cold-chain system for refrigerated
 industries: ["Business Products and Services", "Energy"]
 verticals: ["Supply Chain Technology", "Cleantech"]
 tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
-website: "https://somuna.co.kr"
+website: "https://somuna.co.kr/en/main?localeLang=en"
 founded: "2020"
 ceo: "Jongwon Song"
 headquarters: "Busan, Korea"

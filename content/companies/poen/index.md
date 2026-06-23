@@ -15,7 +15,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-POEN remanufactures and recycles electric vehicle (EV) batteries. The company assesses the health of end-of-life or damaged EV battery packs. It then rebuilds them into refurbished automotive batteries or repurposes them for stationary Energy Storage Systems (ESS).
+POEN remanufactures and recycles electric vehicle (EV) batteries. Spun off from a Hyundai Motor in-house venture, the company assesses the health of end-of-life or damaged EV battery packs. It then rebuilds them into refurbished automotive batteries or repurposes them for stationary Energy Storage Systems (ESS).
 
 ## Technology & Product
 
@@ -34,7 +34,7 @@ POEN works with automotive OEMs, battery manufacturers, and fleet operators who 
 - POEN has remanufactured more than 1,000 EV battery packs over a four-year period in Korea.
 - Major global OEMs have saved an estimated USD 20 million through POEN's battery remanufacturing services.
 - The company maintains active R&D and quality analysis collaborations with major industry players, including SK On, CATL, Webasto, and Hyundai Mobis.
-- POEN is expanding internationally, having registered a U.S. branch in Los Angeles and a German branch in Frankfurt.
+- POEN is expanding internationally, having registered a U.S. branch in Los Angeles and a German branch in Frankfurt, and is preparing to set up a battery remanufacturing plant in Europe, centered on key industrial regions such as Stuttgart.
 
 ## Collaboration Relevance
 

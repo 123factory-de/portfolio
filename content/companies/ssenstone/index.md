@@ -19,7 +19,7 @@ SSenStone develops cutting-edge authentication technologies for user access, fin
 
 ## Technology & Product
 
-[OTAC](https://www.ssenstone.com/tech/tech-otac) is SSenStone's core one-way dynamic authentication technology. It supports authentication between people, devices, and control systems.
+[OTAC](https://www.ssenstone.com/en/tech-otac) is SSenStone's core one-way dynamic authentication technology. It supports authentication between people, devices, and control systems.
 
 [Endpoint OTAC](https://www.ssenstone.com/en/solution/endpoint-otac) applies the technology to ICS and OT environments. It helps restrict PLC access to approved users and devices, and supports security work linked to NIS2, CRA, NERC CIP, and IEC 62443.
 

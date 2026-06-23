@@ -33,9 +33,9 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-비전스페이스는 500 Global로부터 프리시드 투자를 유치했으며 2025년 1월 발표됐습니다([BusinessKorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=233613)). 2024년 11월 중소벤처기업부 딥테크 팁스에 선정됐고, FIX 2024 이노베이션 어워즈 ABB 부문에서 최고 혁신상을 받았습니다([VISIONSPACE](https://visionspace.co.kr/index.html)).
+비전스페이스는 500 Global로부터 프리시드 투자를 유치했으며 2025년 1월 발표됐습니다([BusinessKorea](https://www.businesskorea.co.kr/news/articleView.html?idxno=233613)). 2024년 11월 중소벤처기업부 딥테크 팁스에 선정됐고, FIX 2024 이노베이션 어워즈 ABB 부문에서 최고 혁신상을 받았습니다([FIX Korea](https://fixkorea.or.kr/about/bis_info_list.asp)).
 
-사업화 측면에서는 2025년 현대무벡스 청라물류센터, LX한국국토정보공사 동작구 신청사와 디지털 트윈 계약을 체결했습니다([VISIONSPACE](https://visionspace.co.kr/index.html)). IBK창공 실리콘밸리 2기에도 선정됐으며([아시아경제](https://www.asiae.co.kr/article/2024090314224090167)), MWC 2025와 VIVA Technology Paris 등 글로벌 행사에 참가했습니다.
+사업화 측면에서는 2025년 현대무벡스 청라물류센터, LX한국국토정보공사 동작구 신청사와 디지털 트윈 계약을 체결했습니다. IBK창공 실리콘밸리 2기에도 선정됐으며([아시아경제](https://www.asiae.co.kr/article/2024090314224090167)), MWC 2025와 VIVA Technology Paris 등 글로벌 행사에 참가했습니다.
 
 ## 협업 가능성
 
