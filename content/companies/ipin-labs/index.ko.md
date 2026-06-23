@@ -7,6 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Supply Chain Technology"]
 tags: ["BPIN", "indoor-positioning", "RTLS", "digital-twin", "asset-tracking", "Gangnam-gu Testbed"]
 website: "https://home.ipinlabs.com/ko"
+founded: "2022"
 ceo: "유재현"
 headquarters: "서울 강남"
 logo: "logo.png"

@@ -7,7 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
 tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
 website: "https://www.deskroom.so/en"
-founded: ""
+founded: "2024"
 ceo: "Kyung-ho Park"
 headquarters: "Korea"
 logo: "logo.png"

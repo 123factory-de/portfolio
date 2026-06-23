@@ -23,7 +23,7 @@
   {{ end }}
   {{ if not .Site.Params.disableTextInHeader | default true }}
     <div class="mt-2 flex min-w-0 shrink flex-col items-start leading-none">
-      <a href="{{ "" | relLangURL }}" class="font-semibold tracking-tight truncate min-w-0 shrink" style="font-size: 1.85rem;">
+      <a href="{{ "" | relLangURL }}" class="font-semibold tracking-tight truncate min-w-0 shrink" style="font-size: 1.85rem; line-height: 1.25; padding-bottom: 0.1rem;">
         {{ .Site.Title | markdownify }}
       </a>
       <div class="mt-0.5 text-neutral-500 dark:text-neutral-400" style="font-size: 0.68rem;">

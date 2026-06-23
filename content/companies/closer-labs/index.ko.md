@@ -6,8 +6,8 @@ description: "클로저랩스는 데이터 통합, 분석, 의사결정 지원�
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
 tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
-website: "https://www.deskroom.so/en"
-founded: ""
+website: "https://www.deskroom.so/ko"
+founded: "2024"
 ceo: "박경호"
 headquarters: "한국"
 logo: "logo.png"
@@ -21,7 +21,7 @@ logo: "logo.png"
 
 ## 기술 및 제품
 
-[Deskroom](https://www.deskroom.so/en)은 데이터베이스, ERP, CRM, 커머스 데이터, 광고 데이터, 외부 피드를 연결합니다. 온톨로지 기반 규칙을 활용해 AI가 데이터의 출처, 객체, 속성, 지표를 이해하도록 만듭니다.
+[Deskroom](https://www.deskroom.so/ko)은 데이터베이스, ERP, CRM, 커머스 데이터, 광고 데이터, 외부 피드를 연결합니다. 온톨로지 기반 규칙을 활용해 AI가 데이터의 출처, 객체, 속성, 지표를 이해하도록 만듭니다.
 
 사용자는 SQL을 직접 작성하지 않아도 자연어 검색, 대시보드 생성, 반복 리포트 자동화, 이상 징후 알림을 활용할 수 있습니다.
 

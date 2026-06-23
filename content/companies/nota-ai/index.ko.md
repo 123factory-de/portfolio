@@ -1,5 +1,5 @@
 ---
-title: "노타 (Nota AI)"
+title: "노타"
 date: 2026-06-22
 draft: false
 description: "노타는 하드웨어에 맞춰 AI 모델을 경량화·최적화하고, 엣지 디바이스와 교통·안전 분야에 온디바이스 영상지능을 제공합니다."

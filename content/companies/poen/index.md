@@ -21,9 +21,9 @@ POEN remanufactures and recycles electric vehicle (EV) batteries. Spun off from 
 
 POEN provides a range of battery diagnostics and remanufacturing services:
 
-- **Battery Remanufacturing**: Rebuilds used EV battery packs into quality-tested packs that meet automotive standards.
-- **Safety & Diagnostic Testing**: Measures residual capacity and health to identify cells or modules suitable for reuse or repurposing.
-- **Second-Life Storage**: Converts decommissioned battery packs into energy storage for residential, commercial, or micro-grid installations.
+- **Battery Remanufacturing**: Selects reusable cells and modules from collected batteries and rebuilds them into EV battery packs that pass automotive-grade quality testing.
+- **Battery Diagnostics & Residual-Value Assessment**: Applies diagnostic algorithms that precisely analyze remaining life, cell-to-cell voltage uniformity, and defects.
+- **Second-Life Battery Reuse**: Redesigns battery packs that are difficult to remanufacture for vehicles into power sources for other uses such as residential, commercial, and micro-grid ESS and UPS.
 
 ## Market & Use Cases
 
@@ -31,10 +31,9 @@ POEN works with automotive OEMs, battery manufacturers, and fleet operators who 
 
 ## Traction & References
 
-- POEN has remanufactured more than 1,000 EV battery packs over a four-year period in Korea.
-- Major global OEMs have saved an estimated USD 20 million through POEN's battery remanufacturing services.
-- The company maintains active R&D and quality analysis collaborations with major industry players, including SK On, CATL, Webasto, and Hyundai Mobis.
-- POEN is expanding internationally, having registered a U.S. branch in Los Angeles and a German branch in Frankfurt, and is preparing to set up a battery remanufacturing plant in Europe, centered on key industrial regions such as Stuttgart.
+- POEN has remanufactured more than 1,000 EV battery packs across about ten vehicle models over a four-year period in Korea([THE ELEC](https://www.thelec.kr/news/articleView.html?idxno=29718)).
+- The company maintains active R&D and quality analysis collaborations with major industry players, including SK On, CATL, Webasto, and Hyundai Mobis([POEN](https://poen.co.kr/en/)).
+- POEN is expanding internationally, having registered a U.S. branch in Los Angeles and a German branch in Frankfurt, and is preparing to set up a battery remanufacturing plant in Europe([THE ELEC](https://www.thelec.kr/news/articleView.html?idxno=29718)).
 
 ## Collaboration Relevance
 

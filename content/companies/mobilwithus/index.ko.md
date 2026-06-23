@@ -7,7 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Mobility Tech"]
 tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
 website: "https://www.mobilwithus.com/ko/"
-founded: ""
+founded: "2023"
 ceo: "박한나"
 headquarters: "성남, 한국"
 logo: "logo.png"

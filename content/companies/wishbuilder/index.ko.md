@@ -7,6 +7,7 @@ industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
 tags: ["water treatment", "biomass fuel", "circular resources", "carbon reduction", "climatelaunchpad"]
 website: "https://wishbuilder.co.kr/"
+founded: "2024"
 ceo: "김효진"
 headquarters: "서울"
 logo: "logo.png"

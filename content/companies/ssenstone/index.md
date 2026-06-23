@@ -7,8 +7,8 @@ industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Internet of Things (IoT)"]
 tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
 website: "https://www.ssenstone.com/en/"
-founded: ""
-ceo: ""
+founded: "2015"
+ceo: "Chang-Hun Yoo"
 headquarters: "Korea"
 logo: "logo.svg"
 ---
@@ -33,9 +33,9 @@ Use cases include PLC access control, device authentication, phishing-resistant 
 
 ## Traction & References
 
-SSenStone has more than 340 global patent applications, more than 200 registered global patents, and more than 380 global IP assets.
+SSenStone has more than 340 global patent applications, more than 200 registered global patents, and more than 380 global IP assets([SSenStone](https://www.ssenstone.com/en/tech/about)).
 
-The company was ranked first in the Baby Unicorn program under Korea's K-Unicorn project in 2020. It also won the 2020 Europas Award in the cybersecurity category and the Cyber Security Breakthrough Award for Authentication Solution of the Year.
+The company was ranked first in the Baby Unicorn program under Korea's K-Unicorn project in 2020([ET News](https://www.etnews.com/20200707000328)). Its UK subsidiary swIDch also placed first in the cybersecurity category at the 2020 Europas Awards([ET News](https://www.etnews.com/20200707000328)) and won the 2020 CyberSecurity Breakthrough Award for Authentication Solution of the Year([Business Wire](https://www.businesswire.com/news/home/20201016005143/en/swIDch-Wins-Authentication-Solution-of-the-Year-in-the-2020-CyberSecurity-Breakthrough-Awards)).
 
 Global business runs through swIDch, and OTAC technology has been provided to more than 50 customers.
 

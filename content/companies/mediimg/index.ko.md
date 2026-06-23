@@ -1,5 +1,5 @@
 ---
-title: "메디이미지 (MEDIIMG)"
+title: "메디이미지"
 date: 2026-06-22
 draft: false
 description: "TOF-MRA 기반 뇌혈관 영상을 3D 컬러와 정량 SIG 데이터로 변환해 뇌혈관 건강 평가와 위험도 분석을 지원하는 의료영상 AI 기업."

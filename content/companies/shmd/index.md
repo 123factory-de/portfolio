@@ -7,6 +7,7 @@ industries: ["Healthcare"]
 verticals: ["Digital Health", "Wearables & Quantified Self", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["CEREBAND", "BRAINCHECK.AI", "transcranial-doppler", "stroke-prevention", "non-invasive-diagnostics", "Gangnam-gu Testbed"]
 website: "https://shmd.io/en"
+founded: "2024"
 ceo: "Minyoung Song"
 headquarters: "Cheongju, Korea"
 logo: "logo.png"

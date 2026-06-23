@@ -15,13 +15,13 @@ logo: "logo.png"
 
 ## Company Overview
 
-LESAUT is a sustainable fashion company. It makes fashion accessories with cactus-based vegan materials, recycled PET, and other lower-impact materials.
+LESAUT is a sustainable fashion company. It makes fashion accessories with recycled fabrics and other lower-impact materials.
 
 The company connects design, material selection, and product transparency. Its goal is to make sustainable fashion products that can be sold through retail, pop-up, and online channels.
 
 ## Technology & Product
 
-[LESAUT](https://www.le-saut.com/44) develops accessories and fashion products using recycled and vegan materials. The company also works on product transparency and digital product tracking.
+[LESAUT](https://www.le-saut.com/44) develops accessories and fashion products using recycled fabrics and other lower-impact materials. The company also works on product transparency and digital product tracking.
 
 This approach can help customers understand material origin, sustainability information, and product story without relying only on brand claims.
 

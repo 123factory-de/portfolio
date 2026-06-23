@@ -8,6 +8,7 @@ verticals: ["Mobility Tech"]
 tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014"
+ceo: "Minkyung Oh"
 headquarters: "Seoul, Korea"
 logo: "logo.png"
 ---

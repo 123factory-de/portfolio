@@ -7,7 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Mobility Tech"]
 tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
 website: "https://www.mobilwithus.com/en/"
-founded: ""
+founded: "2023"
 ceo: "Hanna Park"
 headquarters: "Seongnam, Korea"
 logo: "logo.png"

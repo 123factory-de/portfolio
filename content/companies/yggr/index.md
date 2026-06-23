@@ -35,7 +35,7 @@ The brand is also relevant for retail and franchise expansion, both in Korea and
 
 Lazy Yogurt operates four physical stores, including two in Osaka, Japan (Namba and Nakazakicho), in addition to its Seoul locations([Lazy Yogurt](https://www.lazyyogurt.com)). The company is pursuing a master franchise structure to expand the brand in the Japanese market.
 
-The company built its own manufacturing facility in Seongsu-dong and obtained HACCP food-safety certification. It received seed investment from accelerator KingoSpring and was approved for the private-investment-linked matching loan program LIPS([EnetNews](https://www.enetnews.co.kr/news/articleView.html?idxno=42626)). It was also selected for the 2026 Gangnam-gu Test-Bed program.
+The company built its own manufacturing facility in Seongsu-dong and obtained HACCP food-safety certification. It received seed investment from accelerator KingoSpring([EnetNews](https://www.enetnews.co.kr/news/articleView.html?idxno=42626)). It was also selected for the 2026 Gangnam-gu Test-Bed program.
 
 ## Collaboration Relevance
 

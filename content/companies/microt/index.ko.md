@@ -1,5 +1,5 @@
 ---
-title: "마이크로트 (MICROT)"
+title: "마이크로트"
 date: 2026-06-22
 draft: false
 description: "녹내장 환자의 안압 조절을 돕는 국내 제조 미세침습 녹내장 임플란트 A-stream을 개발·상용화하는 안과 의료기기 기업."

@@ -7,6 +7,7 @@ industries: ["Healthcare"]
 verticals: ["Digital Health", "Wearables & Quantified Self", "Artificial Intelligence & Machine Learning (AI/ML)"]
 tags: ["CEREBAND", "BRAINCHECK.AI", "transcranial-doppler", "stroke-prevention", "non-invasive-diagnostics", "Gangnam-gu Testbed"]
 website: "https://shmd.io/"
+founded: "2024"
 ceo: "송민영"
 headquarters: "충북 청주"
 logo: "logo.png"

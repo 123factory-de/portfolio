@@ -8,6 +8,7 @@ verticals: ["Mobility Tech"]
 tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014년"
+ceo: "오민경"
 headquarters: "서울"
 logo: "logo.png"
 ---

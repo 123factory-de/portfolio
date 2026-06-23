@@ -1,5 +1,5 @@
 ---
-title: "비전스페이스 (VISIONSPACE)"
+title: "비전스페이스"
 date: 2026-06-22
 draft: false
 description: "비전스페이스는 제조·물류 자동화 현장을 디지털 트윈으로 구현하고 AI 시뮬레이션과 실시간 관제를 제공하는 Physical AI 기업입니다."

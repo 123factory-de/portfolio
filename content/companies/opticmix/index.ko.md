@@ -7,7 +7,7 @@ industries: ["Materials and Resources", "Information Technology"]
 verticals: ["Augmented Reality (AR)", "Advanced Manufacturing", "Mobility Tech"]
 tags: ["holographic display", "HUD", "AR", "transparent display", "SBA PoC"]
 website: "https://www.opticmix.kr/"
-founded: ""
+founded: "2024"
 ceo: "황이환"
 headquarters: "서울, 한국"
 logo: "logo.png"

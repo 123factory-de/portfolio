@@ -39,10 +39,10 @@ DEBREX는 원통형 초음파 처리 방식으로 제어된 유로 안에 에너
 
 ## 성과 및 레퍼런스
 
-- 2023년 Seed, 2024년 Pre-A, 2025년 Pre-Series A bridge 투자를 유치했습니다. 누적 투자금은 약 66억 원입니다.
-- DEBREX는 2023년 국내 출시됐고, DEBREX 100/500은 CE, FCC, KC 인증을 확보했습니다.
-- 해외 사업화로는 Sanyo Trading에 수출했고, P&G Singapore·Resonac·Nippon Kayaku와 PoC를 진행했습니다. 한국·일본·독일에는 사무소와 데모룸을 운영하고 있습니다.
-- 수상 이력으로는 DEBREX CES 2025 Innovation Award, CAVITOX CES 2026 Innovation Award, CAVITOX Edison Awards 2026, Water Industry Startup Grand Prize, DCAMP D-Day 우승 등이 있습니다. 이 외에 Deep Tech TIPS, K-water 스타트업 파트너, KEITI Eco-Startup, KDB NextONE, IBK창공 유럽 프로그램 등에 선정됐습니다.
+- 2023년 Seed, 2024년 Pre-A, 2025년 Pre-Series A bridge 투자를 유치했습니다. 누적 투자금은 약 66억 원입니다([퍼스트랩 연혁](https://www.fustlab.co.kr/page/history.php?locale=ko_KR)).
+- DEBREX는 2023년 국내 출시됐고, DEBREX 100/500은 CE, FCC, KC 인증을 확보했습니다([퍼스트랩 연혁](https://www.fustlab.co.kr/page/history.php?locale=ko_KR)).
+- 해외 사업화로는 Sanyo Trading에 수출했고, P&G Singapore·Resonac·Nippon Kayaku와 PoC를 진행했습니다. 한국·일본·독일에는 사무소와 데모룸을 운영하고 있습니다([퍼스트랩 연혁](https://www.fustlab.co.kr/page/history.php?locale=ko_KR)).
+- 수상 이력으로는 DEBREX CES 2025 Innovation Award, CAVITOX CES 2026 Innovation Award, CAVITOX Edison Awards 2026, Water Industry Startup Grand Prize, DCAMP D-Day 우승 등이 있습니다([퍼스트랩 연혁](https://www.fustlab.co.kr/page/history.php?locale=ko_KR)). 이 외에 Deep Tech TIPS, K-water 스타트업 파트너, KEITI Eco-Startup, KDB NextONE, IBK창공 유럽 프로그램 등에 선정됐습니다.
 
 ## 협업 가능성
 
