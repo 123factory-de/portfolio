@@ -5,7 +5,7 @@ draft: false
 description: "FDA- and MFDS-approved 3D Color MRA software that converts 2D black-and-white TOF-MRA into color cerebrovascular hemodynamic biomarker data."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["medical-imaging", "mra", "Bio:cap"]
+programs: ["biocap"]
 website: "https://en.mediimg.com/"
 founded: "2018"
 ceo: "Seulki Jung"

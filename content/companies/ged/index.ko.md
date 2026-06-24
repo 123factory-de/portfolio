@@ -5,7 +5,7 @@ draft: false
 description: "수소로 엔진 내부 카본을 제거해 연비를 높이고 배출가스를 줄이는 친환경 기술."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["hydrogen", "Rebooz", "engine carbon cleaning", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "http://www.gedkorea.com"
 founded: "2016"
 ceo: "강동연"

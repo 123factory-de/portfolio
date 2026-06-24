@@ -5,7 +5,7 @@ draft: false
 description: "혈액 기반 다중 바이오마커 패널과 AI 분석을 활용해 알츠하이머병·파킨슨병 등 퇴행성 뇌질환 조기 진단을 목표로 하는 진단기술 기업."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Life Sciences"]
-tags: ["ai-diagnostics", "microfluidics", "Bio:cap"]
+programs: ["biocap"]
 website: "https://www.linkedin.com/company/ninebioware/"
 founded: "2022"
 ceo: "이내응"

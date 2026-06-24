@@ -5,7 +5,7 @@ draft: false
 description: "Heart Planet Company develops smart socks and textile sensors for posture, balance, and gait data."
 industries: ["Healthcare", "Consumer Products and Services"]
 verticals: ["Wearables & Quantified Self", "Digital Health"]
-tags: ["smart socks", "textile sensor", "wearable", "circular economy", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: ""
 founded: ""
 ceo: "Yoanna Lee"

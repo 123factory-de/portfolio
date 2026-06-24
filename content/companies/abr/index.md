@@ -5,7 +5,7 @@ draft: false
 description: "Sustainable lithium-ion battery direct recycling technology using water and ultrasonic waves."
 industries: ["Materials and Resources", "Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["battery-recycling", "direct-recycling", "cathode-materials", "anode-materials", "secondary-batteries", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "http://en.adbatteryrecycle.com"
 founded: "2021"
 ceo: "Yutak Kim"

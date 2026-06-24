@@ -5,7 +5,7 @@ draft: false
 description: "Minimally invasive glaucoma surgery implant designed to help regulate intraocular pressure through aqueous humor drainage."
 industries: ["Healthcare"]
 verticals: ["Healthtech", "Life Sciences"]
-tags: ["ophthalmology-implant", "glaucoma", "Bio:cap"]
+programs: ["biocap"]
 website: "https://microtinc.com/en/"
 founded: "2019"
 ceo: "Jongcheol Han"

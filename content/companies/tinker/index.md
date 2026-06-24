@@ -5,7 +5,7 @@ draft: false
 description: "Tinker is a men's styling and curation commerce platform that uses AI personalization to help men dress better."
 industries: ["Consumer Products and Services", "Information Technology"]
 verticals: ["Ecommerce", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["mens fashion", "styling platform", "curation commerce", "personalization", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "http://www.tinker.style"
 founded: "2022"
 ceo: "Kim Tae-eok"

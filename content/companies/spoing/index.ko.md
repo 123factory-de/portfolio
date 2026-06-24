@@ -5,7 +5,7 @@ draft: false
 description: "무인 락커와 QR 출입을 활용한 캠퍼스 기반 공유 플랫폼입니다."
 industries: ["Consumer Products and Services"]
 verticals: ["Internet of Things (IoT)", "Mobile"]
-tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: ""
 ceo: "신태영"
 logo: "logo.png"

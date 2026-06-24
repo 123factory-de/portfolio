@@ -5,7 +5,7 @@ draft: false
 description: "트로바이는 KAIST 박사 연구진이 설립한 AI 딥테크 스튜디오로, 여행의 지능 레이어를 만드는 AirNotte를 준비합니다."
 industries: ["Information Technology", "Consumer Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["neuro-symbolic AI", "travel tech", "AirNotte", "deep tech", "KAIST"]
+programs: ["climate-launchpad"]
 website: "https://www.trobai.com/"
 founded: "2026년 1월"
 ceo: "조혜리"

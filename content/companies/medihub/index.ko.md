@@ -5,7 +5,7 @@ draft: false
 description: "정밀·정량 자동 주입과 통증 저감 알고리즘을 기반으로 치과·의료·에스테틱용 디지털 자동주사기 i-JECT 제품군을 개발."
 industries: ["Healthcare"]
 verticals: ["Healthtech"]
-tags: ["medical-device", "digital-automatic-injector", "Bio:cap"]
+programs: ["biocap"]
 website: "https://medihub.co.kr/"
 founded: "2017"
 ceo: "염현철"

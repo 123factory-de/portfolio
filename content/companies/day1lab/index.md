@@ -5,7 +5,7 @@ draft: false
 description: "Alternative plastic materials company developing starch-based biodegradable and microplastic-free materials."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
+programs: ["climaccelerator", "sba-poc"]
 website: "https://day1-lab.com/en/"
 founded: "2021"
 ceo: "Jubong Lee"

@@ -5,7 +5,7 @@ draft: false
 description: "친구하자는 시니어 관계 형성과 AI 기반 돌봄 모니터링을 결합한 서비스를 만듭니다."
 industries: ["Healthcare", "Consumer Products and Services"]
 verticals: ["Digital Health", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["senior care", "AI monitoring", "social connection", "climate resilience", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://www.chingoohaja.com/"
 founded: "2025"
 ceo: "조성우"

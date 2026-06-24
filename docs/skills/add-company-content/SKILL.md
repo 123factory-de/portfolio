@@ -51,7 +51,7 @@ draft: false
 description: "One-sentence summary for cards and metadata."
 industries: ["Information Technology", "Healthcare"]
 verticals: ["Cybersecurity", "Digital Health"]
-tags: ["specific technology", "secondary keyword"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://example.com"
 founded: "2021"
 ceo: "Jane Doe"
@@ -67,7 +67,6 @@ Rules:
 - Add `founded`, `ceo`, and `headquarters` when they are available from public source material. Do not guess these values.
 - Keep `founded` concise and consistent for the portfolio facts block. Prefer the year only, such as `"2024"`. Use year and month only when the month is important for context. Do not include the exact day unless the user explicitly asks for legal-level detail.
 - Do not include personal phone numbers, emails, or private contact details.
-- Do not add `company` as a tag.
 - Set `industries` using **PitchBook Primary Industry Sectors** only. See [`../../references/pitchbook-industry-taxonomy.md`](../../references/pitchbook-industry-taxonomy.md). Choose one or more of the 7 sectors, written exactly as listed:
   - `Business Products and Services`
   - `Consumer Products and Services`
@@ -76,12 +75,15 @@ Rules:
   - `Healthcare`
   - `Information Technology`
   - `Materials and Resources`
-- Assign the sector(s) that best match the company's primary customers and core business. Most companies have one primary sector; add a second only when the business genuinely spans two. Do not invent sector names or use vertical/technology labels (e.g. `AI`, `Bio`, `Battery`) in `industries` — put those in `verticals` or `tags` instead.
+- Assign the sector(s) that best match the company's primary customers and core business. Most companies have one primary sector; add a second only when the business genuinely spans two. Do not invent sector names or use vertical/technology labels (e.g. `AI`, `Bio`, `Battery`) in `industries` — put those in `verticals` instead.
 - Set `verticals` using **PitchBook Industry Verticals** only. See [`../../references/pitchbook-industry-verticals.md`](../../references/pitchbook-industry-verticals.md). Pick from the A–Z vertical list, written exactly as listed (e.g. `Cleantech`, `Cybersecurity`, `Artificial Intelligence & Machine Learning (AI/ML)`, `Agtech`, `Digital Health`).
   - Verticals are thematic and cross-sector, so they are independent of `industries` — a company can sit in one sector but carry several verticals.
   - Assign **1–4** verticals, most central theme first. Add a vertical only when the company's core business clearly fits it; do not over-tag.
-  - Use the exact vertical names from the reference. Do not invent new verticals. If no listed vertical fits, leave `verticals: []` and capture the theme in `tags` instead.
-- Keep `tags` technical and specific (e.g. a proprietary product name or a narrow technique). Use `tags` for anything too specific to be a vertical. Remember `tags` are metadata and should not be emphasized in the page UI.
+  - Use the exact vertical names from the reference. Do not invent new verticals. If no listed vertical fits, leave `verticals: []`.
+- Use `programs` for accelerator, testbed, PoC, challenge, or portfolio-track membership when that affiliation matters for discovery or grouping.
+  - Examples: `climate-launchpad`, `climaccelerator`, `gangnam-global-testbed-2026`, `kosme-poc`, `sba-poc`, `biocap`.
+  - Use lowercase kebab-case slugs in `programs` so they map cleanly to `content/programs/{slug}/`.
+  - Only add a `programs` entry when the company has a real affiliation, selection, participation, or explicit connection to that track.
 
 ## Page Sections
 
@@ -174,21 +176,22 @@ Use one shared logo file across languages when the logo image is identical. Only
 1. Read the source company information and extract only public, company-level facts.
 2. Assign `industries` by matching the company to a PitchBook Primary Industry Sector using [`../../references/pitchbook-industry-taxonomy.md`](../../references/pitchbook-industry-taxonomy.md).
 3. Assign `verticals` by matching the company's themes to PitchBook Industry Verticals using [`../../references/pitchbook-industry-verticals.md`](../../references/pitchbook-industry-verticals.md).
-4. Pick a stable slug and create `content/companies/{slug}/`.
-5. Add or copy logo assets into that folder.
-6. Write `index.md` in English using the required sections.
-7. Write `index.ko.md` as a Korean translation localized for Korean readers.
-8. Verify no contact/private data was added.
-9. Verify no old section names remain:
+4. Assign `programs` when the company belongs to an accelerator, PoC, testbed, or portfolio track.
+5. Pick a stable slug and create `content/companies/{slug}/`.
+6. Add or copy logo assets into that folder.
+7. Write `index.md` in English using the required sections.
+8. Write `index.ko.md` as a Korean translation localized for Korean readers.
+9. Verify no contact/private data was added.
+10. Verify no old section names remain:
 
 ```sh
 rg -n "Key Signals|핵심 신호|Strategic Highlights|검토 포인트|Fit With 123factory|Contact|Phone|Email" content/companies/{slug}
 ```
 
-10. Build the site:
+11. Build the site:
 
 ```sh
 hugo --gc --minify --cacheDir /private/tmp/hugo_cache_portfolio
 ```
 
-11. Confirm generated card assets point to page-bundle URLs such as `/companies/{slug}/logo.svg` and `/ko/companies/{slug}/logo.svg` when the same logo is shared across languages.
+12. Confirm generated card assets point to page-bundle URLs such as `/companies/{slug}/logo.svg` and `/ko/companies/{slug}/logo.svg` when the same logo is shared across languages.

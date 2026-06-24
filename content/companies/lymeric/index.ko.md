@@ -5,7 +5,7 @@ draft: false
 description: "물성 예측으로 소재 R&D를 가속화하는 물리기반 AI 플랫폼."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing"]
-tags: ["physics-informed AI", "materials informatics", "computational chemistry", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://www.lymeric.ai"
 founded: "2025"
 ceo: "홍석호"

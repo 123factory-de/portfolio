@@ -5,7 +5,7 @@ draft: false
 description: "Eco-friendly mechanical recycling systems for recovering valuable materials from end-of-life solar panels."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["solar-recycling", "material-recovery", "clean-tech", "solar-panel", "resource-circulation", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://dynamicindustry.kr"
 founded: "2021"
 ceo: "Hyon Soo Kim"

@@ -5,9 +5,9 @@ draft: false
 description: "Developer of DEBREX focused ultrasonic nano-dispersion equipment for chemical and battery formulations."
 industries: ["Business Products and Services", "Materials and Resources"]
 verticals: ["Nanotechnology", "Advanced Manufacturing"]
-tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://www.fustlab.com/?locale=en_US"
-founded: "May 30, 2022"
+founded: "2022"
 ceo: "Minsung Hwangbo"
 headquarters: "Mapo-gu, Seoul / Yuseong-gu, Daejeon, Korea"
 logo: "logo.png"

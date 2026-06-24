@@ -1,0 +1,145 @@
+{{ define "main" }}
+  <style>
+    .programs-header {
+      max-width: 52rem;
+    }
+
+    .programs-grid {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+      margin-top: 1.75rem;
+    }
+
+    .program-card {
+      background: #ffffff;
+      border: 1px solid #d4d4d4;
+      border-radius: 0.5rem;
+      box-shadow: 0 12px 30px rgba(22, 22, 22, 0.08);
+      display: flex;
+      flex-direction: column;
+      min-height: 14rem;
+      padding: 1.15rem;
+    }
+
+    .program-card:hover {
+      border-color: rgba(76, 155, 135, 0.58);
+      box-shadow: 0 18px 44px rgba(22, 22, 22, 0.12);
+    }
+
+    .dark .program-card {
+      background: rgba(28, 28, 28, 0.88);
+      border-color: rgba(212, 212, 212, 0.16);
+      box-shadow: 0 16px 34px rgba(0, 0, 0, 0.32);
+    }
+
+    .dark .program-card:hover {
+      border-color: rgba(105, 183, 162, 0.64);
+      box-shadow: 0 18px 44px rgba(76, 155, 135, 0.16);
+    }
+
+    .program-card-body {
+      display: flex;
+      flex: 1;
+      flex-direction: column;
+    }
+
+    .program-card-meta {
+      margin-bottom: 0.85rem;
+    }
+
+    .program-card-count {
+      background: rgba(76, 155, 135, 0.12);
+      border: 1px solid rgba(76, 155, 135, 0.42);
+      border-radius: 999px;
+      color: #2f7f6d;
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 800;
+      padding: 0.42rem 0.58rem;
+    }
+
+    .dark .program-card-count {
+      background: rgba(105, 183, 162, 0.14);
+      border-color: rgba(105, 183, 162, 0.44);
+      color: #8bd2be;
+    }
+
+    .program-card-title {
+      color: #171717;
+      display: block;
+      font-size: 1.25rem;
+      font-weight: 850;
+      line-height: 1.25;
+      text-decoration: none;
+    }
+
+    .program-card-title:hover {
+      color: #2f7f6d;
+      text-decoration: underline;
+      text-underline-offset: 0.2rem;
+    }
+
+    .dark .program-card-title {
+      color: #f5f5f5;
+    }
+
+    .dark .program-card-title:hover {
+      color: #8bd2be;
+    }
+
+    .program-card-summary {
+      color: #525252;
+      font-size: 0.92rem;
+      line-height: 1.65;
+      margin-top: 0.72rem;
+    }
+
+    .dark .program-card-summary {
+      color: #d4d4d4;
+    }
+
+    .program-card-actions {
+      margin-top: auto;
+      padding-top: 1rem;
+    }
+
+    .program-card-link {
+      color: #4c9b87;
+      font-size: 0.9rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .program-card-link:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.2rem;
+    }
+  </style>
+
+  <header class="programs-header">
+    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+
+  {{ with .Content }}
+    <section class="mt-4 prose max-w-full dark:prose-invert">
+      {{ . }}
+    </section>
+  {{ end }}
+
+  {{ $pages := .Pages.ByTitle }}
+  {{ if gt (len $pages) 0 }}
+    <section class="programs-grid" aria-label="{{ i18n "program_profiles_aria" }}">
+      {{ range $pages }}
+        {{ partial "program-card.html" . }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="mt-10 prose dark:prose-invert">
+      <p class="py-8 border-t"><em>{{ i18n "program_empty" }}</em></p>
+    </section>
+  {{ end }}
+{{ end }}

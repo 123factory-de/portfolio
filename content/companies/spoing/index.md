@@ -5,7 +5,7 @@ draft: false
 description: "Campus sharing platform using smart lockers and QR access to reduce short-term purchases."
 industries: ["Consumer Products and Services"]
 verticals: ["Internet of Things (IoT)", "Mobile"]
-tags: ["sharing platform", "smart locker", "circular economy", "campus", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: ""
 ceo: "Tae Young Shin"
 logo: "logo.png"

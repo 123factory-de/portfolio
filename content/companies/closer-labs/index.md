@@ -5,7 +5,7 @@ draft: false
 description: "Closer Labs operates Deskroom, an enterprise AI platform for data integration, analytics, and decision support."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
-tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
+programs: ["sba-poc"]
 website: "https://www.deskroom.so/en"
 founded: "2024"
 ceo: "Kyung-ho Park"

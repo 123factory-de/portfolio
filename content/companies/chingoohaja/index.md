@@ -5,7 +5,7 @@ draft: false
 description: "Chingoohaja combines senior social connection with AI-based care monitoring."
 industries: ["Healthcare", "Consumer Products and Services"]
 verticals: ["Digital Health", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["senior care", "AI monitoring", "social connection", "climate resilience", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://www.chingoohaja.com/"
 founded: "2025"
 ceo: "Sungwoo Cho"

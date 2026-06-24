@@ -5,7 +5,7 @@ draft: false
 description: "차량 공회전 방지와 온실가스 감축을 위해 AI 듀얼배터리제어기술과 무시동 냉동 시스템을 제공합니다."
 industries: ["Business Products and Services", "Energy"]
 verticals: ["Supply Chain Technology", "Cleantech"]
-tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://somuna.co.kr"
 founded: "2020"
 ceo: "송종원"

@@ -5,7 +5,7 @@ draft: false
 description: "사용이 끝난 전기차 배터리를 재자원화 및 재제조하여 새로운 에너지원으로 전환하는 순환경제 솔루션을 제공합니다."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["battery-recycling", "remanufacturing", "ev-battery", "circular-economy", "energy-storage", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://poen.co.kr/"
 founded: "2019"
 ceo: "최성진"

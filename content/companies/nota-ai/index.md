@@ -5,7 +5,7 @@ draft: false
 description: "Nota AI optimizes AI models for hardware and runs on-device vision intelligence for edge devices, transport, and safety."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
-tags: ["NetsPresso", "Nota Vision Agent", "model optimization", "on-device AI", "edge AI", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://www.nota.ai/"
 founded: "2015"
 ceo: "Myung-su Chae"

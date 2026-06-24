@@ -5,7 +5,7 @@ draft: false
 description: "AI dual-battery control and idle-free refrigeration systems for refrigerated transport vehicles."
 industries: ["Business Products and Services", "Energy"]
 verticals: ["Supply Chain Technology", "Cleantech"]
-tags: ["cold-chain", "battery-control", "energy-management", "climate-tech", "fleet-monitoring", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://somuna.co.kr"
 founded: "2020"
 ceo: "Jongwon Song"

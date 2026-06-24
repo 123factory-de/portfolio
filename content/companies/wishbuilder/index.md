@@ -5,7 +5,7 @@ draft: false
 description: "Circular-resource startup connecting water treatment, sanitation, and low-carbon biomass fuel."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["water treatment", "biomass fuel", "circular resources", "carbon reduction", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://wishbuilder.co.kr/36"
 founded: "2024"
 ceo: "Hyojin Kim"

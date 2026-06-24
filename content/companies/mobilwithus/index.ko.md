@@ -5,7 +5,7 @@ draft: false
 description: "모빌위더스는 ECU, SDV, ESS BMS, 사이버보안 규제 대응을 위한 차량 임베디드 보안 소프트웨어를 개발합니다."
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Mobility Tech"]
-tags: ["automotive cybersecurity", "embedded software", "ECU", "SDV", "SBA PoC"]
+programs: ["sba-poc"]
 website: "https://www.mobilwithus.com/ko/"
 founded: "2023"
 ceo: "박한나"

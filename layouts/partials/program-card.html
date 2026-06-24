@@ -1,0 +1,28 @@
+{{ $page := . }}
+{{ $companyCount := 0 }}
+{{ $programKey := path.Base (strings.TrimRight "/" $page.File.Dir) }}
+{{ range site.RegularPages }}
+  {{ if eq .Section "companies" }}
+    {{ if in (.Params.programs | default (slice)) $programKey }}
+      {{ $companyCount = add $companyCount 1 }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+<article class="program-card">
+  <div class="program-card-body">
+    <div class="program-card-meta">
+      <span class="program-card-count">{{ i18n "program_company_count" (dict "total" $companyCount) }}</span>
+    </div>
+    <a class="program-card-title" href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+    {{ with $page.Description }}
+      <p class="program-card-summary">{{ . }}</p>
+    {{ else }}
+      <p class="program-card-summary">{{ $page.Summary | plainify }}</p>
+    {{ end }}
+  </div>
+
+  <div class="program-card-actions">
+    <a class="program-card-link" href="{{ $page.RelPermalink }}">{{ i18n "program_view_details" }}</a>
+  </div>
+</article>

@@ -5,7 +5,7 @@ draft: false
 description: "AI and physics-based platform that predicts material properties to speed up materials R&D."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing"]
-tags: ["physics-informed AI", "materials informatics", "computational chemistry", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://www.lymeric.ai"
 founded: "2025"
 ceo: "Sukho Hong"

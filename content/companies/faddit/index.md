@@ -5,7 +5,7 @@ draft: false
 description: "Faddit automates fashion production workflows from design sketch to CAD pattern."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Software as a Service (SaaS)"]
-tags: ["fashion tech", "pattern automation", "CAD", "circular fashion", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://faddit.co.kr/"
 founded: "2025"
 ceo: "Sung-rak Choi"

@@ -5,7 +5,7 @@ draft: false
 description: "물과 초음파 기반의 친환경 직접재활용 기술을 통해 이차전지 소재(양극재, 음극재 등)를 재제조하는 기업입니다."
 industries: ["Materials and Resources", "Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["battery-recycling", "direct-recycling", "cathode-materials", "anode-materials", "secondary-batteries", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://adbatteryrecycle.com"
 founded: "2021"
 ceo: "김유탁"

@@ -5,7 +5,7 @@ draft: false
 description: "HeatAI builds MRV software for building heat-pump performance and energy-saving data."
 industries: ["Information Technology", "Energy"]
 verticals: ["Climate Tech", "Cleantech"]
-tags: ["building energy", "heat pump", "MRV", "audit-grade data", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://www.heatai.co.kr/"
 founded: ""
 ceo: "Jun-yoon Lee"

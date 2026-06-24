@@ -5,7 +5,7 @@ draft: false
 description: "TOF-MRA 기반 뇌혈관 영상을 3D 컬러와 정량 SIG 데이터로 변환해 뇌혈관 건강 평가와 위험도 분석을 지원하는 의료영상 AI 기업."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["medical-imaging", "mra", "Bio:cap"]
+programs: ["biocap"]
 website: "https://mediimg.com/"
 founded: "2018"
 ceo: "정슬기"

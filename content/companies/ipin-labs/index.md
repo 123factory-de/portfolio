@@ -5,7 +5,7 @@ draft: false
 description: "AI-based indoor positioning and asset tracking that works in GPS-denied industrial sites using existing wireless signals."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Supply Chain Technology"]
-tags: ["BPIN", "indoor-positioning", "RTLS", "digital-twin", "asset-tracking", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://home.ipinlabs.com/"
 founded: "2022"
 ceo: "Jaehyun Yoo"

@@ -27,6 +27,7 @@
       {{ if not (.Params.showAuthorBottom | default (site.Params.article.showAuthorBottom | default false)) }}
         {{ template "SingleAuthor" . }}
       {{ end }}
+      {{ partial "company-programs.html" . }}
       {{ partial "company-facts.html" . }}
     </header>
 

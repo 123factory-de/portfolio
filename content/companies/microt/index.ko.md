@@ -5,7 +5,7 @@ draft: false
 description: "녹내장 환자의 안압 조절을 돕는 국내 제조 미세침습 녹내장 임플란트 A-stream을 개발·상용화하는 안과 의료기기 기업."
 industries: ["Healthcare"]
 verticals: ["Healthtech", "Life Sciences"]
-tags: ["ophthalmology-implant", "glaucoma", "Bio:cap"]
+programs: ["biocap"]
 website: "https://microtinc.com/"
 founded: "2019"
 ceo: "한종철"

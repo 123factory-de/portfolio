@@ -5,7 +5,7 @@ draft: false
 description: "Recycling technology company turning EV battery separator waste into high-value TEXNIC fabrics and yarns."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["battery recycling", "textiles", "sustainable materials", "circular economy", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://texnic.kr/en/index.php"
 founded: "2016"
 ceo: "Shin Min-jeong"

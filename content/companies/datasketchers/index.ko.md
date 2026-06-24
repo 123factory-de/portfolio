@@ -5,7 +5,7 @@ draft: false
 description: "데이터스케쳐스는 협력사의 ESG와 컴플라이언스 대응을 돕는 AI 도구를 개발합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Supply Chain Technology"]
-tags: ["ESG compliance", "RAG", "supplier risk", "SaaS", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://data-sketchers.com/"
 founded: "2025"
 ceo: "최신범"

@@ -5,7 +5,7 @@ draft: false
 description: "전분 기반 생분해 소재와 미세플라스틱 없는 대체 플라스틱 소재를 개발합니다."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["bioplastics", "natural polymers", "sustainability", "materials", "climaccelerator", "SBA PoC"]
+programs: ["climaccelerator", "sba-poc"]
 website: "https://day1-lab.com/"
 founded: "2021"
 ceo: "이주봉"

@@ -5,7 +5,7 @@ draft: false
 description: "기거는 광고 크리에이티브의 기획·제작·실험·최적화를 통합하는 멀티 에이전트 AI 플랫폼 '플레이애드'를 개발합니다."
 industries: ["Information Technology"]
 verticals: ["Adtech", "Artificial Intelligence & Machine Learning (AI/ML)", "Marketing Tech", "Gaming"]
-tags: ["Playad", "multi-agent AI", "ad creative", "generative AI", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://playad.ai/"
 founded: "2024"
 ceo: "조재연"

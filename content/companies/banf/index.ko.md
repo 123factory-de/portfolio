@@ -5,7 +5,7 @@ draft: false
 description: "타이어 장착 센서와 운송 차량 데이터 분석을 결합한 지능형 타이어 시스템을 개발합니다."
 industries: ["Business Products and Services", "Information Technology"]
 verticals: ["Internet of Things (IoT)", "Mobility Tech", "Big Data"]
-tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://banf.ai/ko"
 founded: "2020"
 ceo: "유성한"

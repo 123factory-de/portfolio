@@ -5,7 +5,7 @@ draft: false
 description: "수명이 다한 폐태양광 패널을 친환경 기계식 공정으로 재활용하여 실리콘, 유리, 유가금속 등을 회수하는 기술을 제공합니다."
 industries: ["Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["solar-recycling", "material-recovery", "clean-tech", "solar-panel", "resource-circulation", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://dynamicindustry.kr"
 founded: "2021"
 ceo: "김현수"

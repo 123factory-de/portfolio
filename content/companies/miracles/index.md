@@ -5,7 +5,7 @@ draft: false
 description: "Miracles runs the AIBLAB brand of functional supplements that use delivery technology to improve ingredient absorption."
 industries: ["Consumer Products and Services", "Healthcare"]
 verticals: ["Lifestyles of Health and Sustainability (LOHAS) & Wellness", "Beauty"]
-tags: ["AIBLAB", "liposomal glutathione", "inner beauty", "nutraceutical", "delivery technology", "Gangnam-gu Testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://aiblab.kr"
 founded: "2023"
 ceo: "Oh Ju-heon"

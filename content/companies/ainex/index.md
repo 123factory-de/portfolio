@@ -5,7 +5,7 @@ draft: false
 description: "Real-time AI software for upper and lower gastrointestinal endoscopy that detects lesions and provides diagnostic support during procedures."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["endoscopy-ai", "Bio:cap"]
+programs: ["biocap"]
 website: "https://ainex.io/"
 founded: "2019"
 ceo: "David Lee"

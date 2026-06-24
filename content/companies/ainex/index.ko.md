@@ -5,7 +5,7 @@ draft: false
 description: "위·대장 내시경 검사 중 병변을 실시간으로 검출하고 진단 보조 정보를 표시하는 ENAD 내시경 AI 소프트웨어를 개발·공급."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["endoscopy-ai", "Bio:cap"]
+programs: ["biocap"]
 website: "https://ainex.io/kor/"
 founded: "2019"
 ceo: "이항재"
