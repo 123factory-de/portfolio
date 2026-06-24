@@ -1,5 +1,6 @@
 {{ $page := . }}
 {{ $industries := $page.Params.industries | default (slice) }}
+{{ $verticals := $page.Params.verticals | default (slice) }}
 {{ $website := $page.Params.website | default "" }}
 {{ $logo := $page.Params.logo | default "" }}
 {{ $logoURL := "" }}
@@ -39,6 +40,15 @@
       <p class="company-card-summary">{{ . }}</p>
     {{ else }}
       <p class="company-card-summary">{{ $page.Summary | plainify }}</p>
+    {{ end }}
+
+    {{ with $verticals }}
+      <div class="company-card-verticals" aria-label="{{ i18n "company_fact_verticals" }}">
+        {{ range first 4 . }}
+          {{/* Show the parenthetical abbreviation when present (e.g. "… (AI/ML)" → "AI/ML"); otherwise keep the full name. */}}
+          <span class="company-card-vertical" title="{{ . }}">{{ replaceRE "^.*\\(([^)]+)\\).*$" "$1" . }}</span>
+        {{ end }}
+      </div>
     {{ end }}
   </div>
 

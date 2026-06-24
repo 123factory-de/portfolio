@@ -4,7 +4,7 @@ date: 2026-06-22
 draft: false
 description: "노타는 하드웨어에 맞춰 AI 모델을 경량화·최적화하고, 엣지 디바이스와 교통·안전 분야에 온디바이스 영상지능을 제공합니다."
 industries: ["Information Technology"]
-verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)"]
 programs: ["gangnam-global-testbed-2026"]
 website: "https://www.kr.nota.ai/"
 founded: "2015"
