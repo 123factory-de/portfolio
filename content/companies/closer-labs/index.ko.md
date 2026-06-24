@@ -5,7 +5,7 @@ draft: false
 description: "클로저랩스는 데이터 통합, 분석, 의사결정 지원을 위한 기업용 AI 플랫폼 Deskroom을 운영합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Big Data", "Software as a Service (SaaS)"]
-tags: ["enterprise AI", "data integration", "ontology", "workflow automation", "SBA PoC"]
+programs: ["sba-poc"]
 website: "https://www.deskroom.so/ko"
 founded: "2024"
 ceo: "박경호"

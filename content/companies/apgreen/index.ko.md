@@ -5,7 +5,7 @@ draft: false
 description: "도시가스와 LNG를 활용해 현장에서 수소를 생산하고 연료전지와 연계해 전력을 공급하는 수소 에너지 솔루션을 개발합니다."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["hydrogen", "fuel-cell", "catalytic-reforming", "distributed-energy", "clean-tech", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://apgreen.net"
 founded: "2022"
 ceo: "박태윤"

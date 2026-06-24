@@ -5,7 +5,7 @@ draft: false
 description: "AI-powered ultra-sensitive blood diagnostics for early detection of neurodegenerative diseases."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Life Sciences"]
-tags: ["ai-diagnostics", "microfluidics", "Bio:cap"]
+programs: ["biocap"]
 website: "https://www.linkedin.com/company/ninebioware/"
 founded: "2022"
 ceo: "Naeung Lee"

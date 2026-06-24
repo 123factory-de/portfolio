@@ -5,7 +5,7 @@ draft: false
 description: "GIGR builds Playad, a multi-agent AI platform that plans, creates, tests, and optimizes ad creative."
 industries: ["Information Technology"]
 verticals: ["Adtech", "Artificial Intelligence & Machine Learning (AI/ML)", "Marketing Tech", "Gaming"]
-tags: ["Playad", "multi-agent AI", "ad creative", "generative AI", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://playad.ai/"
 founded: "2024"
 ceo: "Jae-yeon Cho"

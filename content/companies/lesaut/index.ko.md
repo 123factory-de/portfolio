@@ -5,7 +5,7 @@ draft: false
 description: "르소는 비건 소재와 재활용 소재를 활용해 지속가능 패션 액세서리를 만듭니다."
 industries: ["Consumer Products and Services"]
 verticals: ["Lifestyles of Health and Sustainability (LOHAS) & Wellness", "Cleantech"]
-tags: ["sustainable fashion", "recycled fabric", "vegan materials", "circular fashion", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://www.le-saut.com/44"
 founded: ""
 ceo: "정지윤"

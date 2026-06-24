@@ -5,7 +5,7 @@ draft: false
 description: "Trobai is a KAIST PhD-led AI deep tech studio building the intelligence layer for travel, starting with AirNotte."
 industries: ["Information Technology", "Consumer Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["neuro-symbolic AI", "travel tech", "AirNotte", "deep tech", "KAIST"]
+programs: ["climate-launchpad"]
 website: "https://www.trobai.com/"
 founded: "January 2026"
 ceo: "Hye-ri Cho"

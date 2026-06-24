@@ -5,7 +5,7 @@ draft: false
 description: "비전스페이스는 제조·물류 자동화 현장을 디지털 트윈으로 구현하고 AI 시뮬레이션과 실시간 관제를 제공하는 Physical AI 기업입니다."
 industries: ["Information Technology", "Business Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing", "Robotics & Drones", "Supply Chain Technology"]
-tags: ["TESSERACT", "TARS", "digital twin", "Physical AI", "robot simulation", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://visionspace.co.kr/index.html"
 founded: "2023"
 ceo: "최원석"

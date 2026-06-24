@@ -5,7 +5,7 @@ draft: false
 description: "Design studio helping companies build mobility, product, and service experiences."
 industries: ["Business Products and Services"]
 verticals: ["Mobility Tech"]
-tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014"
 ceo: "Minkyung Oh"

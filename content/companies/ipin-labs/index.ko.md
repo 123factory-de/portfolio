@@ -5,7 +5,7 @@ draft: false
 description: "GPS가 닿지 않는 실내 산업 현장에서 기존 무선 신호를 활용해 자산을 실시간 추적하는 AI 실내 측위 솔루션."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Supply Chain Technology"]
-tags: ["BPIN", "indoor-positioning", "RTLS", "digital-twin", "asset-tracking", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://home.ipinlabs.com/ko"
 founded: "2022"
 ceo: "유재현"

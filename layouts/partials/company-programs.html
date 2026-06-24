@@ -1,0 +1,55 @@
+{{ with .Params.programs }}
+  <style>
+    .company-programs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin: 1rem 0 0;
+      max-width: 42rem;
+    }
+
+    .company-program-chip {
+      background: rgba(24, 24, 27, 0.05);
+      border: 1px solid rgba(24, 24, 27, 0.1);
+      border-radius: 999px;
+      color: #404040;
+      display: inline-block;
+      font-size: 0.75rem;
+      font-weight: 800;
+      line-height: 1;
+      padding: 0.42rem 0.58rem;
+      text-decoration: none;
+      transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+    }
+
+    .company-program-chip:hover,
+    .company-program-chip:focus-visible {
+      background: #171717;
+      border-color: #171717;
+      color: #ffffff;
+    }
+
+    .dark .company-program-chip {
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.14);
+      color: #f5f5f5;
+    }
+
+    .dark .company-program-chip:hover,
+    .dark .company-program-chip:focus-visible {
+      background: #f5f5f5;
+      border-color: #f5f5f5;
+      color: #101010;
+    }
+  </style>
+
+  <div class="company-programs" aria-label="{{ i18n "company_programs_label" }}">
+    {{ range . }}
+      {{ with site.GetPage (printf "/programs/%s" .) }}
+        <a class="company-program-chip" href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ else }}
+        <span class="company-program-chip">{{ . }}</span>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

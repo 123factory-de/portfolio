@@ -5,7 +5,7 @@ draft: false
 description: "엠케이솔라는 국내 발전소에 우드펠릿·바이오매스 재생연료를 공급하고, 폐희토류 영구자석에서 희토류 금속을 회수하는 친환경 에너지·자원순환 기업입니다."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Advanced Manufacturing"]
-tags: ["biomass", "wood pellet", "renewable fuel", "rare earth recycling", "urban mining", "circular economy", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "http://www.mksolar.co.kr"
 founded: "2010"
 ceo: "이진선"

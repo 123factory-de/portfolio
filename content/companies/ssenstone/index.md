@@ -5,7 +5,7 @@ draft: false
 description: "Cybersecurity company using one-time dynamic authentication for users, devices, IoT, PLC, and OT environments."
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Internet of Things (IoT)"]
-tags: ["OTAC", "authentication", "OT security", "IoT security", "SBA PoC"]
+programs: ["sba-poc"]
 website: "https://www.ssenstone.com/en/"
 founded: "2015"
 ceo: "Chang-Hun Yoo"

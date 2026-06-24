@@ -5,7 +5,7 @@ draft: false
 description: "틴커는 AI 초개인화로 남성에게 어울리는 스타일을 찾아주는 큐레이션 스타일링 커머스입니다."
 industries: ["Consumer Products and Services", "Information Technology"]
 verticals: ["Ecommerce", "Artificial Intelligence & Machine Learning (AI/ML)"]
-tags: ["남성 패션", "스타일링 플랫폼", "큐레이션 커머스", "초개인화", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "http://www.tinker.style"
 founded: "2022"
 ceo: "김태억"

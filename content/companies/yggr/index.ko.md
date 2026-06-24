@@ -5,7 +5,7 @@ draft: false
 description: "72시간 유청 필터링과 자체 제조 시설로 프리미엄 그릭요거트 브랜드 '레이지요거트'를 운영하는 F&B 기업입니다."
 industries: ["Consumer Products and Services"]
 verticals: ["Foodtech"]
-tags: ["Greek yogurt", "72-hour whey straining", "F&B brand", "YGGR", "FOROOTS", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://www.lazyyogurt.com"
 founded: "2024"
 ceo: "김영찬"

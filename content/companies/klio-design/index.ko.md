@@ -5,7 +5,7 @@ draft: false
 description: "모빌리티, 제품, 서비스 경험을 설계하는 디자인 스튜디오입니다."
 industries: ["Business Products and Services"]
 verticals: ["Mobility Tech"]
-tags: ["mobility design", "product design", "service design", "design strategy", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://www.kliodesign.com/"
 founded: "2014년"
 ceo: "오민경"

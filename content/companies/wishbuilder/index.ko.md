@@ -5,7 +5,7 @@ draft: false
 description: "정수, 위생, 폐자원, 저탄소 바이오매스 연료를 연결하는 순환자원 스타트업입니다."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["water treatment", "biomass fuel", "circular resources", "carbon reduction", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://wishbuilder.co.kr/"
 founded: "2024"
 ceo: "김효진"

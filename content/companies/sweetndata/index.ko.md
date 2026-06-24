@@ -5,7 +5,7 @@ draft: false
 description: "스위트앤데이터는 팬이 직접 초개인화 콘텐츠를 만드는 IP 기반 AI 솔루션으로 팬덤 시장을 공략합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-tags: ["엔터테크", "팬덤", "휴먼 AI 트윈", "AI 포토부스", "PhotoSweet", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://sweetndata.co.kr/"
 founded: "2022"
 ceo: "안재관"

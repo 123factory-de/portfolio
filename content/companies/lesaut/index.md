@@ -5,7 +5,7 @@ draft: false
 description: "LESAUT makes sustainable fashion accessories with vegan and recycled materials."
 industries: ["Consumer Products and Services"]
 verticals: ["Lifestyles of Health and Sustainability (LOHAS) & Wellness", "Cleantech"]
-tags: ["sustainable fashion", "recycled fabric", "vegan materials", "circular fashion", "climatelaunchpad"]
+programs: ["climate-launchpad"]
 website: "https://www.le-saut.com/44"
 founded: ""
 ceo: "Jiyoon Jung"

@@ -5,7 +5,7 @@ draft: false
 description: "SweetnData builds IP-based AI solutions that let fans create ultra-personalized content for the fandom market."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-tags: ["entertainment tech", "fandom", "Human AI Twin", "AI photo booth", "PhotoSweet", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "https://sweetndata.co.kr/"
 founded: "2022"
 ceo: "An Jae-kwan"

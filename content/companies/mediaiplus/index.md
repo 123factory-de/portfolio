@@ -5,7 +5,7 @@ draft: false
 description: "Clinical-trial intelligence platform providing global clinical trial data, customized analytics, and sponsor-CRO matching."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["clinical-trial", "cro-matching", "Bio:cap"]
+programs: ["biocap"]
 website: "https://mediaiplus.com/"
 founded: "2019"
 ceo: "Jihee Jung"

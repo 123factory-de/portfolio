@@ -5,7 +5,7 @@ draft: false
 description: "Hydrogen-based engine cleaning technology that removes carbon, improves fuel efficiency, and cuts exhaust gas."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["hydrogen", "Rebooz", "engine carbon cleaning", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "http://www.gedkorea.com"
 founded: "2016"
 ceo: "Dongyeon Kang"

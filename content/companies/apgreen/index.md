@@ -5,7 +5,7 @@ draft: false
 description: "On-site hydrogen production and power generation systems based on catalytic reforming and fuel-cell integration."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["hydrogen", "fuel-cell", "catalytic-reforming", "distributed-energy", "clean-tech", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://apgreen.net"
 founded: "2022"
 ceo: "Tae-yoon Park"

@@ -5,9 +5,9 @@ draft: false
 description: "화학 및 배터리 조성용 DEBREX 집속 초음파 나노 분산 장비를 개발합니다."
 industries: ["Business Products and Services", "Materials and Resources"]
 verticals: ["Nanotechnology", "Advanced Manufacturing"]
-tags: ["battery", "chemical processing", "nano dispersion", "equipment", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://www.fustlab.co.kr/?locale=ko_KR"
-founded: "2022년 5월 30일"
+founded: "2022"
 ceo: "황보민성"
 headquarters: "서울 마포구 / 대전 유성구"
 logo: "logo.png"

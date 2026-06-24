@@ -5,7 +5,7 @@ draft: false
 description: "Intelligent tire system company combining tire-mounted sensors, wireless power, and fleet data analytics."
 industries: ["Business Products and Services", "Information Technology"]
 verticals: ["Internet of Things (IoT)", "Mobility Tech", "Big Data"]
-tags: ["automotive", "mobility", "sensors", "fleet data", "tire safety", "climaccelerator"]
+programs: ["climaccelerator"]
 website: "https://banf.ai/en"
 founded: "2020"
 ceo: "Seonghan Yoo"

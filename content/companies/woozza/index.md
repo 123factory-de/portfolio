@@ -5,7 +5,7 @@ draft: false
 description: "Woozza operates an urban disaster-response platform built on high-density rainfall observation and AI flood prediction."
 industries: ["Information Technology"]
 verticals: ["Climate Tech", "Internet of Things (IoT)", "Artificial Intelligence & Machine Learning (AI/ML)", "Cleantech"]
-tags: ["flood-prediction", "smart-rain-gauge", "rainfall-observation-network", "evacuation-support", "disaster-response-platform"]
+programs: ["gangnam-testbed"]
 founded: "2019"
 ceo: "Young-woo Cho"
 headquarters: "Seoul, Korea"

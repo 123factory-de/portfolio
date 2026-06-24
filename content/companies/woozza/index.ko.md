@@ -5,7 +5,7 @@ draft: false
 description: "우짜는 초고밀도 강우관측망과 AI 침수예측 기술로 도시형 재난안전 플랫폼을 운영합니다."
 industries: ["Information Technology"]
 verticals: ["Climate Tech", "Internet of Things (IoT)", "Artificial Intelligence & Machine Learning (AI/ML)", "Cleantech"]
-tags: ["flood-prediction", "smart-rain-gauge", "rainfall-observation-network", "evacuation-support", "disaster-response-platform"]
+programs: ["gangnam-testbed"]
 founded: "2019"
 ceo: "조영우"
 headquarters: "서울"

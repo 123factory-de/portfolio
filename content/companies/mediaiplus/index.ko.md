@@ -5,7 +5,7 @@ draft: false
 description: "전 세계 임상시험 데이터를 수집·정제해 제공하는 MediC와 임상시험 수탁기관 매칭 서비스 FiCRO를 운영."
 industries: ["Healthcare", "Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Healthtech"]
-tags: ["clinical-trial", "cro-matching", "Bio:cap"]
+programs: ["biocap"]
 website: "https://mediaiplus.com/"
 founded: "2019"
 ceo: "정지희"

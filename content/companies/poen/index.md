@@ -5,7 +5,7 @@ draft: false
 description: "Circular economy startup transforming used EV battery packs into new energy storage solutions."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Climate Tech"]
-tags: ["battery-recycling", "remanufacturing", "ev-battery", "circular-economy", "energy-storage", "KOSME PoC"]
+programs: ["kosme-poc"]
 website: "https://poen.co.kr/en/"
 founded: "2019"
 ceo: "Seongjin Choi"

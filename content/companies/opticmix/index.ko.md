@@ -5,7 +5,7 @@ draft: false
 description: "옵틱믹스는 투명 디스플레이, AR형 사이니지, 차량 HUD에 적용하는 홀로그래픽 광학 스크린 필름을 개발합니다."
 industries: ["Materials and Resources", "Information Technology"]
 verticals: ["Augmented Reality (AR)", "Advanced Manufacturing", "Mobility Tech"]
-tags: ["holographic display", "HUD", "AR", "transparent display", "SBA PoC"]
+programs: ["sba-poc"]
 website: "https://www.opticmix.kr/"
 founded: "2024"
 ceo: "황이환"

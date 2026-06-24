@@ -5,7 +5,7 @@ draft: false
 description: "Digitally controlled automatic injector platform designed to reduce injection pain and improve clinician convenience through precise automatic dosing."
 industries: ["Healthcare"]
 verticals: ["Healthtech"]
-tags: ["medical-device", "digital-automatic-injector", "Bio:cap"]
+programs: ["biocap"]
 website: "https://medihub.co.kr/en"
 founded: "2017"
 ceo: "Hyunchul Yeom"

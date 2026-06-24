@@ -5,7 +5,7 @@ draft: false
 description: "MK Solar supplies wood pellet and biomass renewable fuel to power plants and recovers rare earth metals from end-of-life permanent magnets."
 industries: ["Energy", "Materials and Resources"]
 verticals: ["Cleantech", "Advanced Manufacturing"]
-tags: ["biomass", "wood pellet", "renewable fuel", "rare earth recycling", "urban mining", "circular economy", "Gangnam-gu Testbed"]
+programs: ["gangnam-testbed"]
 website: "http://www.mksolar.co.kr"
 founded: "2010"
 ceo: "Jin-seon Lee"
