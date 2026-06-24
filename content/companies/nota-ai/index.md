@@ -4,7 +4,7 @@ date: 2026-06-22
 draft: false
 description: "Nota AI optimizes AI models for hardware and runs on-device vision intelligence for edge devices, transport, and safety."
 industries: ["Information Technology"]
-verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)", "Autonomous Cars"]
+verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Internet of Things (IoT)"]
 programs: ["gangnam-global-testbed-2026"]
 website: "https://www.nota.ai/"
 founded: "2015"

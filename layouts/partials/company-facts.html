@@ -1,20 +1,4 @@
 {{ $verticals := .Params.verticals | default (slice) }}
-{{ with $verticals }}
-  <style>
-    .company-single-verticals {
-      color: #4c9b87;
-      font-size: 0.95rem;
-      font-weight: 750;
-      line-height: 1.5;
-      margin: 0.5rem 0 0;
-    }
-
-    .dark .company-single-verticals {
-      color: #8bd2be;
-    }
-  </style>
-  <p class="company-single-verticals">{{ delimit . " · " }}</p>
-{{ end }}
 
 {{ with .Params.industries }}
   {{ $companiesURL := "" }}
@@ -69,6 +53,39 @@
   <div class="company-industries" aria-label="{{ i18n "company_industries_label" }}">
     {{ range . }}
       <a class="company-industry-tag" href="{{ printf "%s?%s" $companiesURL (querify "industry" .) | safeURL }}">{{ . }}</a>
+    {{ end }}
+  </div>
+{{ end }}
+
+{{ with $verticals }}
+  <style>
+    .company-verticals {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      margin: 0.6rem 0 0;
+      max-width: 42rem;
+    }
+
+    .company-vertical-tag {
+      background: #f1f5f9;
+      border-radius: 999px;
+      color: #475569;
+      font-size: 0.76rem;
+      font-weight: 600;
+      line-height: 1;
+      padding: 0.35rem 0.65rem;
+    }
+
+    .dark .company-vertical-tag {
+      background: rgba(148, 163, 184, 0.16);
+      color: #cbd5e1;
+    }
+  </style>
+
+  <div class="company-verticals" aria-label="{{ i18n "company_fact_verticals" }}">
+    {{ range . }}
+      <span class="company-vertical-tag">{{ . }}</span>
     {{ end }}
   </div>
 {{ end }}
