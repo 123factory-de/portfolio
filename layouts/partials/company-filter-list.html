@@ -390,13 +390,50 @@
         }
       };
 
+      const applyIdFilter = (ids) => {
+        const wanted = ids
+          .flatMap((value) => value.split(","))
+          .map((value) => value.trim().toLowerCase())
+          .filter(Boolean);
+        if (wanted.length === 0) return false;
+
+        let visibleCount = 0;
+        cards.forEach((card) => {
+          const id = (card.dataset.companyId || "").toLowerCase();
+          const isVisible = wanted.includes(id);
+          card.style.display = isVisible ? "" : "none";
+          if (isVisible) visibleCount += 1;
+        });
+
+        buttons.forEach((button) => {
+          button.classList.toggle("is-active", button.dataset.filterIndustry === "all");
+        });
+
+        if (count) {
+          const total = count.dataset.totalCount || cards.length;
+          count.textContent = countLabel(visibleCount, total, "id");
+        }
+
+        if (emptyState) {
+          emptyState.style.display = visibleCount === 0 ? "block" : "none";
+        }
+
+        return true;
+      };
+
       buttons.forEach((button) => {
         button.addEventListener("click", () => {
           const industry = button.dataset.filterIndustry || "all";
           applyFilter(industry);
           updateUrl(industry);
+          const nextUrl = new URL(window.location.href);
+          nextUrl.searchParams.delete("id");
+          window.history.replaceState({}, "", nextUrl);
         });
       });
+
+      const idParams = params.getAll("id");
+      if (applyIdFilter(idParams)) return;
 
       const initialIndustry = params.get("industry") || params.get("tag") || "all";
       const knownIndustry = buttons.some((button) => button.dataset.filterIndustry === initialIndustry)
