@@ -5,7 +5,7 @@ draft: false
 description: "웨어러블 뇌혈류 측정 기기와 자가검진 앱을 결합한 AI 기반 뇌졸중 예방·뇌건강 솔루션 기업."
 industries: ["Healthcare"]
 verticals: ["Digital Health", "Wearables & Quantified Self", "Artificial Intelligence & Machine Learning (AI/ML)"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://shmd.io/"
 founded: "2024"
 ceo: "송민영"

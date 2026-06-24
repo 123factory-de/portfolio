@@ -5,7 +5,7 @@ draft: false
 description: "An F&B company that runs the premium Greek yogurt brand Lazy Yogurt, with 72-hour whey straining and its own manufacturing facility."
 industries: ["Consumer Products and Services"]
 verticals: ["Foodtech"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://www.lazyyogurt.com"
 founded: "2024"
 ceo: "Young-chan Kim"

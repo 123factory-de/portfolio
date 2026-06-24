@@ -51,7 +51,7 @@ draft: false
 description: "One-sentence summary for cards and metadata."
 industries: ["Information Technology", "Healthcare"]
 verticals: ["Cybersecurity", "Digital Health"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://example.com"
 founded: "2021"
 ceo: "Jane Doe"
@@ -81,7 +81,7 @@ Rules:
   - Assign **1–4** verticals, most central theme first. Add a vertical only when the company's core business clearly fits it; do not over-tag.
   - Use the exact vertical names from the reference. Do not invent new verticals. If no listed vertical fits, leave `verticals: []`.
 - Use `programs` for accelerator, testbed, PoC, challenge, or portfolio-track membership when that affiliation matters for discovery or grouping.
-  - Examples: `climate-launchpad`, `climaccelerator`, `gangnam-testbed`, `kosme-poc`, `sba-poc`, `biocap`.
+  - Examples: `climate-launchpad`, `climaccelerator`, `gangnam-global-testbed-2026`, `kosme-poc`, `sba-poc`, `biocap`.
   - Use lowercase kebab-case slugs in `programs` so they map cleanly to `content/programs/{slug}/`.
   - Only add a `programs` entry when the company has a real affiliation, selection, participation, or explicit connection to that track.
 

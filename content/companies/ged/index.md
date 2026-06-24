@@ -5,7 +5,7 @@ draft: false
 description: "Hydrogen-based engine cleaning technology that removes carbon, improves fuel efficiency, and cuts exhaust gas."
 industries: ["Energy"]
 verticals: ["Cleantech", "Climate Tech"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "http://www.gedkorea.com"
 founded: "2016"
 ceo: "Dongyeon Kang"

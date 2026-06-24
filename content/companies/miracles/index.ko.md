@@ -5,7 +5,7 @@ draft: false
 description: "미라클스는 전달체 기술로 성분 흡수를 높인 건강기능식품 브랜드 AIBLAB을 운영합니다."
 industries: ["Consumer Products and Services", "Healthcare"]
 verticals: ["Lifestyles of Health and Sustainability (LOHAS) & Wellness", "Beauty"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://aiblab.kr"
 founded: "2023"
 ceo: "오주헌"

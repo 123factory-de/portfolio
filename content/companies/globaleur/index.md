@@ -5,7 +5,7 @@ draft: false
 description: "B2B AI platform that turns traveler data into personalized recommendations for airlines, hotels, and tourism brands."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Software as a Service (SaaS)"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://www.globaleur.com"
 founded: "2017"
 ceo: "Changhyun Lee (David Lee)"

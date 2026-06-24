@@ -5,7 +5,7 @@ draft: false
 description: "AI-based brain health solutions for stroke prevention, combining a wearable cerebral blood-flow device and a self-screening app."
 industries: ["Healthcare"]
 verticals: ["Digital Health", "Wearables & Quantified Self", "Artificial Intelligence & Machine Learning (AI/ML)"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://shmd.io/en"
 founded: "2024"
 ceo: "Minyoung Song"

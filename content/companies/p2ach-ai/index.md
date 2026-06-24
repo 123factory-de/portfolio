@@ -5,7 +5,7 @@ draft: false
 description: "P2ACH AI uses on-device vision AI to measure audience engagement for DOOH advertising and retail media."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://p2ach.ai"
 founded: "2021"
 ceo: "Dong-yeol Lee"

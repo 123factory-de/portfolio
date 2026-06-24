@@ -5,7 +5,7 @@ draft: false
 description: "VISIONSPACE builds digital twin and Physical AI software that simulates and monitors factory and logistics automation."
 industries: ["Information Technology", "Business Products and Services"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Advanced Manufacturing", "Robotics & Drones", "Supply Chain Technology"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://visionspace.co.kr/en"
 founded: "2023"
 ceo: "Won-seok Choi"

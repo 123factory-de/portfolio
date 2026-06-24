@@ -5,7 +5,7 @@ draft: false
 description: "피치에이아이는 온디바이스 비전 AI로 옥외광고와 리테일 미디어의 광고 효과를 측정합니다."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
-programs: ["gangnam-testbed"]
+programs: ["gangnam-global-testbed-2026"]
 website: "https://p2ach.ai/ko/"
 founded: "2021"
 ceo: "이동열"
