@@ -2,7 +2,7 @@
 title: "SweetnData"
 date: 2026-06-22
 draft: false
-description: "SweetnData builds IP-based AI solutions that let fans create ultra-personalized content for the fandom market."
+description: "SweetnData extends generative AI into physical spaces, delivering on-site, ultra-personalized AI content for brand, IP, exhibition, and retail spaces."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Adtech"]
 programs: ["gangnam-global-testbed-2026"]
@@ -15,28 +15,30 @@ logo: "logo.svg"
 
 ## Company Overview
 
-SweetnData is an ultra-personalized content and IP company in entertainment tech. It builds IP-based AI solutions that help fans create their own content around the people and brands they follow. The main goal is to bring new personalized experiences to the fandom market.
+SweetnData is an AI spatial-content company that extends generative AI into physical, offline spaces. Built on real-time space-and-AI connection technology, it turns what users imagine and feel into ultra-personalized content they can experience directly in a real space.
+
+The company is more than a photo-booth or kiosk operator. It provides an AI content engine and on-site experience solutions for brand, IP, exhibition, tourism, retail, and entertainment spaces. Its core technologies are AI Consistency, AI Creativity, and AI Efficiency, which keep people, characters, and IP consistent while generating creative multimodal content and lightweighting the models so they run reliably on-site.
 
 ## Technology & Product
 
-[SweetnData](https://sweetndata.co.kr/) uses its own "Human AI Twin" technology to let fans generate personalized IP content. The company offers ultra-personalized services such as an AI photo booth and fan cards, which entertainment agencies and MCNs can use to engage their audiences.
+SweetnData's solution is an AI content platform that turns offline spaces into repeatable AI content experiences. Using its own multimodal AI foundation model and on-site operations technology, it instantly generates image, video, and merchandise content that fits each brand and IP concept across touchpoints such as AI photo booths, kiosks, magic mirrors, and media-art walls.
 
-On its site, the company presents productized services including PhotoSweet, pop-up store experiences, and voucher tools. These connect AI-generated content with real fan touchpoints at events and retail spaces.
+Content is generated from a user's image, text, voice, or video input, then extended into on-site prints, QR downloads, social sharing, merchandise, and IP commerce. The flagship product, [PhotoSweet](https://sweetndata.co.kr/service/photosweet), is an on-site solution running this engine. At its core, SweetnData is generative AI content infrastructure for offline spaces, not an AI photo booth.
 
 ## Market & Use Cases
 
-The main customers are entertainment agencies, MCNs, content owners, and brands that run fan campaigns. Typical use cases include fan engagement at concerts and pop-up events, personalized merchandise, and branded photo experiences.
+The main customers are companies and institutions that operate offline spaces in brand, IP, exhibition, tourism, retail, and entertainment. Typical uses include ultra-personalized experiences at pop-ups, exhibitions, and events, IP-based merchandise, and experience content in public and tourism spaces.
 
-Personalized IP content is well suited to Korea's strong entertainment and fandom industry, where agencies look for new ways to monetize and deepen fan relationships.
+Traditional spatial content relies on custom production, which is costly, slow, and hard to reuse. On-site AI content that delivers multimodal generation, lightweight operation, and IP consistency together offers a clear alternative.
 
 ## Traction & References
 
-SweetnData was selected for the Ministry of SMEs and Startups TIPS program in December 2024, with CNT Tech as the operating partner.
+SweetnData has proven its technology through CES 2024 and 2025, selection for the CNT Tech-operated TIPS program (December 2024), the NVIDIA global enterprise collaboration program, and the Seoul Business Agency Pre-R&D program.
 
-The company's project portfolio includes work with enterprises and cultural partners such as Lotte Culture Works, SM Culture Partners, Starfield, and Lotte Cinema Vietnam([SweetnData](https://sweetndata.co.kr/)). It was also selected for the 2026 Gangnam-gu test-bed program.
+Application cases include IP collaboration on SM Entertainment's Naevis, an AI photo-card kiosk based on Show Note musical content, AI safety-culture content for Hyundai E&C, IP content for LG Superstart Day, and a tourism photo booth for the Korea Racing Authority. The Hyundai E&C case drew more than 1,550 participants with 90.3% satisfaction. Collaborators include CJ ENM, Lotte Cinema, LG Science Park, and KDB, and the company was selected for the 2026 Gangnam-gu test-bed program.
 
 ## Collaboration Relevance
 
-SweetnData fits entertainment agencies, content IP owners, retail and event operators, and brands that want personalized fan experiences. A useful PoC could test AI photo booths or fan cards at a live event or pop-up store to measure fan engagement.
+SweetnData fits global brands, IP companies, and operators of retail, exhibition, and tourism spaces. CES participation and selection for the NVIDIA N-UP global collaboration program validated its potential in overseas markets, and it is preparing expansion centered on the US and Asia.
 
-For Korea-Europe collaboration, the company could support K-content IP activation, personalized merchandise, and fan-experience formats for European entertainment and retail partners.
+Through on-site AI content PoCs and joint commercialization, it can collaborate with European entertainment, retail, and exhibition partners under the same model.
