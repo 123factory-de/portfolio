@@ -10,7 +10,7 @@ website: "https://www.lazyyogurt.com"
 founded: "2024"
 ceo: "김영찬"
 headquarters: "서울, 한국"
-logo: ""
+logo: "logo.png"
 ---
 
 ## 회사 개요
