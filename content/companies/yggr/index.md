@@ -10,7 +10,7 @@ website: "https://www.lazyyogurt.com"
 founded: "2024"
 ceo: "Young-chan Kim"
 headquarters: "Seoul, Korea"
-logo: ""
+logo: "logo.png"
 ---
 
 ## Company Overview
