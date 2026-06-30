@@ -7,6 +7,7 @@
   data-meeting-request
   data-meeting-webhook="{{ $webhook }}"
   data-meeting-program="{{ $program }}"
+  data-meeting-locale="{{ site.Language.Lang }}"
 >
   <button class="meeting-request-trigger" type="button" data-meeting-open>
     {{ i18n "meeting_request_button" }}
@@ -428,14 +429,15 @@
     const submitBtn = root.querySelector("[data-meeting-submit]");
     const webhook = root.dataset.meetingWebhook || "";
     const program = root.dataset.meetingProgram || "";
+    const locale = root.dataset.meetingLocale || "en";
 
     const messages = {
-      selectCompany: {{ i18n "meeting_select_company_error" | jsonify }},
-      sending: {{ i18n "meeting_sending" | jsonify }},
-      submitLabel: {{ i18n "meeting_submit" | jsonify }},
-      success: {{ i18n "meeting_success" | jsonify }},
-      error: {{ i18n "meeting_error" | jsonify }},
-      notConfigured: {{ i18n "meeting_not_configured" | jsonify }},
+      selectCompany: {{ i18n "meeting_select_company_error" }},
+      sending: {{ i18n "meeting_sending" }},
+      submitLabel: {{ i18n "meeting_submit" }},
+      success: {{ i18n "meeting_success" }},
+      error: {{ i18n "meeting_error" }},
+      notConfigured: {{ i18n "meeting_not_configured" }},
     };
 
     let lastFocused = null;
@@ -543,10 +545,12 @@
 
       const payload = {
         subject: subject,
+        locale: locale,
         submissionTime: submissionTime,
         pageUrl: window.location.href,
         data: {
           subject: subject,
+          locale: locale,
           submissions: submissions,
           firstName: firstName,
           lastName: lastName,
@@ -554,6 +558,7 @@
           email: email,
           companiesToMeet: companiesToMeet,
           companyIds: companyIds,
+          program: program,
           phone: phone,
           message: message,
         },
