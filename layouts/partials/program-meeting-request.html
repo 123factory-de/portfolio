@@ -1,0 +1,585 @@
+{{ $companies := .companies }}
+{{ $program := .program }}
+{{ $webhook := site.Params.meetingWebhookURL | default "" }}
+
+<div
+  class="meeting-request"
+  data-meeting-request
+  data-meeting-webhook="{{ $webhook }}"
+  data-meeting-program="{{ $program }}"
+>
+  <button class="meeting-request-trigger" type="button" data-meeting-open>
+    {{ i18n "meeting_request_button" }}
+  </button>
+
+  <div class="meeting-modal" data-meeting-modal hidden>
+    <div class="meeting-modal-overlay" data-meeting-dismiss></div>
+
+    <div class="meeting-modal-card" role="dialog" aria-modal="true" aria-labelledby="meeting-modal-title">
+      <button class="meeting-modal-close" type="button" data-meeting-dismiss aria-label="{{ i18n "meeting_close" }}">&times;</button>
+
+      <h2 class="meeting-modal-title" id="meeting-modal-title">{{ i18n "meeting_request_title" }}</h2>
+      <p class="meeting-modal-subtitle">{{ i18n "meeting_request_subtitle" }}</p>
+
+      <form class="meeting-form" data-meeting-form novalidate>
+        <div class="meeting-field-row">
+          <label class="meeting-field">
+            <span class="meeting-field-label">{{ i18n "meeting_first_name" }} <span class="meeting-required">*</span></span>
+            <input type="text" name="firstName" autocomplete="given-name" required>
+          </label>
+          <label class="meeting-field">
+            <span class="meeting-field-label">{{ i18n "meeting_last_name" }} <span class="meeting-required">*</span></span>
+            <input type="text" name="lastName" autocomplete="family-name" required>
+          </label>
+        </div>
+
+        <label class="meeting-field">
+          <span class="meeting-field-label">{{ i18n "meeting_company_name" }} <span class="meeting-required">*</span></span>
+          <input type="text" name="companyName" autocomplete="organization" required>
+        </label>
+
+        <label class="meeting-field">
+          <span class="meeting-field-label">{{ i18n "meeting_email" }} <span class="meeting-required">*</span></span>
+          <input type="email" name="email" autocomplete="email" required>
+        </label>
+
+        <fieldset class="meeting-field meeting-companies">
+          <legend class="meeting-field-label">
+            {{ i18n "meeting_companies" }} <span class="meeting-required">*</span>
+            <span class="meeting-field-hint">{{ i18n "meeting_companies_hint" }}</span>
+          </legend>
+          <div class="meeting-companies-grid">
+            {{ range $companies }}
+              <label class="meeting-company-option">
+                <input type="checkbox" name="companiesToMeet" value="{{ .Title }}" data-company-id="{{ .File.ContentBaseName }}">
+                <span>{{ .Title | emojify }}</span>
+              </label>
+            {{ end }}
+          </div>
+        </fieldset>
+
+        <label class="meeting-field">
+          <span class="meeting-field-label">{{ i18n "meeting_phone" }} <span class="meeting-field-hint">({{ i18n "meeting_optional" }})</span></span>
+          <input type="tel" name="phone" autocomplete="tel">
+        </label>
+
+        <label class="meeting-field">
+          <span class="meeting-field-label">{{ i18n "meeting_message" }} <span class="meeting-field-hint">({{ i18n "meeting_optional" }})</span></span>
+          <textarea name="message" rows="4"></textarea>
+        </label>
+
+        <p class="meeting-form-status" data-meeting-status role="status" aria-live="polite" hidden></p>
+
+        <div class="meeting-form-actions">
+          <button class="meeting-btn meeting-btn-secondary" type="button" data-meeting-dismiss>{{ i18n "meeting_cancel" }}</button>
+          <button class="meeting-btn meeting-btn-primary" type="submit" data-meeting-submit>{{ i18n "meeting_submit" }}</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<style>
+  .meeting-request {
+    margin: 1rem 0 0;
+  }
+
+  .meeting-request-trigger {
+    background: #4c9b87;
+    border: 1px solid #4c9b87;
+    border-radius: 999px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: 800;
+    padding: 0.7rem 1.4rem;
+    transition: background-color 160ms ease, border-color 160ms ease;
+  }
+
+  .meeting-request-trigger:hover {
+    background: #3f8977;
+    border-color: #3f8977;
+  }
+
+  .dark .meeting-request-trigger {
+    background: #69b7a2;
+    border-color: #69b7a2;
+    color: #101010;
+  }
+
+  .dark .meeting-request-trigger:hover {
+    background: #5aa791;
+    border-color: #5aa791;
+  }
+
+  .meeting-modal[hidden] {
+    display: none;
+  }
+
+  .meeting-modal {
+    align-items: flex-start;
+    display: flex;
+    inset: 0;
+    justify-content: center;
+    overflow-y: auto;
+    padding: 2.5rem 1rem;
+    position: fixed;
+    z-index: 1000;
+  }
+
+  .meeting-modal-overlay {
+    background: rgba(15, 15, 15, 0.6);
+    inset: 0;
+    position: fixed;
+  }
+
+  .meeting-modal-card {
+    background: #ffffff;
+    border: 1px solid #e5e5e5;
+    border-radius: 0.75rem;
+    box-shadow: 0 24px 60px rgba(22, 22, 22, 0.25);
+    max-width: 36rem;
+    padding: 1.75rem;
+    position: relative;
+    width: 100%;
+  }
+
+  .dark .meeting-modal-card {
+    background: #1c1c1c;
+    border-color: rgba(212, 212, 212, 0.16);
+    box-shadow: 0 24px 60px rgba(0, 0, 0, 0.5);
+  }
+
+  .meeting-modal-close {
+    background: none;
+    border: none;
+    color: #737373;
+    cursor: pointer;
+    font-size: 1.6rem;
+    line-height: 1;
+    padding: 0.25rem;
+    position: absolute;
+    right: 1rem;
+    top: 0.85rem;
+  }
+
+  .meeting-modal-close:hover {
+    color: #404040;
+  }
+
+  .dark .meeting-modal-close {
+    color: #a3a3a3;
+  }
+
+  .dark .meeting-modal-close:hover {
+    color: #e5e5e5;
+  }
+
+  .meeting-modal-title {
+    color: #171717;
+    font-size: 1.5rem;
+    font-weight: 850;
+    margin: 0;
+    padding-right: 2rem;
+  }
+
+  .dark .meeting-modal-title {
+    color: #f5f5f5;
+  }
+
+  .meeting-modal-subtitle {
+    color: #525252;
+    font-size: 0.92rem;
+    margin: 0.4rem 0 1.25rem;
+  }
+
+  .dark .meeting-modal-subtitle {
+    color: #d4d4d4;
+  }
+
+  .meeting-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .meeting-field-row {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @media (max-width: 30rem) {
+    .meeting-field-row {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .meeting-field {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin: 0;
+    min-width: 0;
+    padding: 0;
+  }
+
+  .meeting-field-label {
+    color: #404040;
+    font-size: 0.82rem;
+    font-weight: 800;
+  }
+
+  .dark .meeting-field-label {
+    color: #d4d4d4;
+  }
+
+  .meeting-field-hint {
+    color: #a3a3a3;
+    font-weight: 600;
+  }
+
+  .meeting-required {
+    color: #d6453d;
+  }
+
+  .meeting-field input:not([type="checkbox"]),
+  .meeting-field textarea {
+    background: #ffffff;
+    border: 1px solid #d4d4d4;
+    border-radius: 0.5rem;
+    color: #171717;
+    font-size: 0.92rem;
+    padding: 0.6rem 0.7rem;
+    width: 100%;
+  }
+
+  .meeting-field textarea {
+    resize: vertical;
+  }
+
+  .meeting-field input:not([type="checkbox"]):focus,
+  .meeting-field textarea:focus {
+    border-color: #4c9b87;
+    outline: 2px solid rgba(76, 155, 135, 0.25);
+    outline-offset: 0;
+  }
+
+  .meeting-field input[readonly] {
+    background: #f5f5f5;
+    color: #525252;
+  }
+
+  .dark .meeting-field input,
+  .dark .meeting-field textarea {
+    background: rgba(38, 38, 38, 0.84);
+    border-color: rgba(212, 212, 212, 0.2);
+    color: #f5f5f5;
+  }
+
+  .dark .meeting-field input[readonly] {
+    background: rgba(38, 38, 38, 0.5);
+    color: #a3a3a3;
+  }
+
+  .meeting-field input.is-invalid,
+  .meeting-companies.is-invalid {
+    border-color: #d6453d;
+  }
+
+  .meeting-companies {
+    border: 1px solid #e5e5e5;
+    border-radius: 0.5rem;
+    padding: 0.85rem;
+  }
+
+  .dark .meeting-companies {
+    border-color: rgba(212, 212, 212, 0.16);
+  }
+
+  .meeting-companies legend {
+    padding: 0 0.35rem;
+  }
+
+  .meeting-companies-grid {
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr));
+    margin-top: 0.6rem;
+    max-height: 14rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0.25rem 0.25rem 0.25rem 0.4rem;
+  }
+
+  .meeting-company-option {
+    align-items: center;
+    color: #404040;
+    cursor: pointer;
+    display: flex;
+    font-size: 0.9rem;
+    gap: 0.5rem;
+  }
+
+  .dark .meeting-company-option {
+    color: #e5e5e5;
+  }
+
+  .meeting-company-option input[type="checkbox"] {
+    -webkit-appearance: checkbox;
+    appearance: auto;
+    accent-color: #4c9b87;
+    background-image: none;
+    border: 1px solid #b4b4b4;
+    flex-shrink: 0;
+    height: 1.05rem;
+    margin: 0;
+    width: 1.05rem;
+  }
+
+  .meeting-form-status {
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    margin: 0;
+    padding: 0.7rem 0.85rem;
+  }
+
+  .meeting-form-status.is-error {
+    background: rgba(214, 69, 61, 0.12);
+    color: #b03a33;
+  }
+
+  .meeting-form-status.is-success {
+    background: rgba(76, 155, 135, 0.14);
+    color: #2f7f6d;
+  }
+
+  .dark .meeting-form-status.is-error {
+    color: #f0a59f;
+  }
+
+  .dark .meeting-form-status.is-success {
+    color: #8bd2be;
+  }
+
+  .meeting-form-actions {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: flex-end;
+    margin-top: 0.25rem;
+  }
+
+  .meeting-btn {
+    border-radius: 999px;
+    cursor: pointer;
+    font-size: 0.92rem;
+    font-weight: 800;
+    padding: 0.65rem 1.25rem;
+  }
+
+  .meeting-btn-secondary {
+    background: #ffffff;
+    border: 1px solid #d4d4d4;
+    color: #404040;
+  }
+
+  .meeting-btn-secondary:hover {
+    border-color: #a3a3a3;
+  }
+
+  .dark .meeting-btn-secondary {
+    background: transparent;
+    border-color: rgba(212, 212, 212, 0.24);
+    color: #e5e5e5;
+  }
+
+  .meeting-btn-primary {
+    background: #4c9b87;
+    border: 1px solid #4c9b87;
+    color: #ffffff;
+  }
+
+  .meeting-btn-primary:hover {
+    background: #3f8977;
+    border-color: #3f8977;
+  }
+
+  .meeting-btn-primary:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+
+  .dark .meeting-btn-primary {
+    background: #69b7a2;
+    border-color: #69b7a2;
+    color: #101010;
+  }
+</style>
+
+<script>
+  (() => {
+    const root = document.querySelector("[data-meeting-request]");
+    if (!root) return;
+
+    const modal = root.querySelector("[data-meeting-modal]");
+    const form = root.querySelector("[data-meeting-form]");
+    const statusEl = root.querySelector("[data-meeting-status]");
+    const submitBtn = root.querySelector("[data-meeting-submit]");
+    const webhook = root.dataset.meetingWebhook || "";
+    const program = root.dataset.meetingProgram || "";
+
+    const messages = {
+      selectCompany: {{ i18n "meeting_select_company_error" | jsonify }},
+      sending: {{ i18n "meeting_sending" | jsonify }},
+      submitLabel: {{ i18n "meeting_submit" | jsonify }},
+      success: {{ i18n "meeting_success" | jsonify }},
+      error: {{ i18n "meeting_error" | jsonify }},
+      notConfigured: {{ i18n "meeting_not_configured" | jsonify }},
+    };
+
+    let lastFocused = null;
+
+    const showStatus = (text, kind) => {
+      statusEl.textContent = text;
+      statusEl.classList.toggle("is-error", kind === "error");
+      statusEl.classList.toggle("is-success", kind === "success");
+      statusEl.hidden = false;
+    };
+
+    const clearStatus = () => {
+      statusEl.hidden = true;
+      statusEl.textContent = "";
+      statusEl.classList.remove("is-error", "is-success");
+    };
+
+    const openModal = () => {
+      lastFocused = document.activeElement;
+      modal.hidden = false;
+      document.body.style.overflow = "hidden";
+      const firstInput = form.querySelector("input, textarea");
+      if (firstInput) firstInput.focus();
+    };
+
+    const closeModal = () => {
+      modal.hidden = true;
+      document.body.style.overflow = "";
+      if (lastFocused && typeof lastFocused.focus === "function") lastFocused.focus();
+    };
+
+    root.querySelector("[data-meeting-open]").addEventListener("click", openModal);
+
+    root.querySelectorAll("[data-meeting-dismiss]").forEach((el) => {
+      el.addEventListener("click", closeModal);
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.key === "Escape" && !modal.hidden) closeModal();
+    });
+
+    const selectedCompanies = () =>
+      Array.from(form.querySelectorAll('input[name="companiesToMeet"]:checked'));
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      clearStatus();
+
+      let valid = true;
+
+      form.querySelectorAll("input[required]").forEach((input) => {
+        const ok = input.checkValidity();
+        input.classList.toggle("is-invalid", !ok);
+        if (!ok && valid) {
+          valid = false;
+          input.focus();
+        }
+      });
+
+      const checked = selectedCompanies();
+      const companiesField = form.querySelector(".meeting-companies");
+      companiesField.classList.toggle("is-invalid", checked.length === 0);
+      if (checked.length === 0) {
+        if (valid) showStatus(messages.selectCompany, "error");
+        valid = false;
+      }
+
+      if (!valid) {
+        if (statusEl.hidden) showStatus(messages.selectCompany, "error");
+        return;
+      }
+
+      if (!webhook) {
+        showStatus(messages.notConfigured, "error");
+        return;
+      }
+
+      const firstName = form.firstName.value.trim();
+      const lastName = form.lastName.value.trim();
+      const companyName = form.companyName.value.trim();
+      const email = form.email.value.trim();
+      const companiesToMeet = checked.map((el) => el.value);
+      const companyIds = checked.map((el) => el.dataset.companyId);
+      const phone = form.phone.value.trim();
+      const message = form.message.value.trim();
+      const submissionTime = new Date().toISOString();
+
+      const fullName = [firstName, lastName].filter(Boolean).join(" ");
+      const subject = "New meeting request: " + fullName +
+        (companyName ? " (" + companyName + ")" : "") +
+        " — " + program;
+
+      // label/value pairs consumed by the n8n → Slack formatter.
+      // The subject leads so it renders above "First name" in Slack.
+      const submissions = [
+        { label: "Subject", value: subject },
+        { label: "First name", value: firstName },
+        { label: "Last name", value: lastName },
+        { label: "Company name", value: companyName },
+        { label: "Email address", value: email },
+        { label: "Companies you'd like to meet", value: companiesToMeet.join(", ") },
+      ];
+      if (phone) submissions.push({ label: "Phone number", value: phone });
+      if (message) submissions.push({ label: "Message", value: message });
+
+      const payload = {
+        subject: subject,
+        submissionTime: submissionTime,
+        pageUrl: window.location.href,
+        data: {
+          subject: subject,
+          submissions: submissions,
+          firstName: firstName,
+          lastName: lastName,
+          companyName: companyName,
+          email: email,
+          companiesToMeet: companiesToMeet,
+          companyIds: companyIds,
+          phone: phone,
+          message: message,
+        },
+      };
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = messages.sending;
+
+      try {
+        const response = await fetch(webhook, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+
+        if (!response.ok) throw new Error("Request failed with status " + response.status);
+
+        form.reset();
+        form.querySelectorAll(".is-invalid").forEach((el) => el.classList.remove("is-invalid"));
+        showStatus(messages.success, "success");
+      } catch (error) {
+        showStatus(messages.error, "error");
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = messages.submitLabel;
+      }
+    });
+  })();
+</script>

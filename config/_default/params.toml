@@ -8,6 +8,9 @@ enableCodeCopy = true
 
 mainSections = ["companies"]
 
+# n8n webhook that receives meeting-request form submissions from program pages.
+meetingWebhookURL = "https://n8n.123factory.de/webhook/4212cac5-eb49-4172-89b4-1a572f2ab3e1"
+
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
