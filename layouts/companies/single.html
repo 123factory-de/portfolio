@@ -28,6 +28,8 @@
         {{ template "SingleAuthor" . }}
       {{ end }}
       {{ partial "company-facts.html" . }}
+      {{ $companies := where site.RegularPages "Section" "companies" }}
+      {{ partial "program-meeting-request.html" (dict "context" . "companies" ($companies.ByTitle) "program" .Title "preselect" .File.ContentBaseName) }}
     </header>
 
     {{/* Body */}}
