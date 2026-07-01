@@ -28,6 +28,7 @@
         {{ template "SingleAuthor" . }}
       {{ end }}
       {{ partial "company-facts.html" . }}
+      {{ partial "program-meeting-request.html" (dict "context" . "program" .Title "fixedCompany" .) }}
     </header>
 
     {{/* Body */}}

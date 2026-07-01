@@ -1,5 +1,7 @@
 {{ $companies := .companies }}
 {{ $program := .program }}
+{{ $preselect := .preselect | default "" }}
+{{ $fixedCompany := .fixedCompany }}
 {{ $webhook := site.Params.meetingWebhookURL | default "" }}
 
 <div
@@ -44,20 +46,28 @@
           <input type="email" name="email" autocomplete="email" required>
         </label>
 
-        <fieldset class="meeting-field meeting-companies">
-          <legend class="meeting-field-label">
-            {{ i18n "meeting_companies" }} <span class="meeting-required">*</span>
-            <span class="meeting-field-hint">{{ i18n "meeting_companies_hint" }}</span>
-          </legend>
-          <div class="meeting-companies-grid">
-            {{ range $companies }}
-              <label class="meeting-company-option">
-                <input type="checkbox" name="companiesToMeet" value="{{ .Title }}" data-company-id="{{ .File.ContentBaseName }}">
-                <span>{{ .Title | emojify }}</span>
-              </label>
-            {{ end }}
-          </div>
-        </fieldset>
+        {{ if $fixedCompany }}
+          <label class="meeting-field">
+            <span class="meeting-field-label">{{ i18n "meeting_companies" }} <span class="meeting-required">*</span></span>
+            <input type="text" value="{{ $fixedCompany.Title | emojify }}" readonly>
+          </label>
+          <input type="checkbox" name="companiesToMeet" value="{{ $fixedCompany.Title }}" data-company-id="{{ $fixedCompany.File.ContentBaseName }}" checked hidden>
+        {{ else }}
+          <fieldset class="meeting-field meeting-companies">
+            <legend class="meeting-field-label">
+              {{ i18n "meeting_companies" }} <span class="meeting-required">*</span>
+              <span class="meeting-field-hint">{{ i18n "meeting_companies_hint" }}</span>
+            </legend>
+            <div class="meeting-companies-grid">
+              {{ range $companies }}
+                <label class="meeting-company-option">
+                  <input type="checkbox" name="companiesToMeet" value="{{ .Title }}" data-company-id="{{ .File.ContentBaseName }}"{{ if eq .File.ContentBaseName $preselect }} checked{{ end }}>
+                  <span>{{ .Title | emojify }}</span>
+                </label>
+              {{ end }}
+            </div>
+          </fieldset>
+        {{ end }}
 
         <label class="meeting-field">
           <span class="meeting-field-label">{{ i18n "meeting_phone" }} <span class="meeting-field-hint">({{ i18n "meeting_optional" }})</span></span>
@@ -78,6 +88,8 @@
       </form>
     </div>
   </div>
+
+  <div class="meeting-toast" data-meeting-toast role="status" aria-live="polite" hidden></div>
 </div>
 
 <style>
@@ -416,6 +428,53 @@
     border-color: #69b7a2;
     color: #101010;
   }
+
+  .meeting-toast[hidden] {
+    display: none;
+  }
+
+  .meeting-toast {
+    align-items: center;
+    background: #2f7f6d;
+    border-radius: 0.6rem;
+    bottom: 1.5rem;
+    box-shadow: 0 12px 32px rgba(22, 22, 22, 0.28);
+    color: #ffffff;
+    display: flex;
+    font-size: 0.92rem;
+    font-weight: 700;
+    gap: 0.55rem;
+    left: 50%;
+    max-width: calc(100vw - 2rem);
+    opacity: 0;
+    padding: 0.85rem 1.15rem;
+    position: fixed;
+    transform: translate(-50%, 1rem);
+    transition: opacity 220ms ease, transform 220ms ease;
+    z-index: 1100;
+  }
+
+  .meeting-toast.is-visible {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+
+  .meeting-toast::before {
+    content: "\2713";
+    font-weight: 900;
+  }
+
+  .dark .meeting-toast {
+    background: #69b7a2;
+    color: #101010;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .meeting-toast {
+      transition: opacity 220ms ease;
+      transform: translate(-50%, 0);
+    }
+  }
 </style>
 
 <script>
@@ -426,6 +485,7 @@
     const modal = root.querySelector("[data-meeting-modal]");
     const form = root.querySelector("[data-meeting-form]");
     const statusEl = root.querySelector("[data-meeting-status]");
+    const toastEl = root.querySelector("[data-meeting-toast]");
     const submitBtn = root.querySelector("[data-meeting-submit]");
     const webhook = root.dataset.meetingWebhook || "";
     const program = root.dataset.meetingProgram || "";
@@ -441,6 +501,20 @@
     };
 
     let lastFocused = null;
+    let toastTimer = null;
+
+    const showToast = (text) => {
+      toastEl.textContent = text;
+      toastEl.hidden = false;
+      // Force reflow so the transition runs from the hidden state.
+      void toastEl.offsetWidth;
+      toastEl.classList.add("is-visible");
+      if (toastTimer) clearTimeout(toastTimer);
+      toastTimer = setTimeout(() => {
+        toastEl.classList.remove("is-visible");
+        setTimeout(() => { toastEl.hidden = true; }, 240);
+      }, 4000);
+    };
 
     const showStatus = (text, kind) => {
       statusEl.textContent = text;
@@ -499,7 +573,7 @@
 
       const checked = selectedCompanies();
       const companiesField = form.querySelector(".meeting-companies");
-      companiesField.classList.toggle("is-invalid", checked.length === 0);
+      if (companiesField) companiesField.classList.toggle("is-invalid", checked.length === 0);
       if (checked.length === 0) {
         if (valid) showStatus(messages.selectCompany, "error");
         valid = false;
@@ -578,7 +652,9 @@
 
         form.reset();
         form.querySelectorAll(".is-invalid").forEach((el) => el.classList.remove("is-invalid"));
-        showStatus(messages.success, "success");
+        clearStatus();
+        closeModal();
+        showToast(messages.success);
       } catch (error) {
         showStatus(messages.error, "error");
       } finally {
