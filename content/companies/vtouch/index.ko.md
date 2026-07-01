@@ -1,5 +1,5 @@
 ---
-title: "VTouch"
+title: "브이터치"
 date: 2026-07-01
 draft: false
 description: "비접촉 공간 터치, 음성 AI 웨어러블, 공중 홀로그램 조작 등 차세대 사용자 인터페이스를 개발하는 딥테크 기업."
