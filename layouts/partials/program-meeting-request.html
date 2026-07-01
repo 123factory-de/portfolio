@@ -1,6 +1,7 @@
 {{ $companies := .companies }}
 {{ $program := .program }}
 {{ $preselect := .preselect | default "" }}
+{{ $fixedCompany := .fixedCompany }}
 {{ $webhook := site.Params.meetingWebhookURL | default "" }}
 
 <div
@@ -45,20 +46,28 @@
           <input type="email" name="email" autocomplete="email" required>
         </label>
 
-        <fieldset class="meeting-field meeting-companies">
-          <legend class="meeting-field-label">
-            {{ i18n "meeting_companies" }} <span class="meeting-required">*</span>
-            <span class="meeting-field-hint">{{ i18n "meeting_companies_hint" }}</span>
-          </legend>
-          <div class="meeting-companies-grid">
-            {{ range $companies }}
-              <label class="meeting-company-option">
-                <input type="checkbox" name="companiesToMeet" value="{{ .Title }}" data-company-id="{{ .File.ContentBaseName }}"{{ if eq .File.ContentBaseName $preselect }} checked{{ end }}>
-                <span>{{ .Title | emojify }}</span>
-              </label>
-            {{ end }}
-          </div>
-        </fieldset>
+        {{ if $fixedCompany }}
+          <label class="meeting-field">
+            <span class="meeting-field-label">{{ i18n "meeting_companies" }} <span class="meeting-required">*</span></span>
+            <input type="text" value="{{ $fixedCompany.Title | emojify }}" readonly>
+          </label>
+          <input type="checkbox" name="companiesToMeet" value="{{ $fixedCompany.Title }}" data-company-id="{{ $fixedCompany.File.ContentBaseName }}" checked hidden>
+        {{ else }}
+          <fieldset class="meeting-field meeting-companies">
+            <legend class="meeting-field-label">
+              {{ i18n "meeting_companies" }} <span class="meeting-required">*</span>
+              <span class="meeting-field-hint">{{ i18n "meeting_companies_hint" }}</span>
+            </legend>
+            <div class="meeting-companies-grid">
+              {{ range $companies }}
+                <label class="meeting-company-option">
+                  <input type="checkbox" name="companiesToMeet" value="{{ .Title }}" data-company-id="{{ .File.ContentBaseName }}"{{ if eq .File.ContentBaseName $preselect }} checked{{ end }}>
+                  <span>{{ .Title | emojify }}</span>
+                </label>
+              {{ end }}
+            </div>
+          </fieldset>
+        {{ end }}
 
         <label class="meeting-field">
           <span class="meeting-field-label">{{ i18n "meeting_phone" }} <span class="meeting-field-hint">({{ i18n "meeting_optional" }})</span></span>
@@ -564,7 +573,7 @@
 
       const checked = selectedCompanies();
       const companiesField = form.querySelector(".meeting-companies");
-      companiesField.classList.toggle("is-invalid", checked.length === 0);
+      if (companiesField) companiesField.classList.toggle("is-invalid", checked.length === 0);
       if (checked.length === 0) {
         if (valid) showStatus(messages.selectCompany, "error");
         valid = false;
