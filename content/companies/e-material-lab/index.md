@@ -14,7 +14,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-E material LAB is a deep-tech startup that develops passive cooling components to replace conventional aluminum heat sinks. Its core idea is to coat metal with a nano-porous layer that radiates heat, so parts can be lighter and thinner while cooling better. The company is based in Cheonan, Korea. It targets electronics that generate a lot of heat, such as semiconductors, data centers, and electric vehicles.
+E material LAB is a deep-tech startup that develops passive cooling components to replace conventional aluminum heat sinks. Its core idea is to coat metal with a nano-porous layer that radiates heat, so parts can be lighter and thinner while cooling better. It targets electronics that generate a lot of heat, such as semiconductors, data centers, and electric vehicles.
 
 ## Technology & Product
 
