@@ -23,6 +23,7 @@ env:
   HUGO_VERSION: 0.153.3
   HUGO_ENVIRONMENT: production
   HUGO_ENV: production
+  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: 'true'
 
 jobs:
   build:
