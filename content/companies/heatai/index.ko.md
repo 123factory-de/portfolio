@@ -2,7 +2,7 @@
 title: "히트에이아이"
 date: 2026-06-10
 draft: false
-description: "히트에이아이는 건물 히트펌프 성능과 에너지 절감 데이터를 검증하는 MRV 소프트웨어를 개발합니다."
+description: "히트에이아이는 건물 운영 데이터를 신뢰할 수 있는 MRV 증거로 전환하여, 정부와 산업이 실제 기후 성과를 검증할 수 있도록 지원합니다."
 industries: ["Information Technology", "Energy"]
 verticals: ["Climate Tech", "Cleantech"]
 programs: ["climate-launchpad"]
@@ -15,7 +15,7 @@ logo: "logo.png"
 
 ## 회사 개요
 
-히트에이아이(HeatAI)는 건축물 에너지 효율화 프로젝트를 위한 데이터 기반 측정·보고·검증(MRV) 소프트웨어를 개발합니다. 특히 히트펌프 설비 도입 후 실제 난방 성능(SPF)과 에너지 절감 효과를 모니터링하여 공공 감사 및 탄소 배출권 검증에 즉시 활용할 수 있는 신뢰성 높은 에너지 리포트를 제공합니다.
+From Policy to Proof. 히트에이아이(HeatAI)는 건물 운영 데이터를 신뢰할 수 있는 MRV 증거로 전환하여, 정부와 산업이 실제 기후 성과를 검증할 수 있도록 지원합니다.
 
 ## 기술 및 제품
 

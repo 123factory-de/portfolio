@@ -2,7 +2,7 @@
 title: "HeatAI"
 date: 2026-06-10
 draft: false
-description: "HeatAI builds MRV software for building heat-pump performance and energy-saving data."
+description: "HeatAI converts operational building data into trusted MRV evidence, enabling governments and industries to verify real climate outcomes."
 industries: ["Information Technology", "Energy"]
 verticals: ["Climate Tech", "Cleantech"]
 programs: ["climate-launchpad"]
@@ -15,7 +15,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-HeatAI develops automated Measurement, Reporting, and Verification (MRV) software for building energy retrofits. The platform monitors heat-pump operational data in real time to calculate seasonal performance factor (SPF), verify energy savings, and generate audit-ready reports essential for public subsidy compliance and carbon credit markets.
+From Policy to Proof. HeatAI converts operational building data into trusted MRV evidence, enabling governments and industries to verify real climate outcomes.
 
 ## Technology & Product
 
