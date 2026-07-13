@@ -1,22 +1,12 @@
 # Antigravity Agent Instructions
 
-This file provides specific context and operational rules for the Antigravity AI assistant.
+This project's operating instructions for all AI agents are consolidated in the
+repository-root **[AGENTS.md](../../AGENTS.md)** (AGENTS.md open standard).
 
-## Core Directives
-- **Source of Truth**: Always refer to the following documents for workflow rules:
-    - [docs/git-workflow/branching-strategy.md](docs/git-workflow/branching-strategy.md)
-    - [docs/git-workflow/commit-convention.md](docs/git-workflow/commit-convention.md)
-    - [docs/git-workflow/pr-convention.md](docs/git-workflow/pr-convention.md)
-- **Branching**: Follow GitHub Flow. Use `feat/`, `fix/`, `docs/`, etc. Never commit to `main`. Always merge to `main` using `--no-ff` (No Fast-Forward) to preserve merge commits.
-- **Commits**: Use Conventional Commits as defined in [docs/git-workflow/commit-convention.md](docs/git-workflow/commit-convention.md).
-- **Pull Requests**: Follow the template and standards defined in [docs/git-workflow/pr-convention.md](docs/git-workflow/pr-convention.md).
-- **Language**: All communication, documentation, and code comments must be in **English**.
+**Read [AGENTS.md](../../AGENTS.md) first.** It is the single source of truth for the
+project overview, repository layout, setup/build commands, git workflow, content authoring,
+and conventions.
 
-## Project Mission
-- **Project**: `portfolio`
-- **Objective**: Build and maintain the portfolio website for 123 Factory.
+## Antigravity-specific notes
 
-
-## Operational Preferences
-- Be concise and technical.
-- Proactively suggest best practices for Agentic systems.
+- No Antigravity-specific overrides at this time. Follow AGENTS.md.
