@@ -61,7 +61,7 @@ human** instead of proceeding.
 | `assets/`, `static/` | Site assets and static files |
 | `i18n/` | Translation strings |
 | `themes/blowfish/` | Theme (git submodule — do not edit) |
-| `docs/` | Workflow docs, references, and agent skills |
+| `docs/` | Workflow docs, references, agent skills, and PR worklogs |
 | `.githooks/`, `.gitleaks.toml`, `.github/` | Safety guardrails (protected — see above) |
 | `public/`, `resources/` | Generated output — do not edit |
 
@@ -100,6 +100,56 @@ Key rules:
 - **Pull Requests** follow the template and process in the PR convention doc; keep PRs atomic.
   All PR checks (secret scan, protected paths) must pass before merge.
 - Delete feature branches after merge.
+
+### Agent workflow for all tasks
+
+When a user asks an agent to make any change in this repository — content, documentation,
+configuration, layouts, or anything else — the agent must:
+
+1. **Branch automatically.** Before touching any file, create a branch from the latest
+   `main` following the naming convention (e.g. `feat/add-company-acme`,
+   `fix/update-program-dates`). Do not ask for permission to branch, and never work
+   directly on `main`.
+2. **Do the work and commit** on that branch following the commit convention. Validate
+   the change (e.g. `hugo --gc --minify`) before reporting completion, and write the
+   branch's worklog file (see "Worklog — mandatory for every PR" below).
+3. **Ask before opening a PR, in plain language.** When the work is done, summarize
+   what changed and ask the user whether to create a GitHub Pull Request. Do not push
+   the branch or open a PR without the user's explicit confirmation.
+
+   Phrase the question so a non-developer can understand it, in the user's language.
+   Do not use bare jargon (branch, PR, merge, push); when a term is unavoidable, add a
+   short everyday-language explanation next to it. The question must make three things
+   clear:
+   - The finished change is saved in a separate working copy (a "branch") and is
+     **not yet visible on the live site**.
+   - A Pull Request is a GitHub page that shows exactly what changed so the user can
+     review and approve it before it goes live.
+   - Approving and merging the Pull Request publishes the change to the live site
+     (https://portfolio.123factory.de/).
+
+   Example (translate naturally into the user's language): "The work is done, but it
+   is saved in a separate workspace and is not on the live website yet. To publish it,
+   I can open a Pull Request — a GitHub page where you can see exactly what changed
+   and approve it. Once you approve and merge it, the change goes live. Shall I open
+   the Pull Request?"
+
+## Worklog — mandatory for every PR
+
+- Every PR must include exactly one branch-specific worklog file named
+  `docs/worklog/YYYY-MM-DD-<branch-slug>.md` (this count excludes
+  [docs/worklog/_template.md](docs/worklog/_template.md)).
+- Create the worklog on the same branch as the change and commit it **before opening the PR**.
+- **The worklog file is the source of truth for the PR**: PR title = the worklog `title`
+  field; PR description = the worklog body (from `## Request` down). Generate the PR from the
+  file, never the other way around. If scope changes during review, update the worklog first,
+  then sync the PR description.
+- Record: the original request (summarized in the requester's intent), what changed and why,
+  and how it was verified.
+- The secret/personal-data rules apply to worklog files too — no personal names, handles,
+  emails, or other personal data; refer to request sources by channel/system and date, not
+  by name.
+- Never modify another branch's worklog file.
 
 ## Content authoring
 

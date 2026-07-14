@@ -100,6 +100,9 @@ When the page is for an already selected cohort:
 
 ## Workflow
 
+0. Create a branch from the latest `main` before touching any file (e.g.
+   `feat/add-program-{slug}`). Do not ask for permission to branch, and never work
+   directly on `main`.
 1. Read the source material.
 2. Confirm the slug.
 3. Check linked companies:
@@ -117,6 +120,17 @@ rg -n 'programs: \["{slug}"\]' content/companies
 ```sh
 hugo --gc --minify --cacheDir /private/tmp/hugo_cache_portfolio
 ```
+
+9. After validation, write the branch's worklog file
+   `docs/worklog/YYYY-MM-DD-<branch-slug>.md` from
+   [docs/worklog/_template.md](../../worklog/_template.md) and commit it on the same
+   branch (see "Worklog — mandatory for every PR" in AGENTS.md).
+
+10. Commit on the branch, then summarize the change and ask the user whether to create
+    a Pull Request. Ask in plain, non-developer language as described in AGENTS.md
+    ("Agent workflow for all tasks"): explain that the change is not on the live site
+    yet and that a Pull Request is GitHub's review-and-approve page. Do not push or
+    open a PR without the user's confirmation.
 
 ## Validation
 
