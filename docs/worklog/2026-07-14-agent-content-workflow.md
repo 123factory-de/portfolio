@@ -23,9 +23,11 @@ Three related improvements to the agent operating instructions:
 
 ## Changes
 
-- Added an "Agent workflow for content tasks" section to `AGENTS.md`:
+- Added an "Agent workflow for all tasks" section to `AGENTS.md`:
   branch from `main` automatically, do the work, validate and commit,
-  write the worklog, then ask before pushing or opening a PR.
+  write the worklog, then ask before pushing or opening a PR. On review,
+  the scope was widened from content tasks to every kind of change in
+  the repository (content, documentation, configuration, layouts, etc.).
 - The PR confirmation question must avoid bare jargon and make three
   things clear: the change is saved on a separate branch and not live
   yet; a Pull Request is GitHub's review-and-approve page; merging
@@ -37,8 +39,10 @@ Three related improvements to the agent operating instructions:
   the PR is opened; PR title/description are generated from it.
 - Updated the `docs/` row of the repository layout table to mention
   worklogs.
-- Reflected the branch-first and ask-before-PR steps in the
-  `add-company-content` and `add-program-content` skill workflows.
+- Reflected the branch-first, write-worklog, and ask-before-PR steps in
+  the `add-company-content` and `add-program-content` skill workflows,
+  so the skills are self-contained and an agent following only a skill
+  cannot skip the worklog.
 - This file is the first worklog, serving as a filled-in example of the
   convention it introduces.
 

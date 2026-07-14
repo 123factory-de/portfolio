@@ -101,9 +101,10 @@ Key rules:
   All PR checks (secret scan, protected paths) must pass before merge.
 - Delete feature branches after merge.
 
-### Agent workflow for content tasks
+### Agent workflow for all tasks
 
-When a user asks an agent to add, edit, or delete content, the agent must:
+When a user asks an agent to make any change in this repository — content, documentation,
+configuration, layouts, or anything else — the agent must:
 
 1. **Branch automatically.** Before touching any file, create a branch from the latest
    `main` following the naming convention (e.g. `feat/add-company-acme`,

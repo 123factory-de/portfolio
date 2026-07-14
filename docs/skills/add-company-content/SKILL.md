@@ -199,8 +199,12 @@ hugo --gc --minify --cacheDir /private/tmp/hugo_cache_portfolio
 
 12. Confirm generated card assets point to page-bundle URLs such as `/companies/{slug}/logo.svg` and `/ko/companies/{slug}/logo.svg` when the same logo is shared across languages.
 
-13. Commit on the branch, then summarize the change and ask the user whether to create
+13. Write the branch's worklog file `docs/worklog/YYYY-MM-DD-<branch-slug>.md` from
+    [docs/worklog/_template.md](../../worklog/_template.md) and commit it on the same
+    branch (see "Worklog — mandatory for every PR" in AGENTS.md).
+
+14. Commit on the branch, then summarize the change and ask the user whether to create
     a Pull Request. Ask in plain, non-developer language as described in AGENTS.md
-    ("Agent workflow for content tasks"): explain that the change is not on the live
+    ("Agent workflow for all tasks"): explain that the change is not on the live
     site yet and that a Pull Request is GitHub's review-and-approve page. Do not push
     or open a PR without the user's confirmation.
