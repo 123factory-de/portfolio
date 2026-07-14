@@ -6,7 +6,7 @@ showBreadcrumbs: false
 
 ## Program Overview
 
-Companies joining the `2026 IBK Changgong Global (Germany) Accelerating Program — K-Biotech in Germany`, where 123factory serves as an operating partner, are gathered here.
+Companies joining the **2026 IBK Changgong Global (Germany) Accelerating Program — K-Biotech in Germany**, where 123factory serves as an operating partner, are gathered here.
 
 The companies below are Korean bio and healthcare startups entering the European market through Germany. Through the program they connect with German research institutions, bio and healthcare clusters, pharmaceutical companies, and hospitals for joint research and business partnerships, with an on-site program in Germany in September 2026. Key partners include KIST Europe, Helmholtz, PharmaScienceHub (PSH), Fraunhofer, the BioRN cluster, and the 5-HT innovation hub.
 
