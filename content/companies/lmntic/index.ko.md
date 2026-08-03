@@ -27,7 +27,7 @@ logo: "logo.png"
 
 ## 성과 및 레퍼런스
 
-2022년 TIPS에 선정되었고 같은 해 시드 투자를 유치했으며, 이후 실험실 창업 지원금과 후속 투자를 이어갔습니다([한국경제](https://magazine.hankyung.com/job-joy/article/202503260321d)). IBK 창공 구로 13기에 참여했습니다([한국경제](https://magazine.hankyung.com/job-joy/article/202503260321d)). 2025년 KAIST·GIST·DGIST·UNIST·POSTECH와 KDB가 함께한 과학기술특성화대학 창업 투자대회에서 우수상을 수상했습니다([아시아경제](https://www.asiae.co.kr/en/article/2025091811162457546)). 류동환 대표는 2025년 포브스코리아가 선정하는 '30세 이하 30인'(30 Under 30)에 이름을 올렸습니다([포브스코리아](https://www.forbeskorea.co.kr/news/articleView.html?idxno=340922)). 서울성모병원 바이오코어센터와 공동 연구를 진행하고 있으며, 벤처기업 인증과 기업부설연구소를 보유하고 있습니다([엘엠엔틱바이오텍](https://www.lmntic.com/about-us/)).
+2022년 TIPS에 선정되었고 같은 해 시드 투자를 유치했으며, 이후 실험실 창업 지원금과 후속 투자를 이어갔습니다 ([한국경제](https://magazine.hankyung.com/job-joy/article/202503260321d)). IBK 창공 구로 13기에 참여했습니다 ([한국경제](https://magazine.hankyung.com/job-joy/article/202503260321d)). 2025년 KAIST·GIST·DGIST·UNIST·POSTECH와 KDB가 함께한 과학기술특성화대학 창업 투자대회에서 우수상을 수상했습니다 ([아시아경제](https://www.asiae.co.kr/en/article/2025091811162457546)). 류동환 대표는 2025년 포브스코리아가 선정하는 '30세 이하 30인'(30 Under 30)에 이름을 올렸습니다 ([포브스코리아](https://www.forbeskorea.co.kr/news/articleView.html?idxno=340922)). 서울성모병원 바이오코어센터와 공동 연구를 진행하고 있으며, 벤처기업 인증과 기업부설연구소를 보유하고 있습니다 ([엘엠엔틱바이오텍](https://www.lmntic.com/about-us/)).
 
 ## 협업 가능성
 
