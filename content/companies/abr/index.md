@@ -8,7 +8,7 @@ verticals: ["Cleantech", "Climate Tech"]
 programs: ["kosme-poc"]
 website: "http://en.adbatteryrecycle.com"
 founded: "2021"
-ceo: "Yutak Kim"
+ceo: "YU TACK, KIM"
 headquarters: "Gwangyang, Korea"
 logo: "logo.png"
 ---
@@ -23,18 +23,19 @@ ABR offers direct recycling services and remanufactured battery materials:
 
 - **Direct Recycling Process**: ABR uses water and ultrasonic waves to separate active cathode and anode materials from foil substrates in battery manufacturing scrap.
 - **Remanufactured Cathode Materials**: High-purity recycled cathode powders (such as NCM) reclaimed directly from manufacturing waste.
-- **Recycled Anode Materials & Precursors**: Recovered graphite anode powders and NCM solution-based precursors ready for re-entry into the battery manufacturing loop.
+- **Remanufactured Anode Material**: A recycled anode powder produced by recovering anode active materials from battery manufacturing process scrap and regenerating them for reuse in battery production.
 - **Recycled Activated Carbon**: Carbon-based materials extracted and prepared for industrial adsorption and energy applications.
 
 ## Market & Use Cases
 
-ABR serves battery cell manufacturers and automotive OEMs. These customers need to manage production scrap and build closed-loop material supply chains. Because ABR recovers active materials directly, its process uses less energy and produces less carbon than hydrometallurgical or pyrometallurgical recycling.
+ABR serves battery manufacturing gigafactories and battery recycling companies. These customers need to manage production scrap and build closed-loop material supply chains. Because ABR recovers active materials directly, its process uses less energy and produces less carbon than hydrometallurgical or pyrometallurgical recycling.
 
 ## Traction & References
 
-- ABR demonstrated its physical direct recycling process and products at the K-BATTERY SHOW 2024.
-- The company was selected for the IBK Changgong Gwangju 3rd cohort in 2025.
-- ABR is supported by the Jeonnam Creative Economy Innovation Center (J-CCEI) 2025 program.
+- **Ongoing Direct Recycling PoC with global battery manufacturers** <br>
+→ Technical validation and business collaboration with **PowerCo SE (Volkswagen Group, Germany)** and **Exide Energy Solutions (India)**
+- **Awarded “Green Battery Innovation Leader – South Korea 2025”**
+- **Established a global-standard quality management system based on ISO 9001, ensuring reliable production and supply capabilities**
 
 ## Collaboration Relevance
 
