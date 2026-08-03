@@ -15,15 +15,15 @@ logo: "logo.png"
 
 ## Company Overview
 
-LMNTIC Biotech is a diagnostics company that finds cancer in a blood sample. It isolates circulating tumor cells (CTCs) — cancer cells that break off a tumor and float in the bloodstream. The company was spun out of DGIST, a research university, and turns the magnetic cell-sorting technology developed in its labs into a product. The goal is to make liquid biopsy — a cancer test that uses a blood sample instead of cutting out tissue — faster, cheaper, and easier to access than a tissue biopsy or an ordinary blood test.
+LMNTIC Biotech is a cancer diagnostics company. Its technology isolates circulating tumor cells (CTCs) — cancer cells that break off a tumor and travel in the bloodstream — from a blood sample. Founded in 2022, the company is based at DGIST (a research university in Korea) and builds on magnetophoretic cell-control technology developed by Prof. Cheol-Gi Kim at DGIST. The goal is to make liquid biopsy — a cancer test that uses a blood sample instead of surgically removing tissue — faster, cheaper, and easier to access than a tissue biopsy.
 
 ## Technology & Product
 
-The core product is [L:Biopsy](https://www.lmntic.com/lbiopsy/), an automated platform built on a single chip. It separates cancer cells from blood using micro-magnetophoresis — a magnetic field that guides one cell at a time to sort them out. In a single step, it collects many kinds of tumor cells, including clumps of cells and unusually small ones, and reaches over 90% purity. The captured cells then go into genomic sequencing — reading their DNA to spot mutations and possible treatment targets. The company says results come back in about one week, at a cost far below a standard liquid biopsy.
+The core product is [L:Biopsy](https://www.lmntic.com/lbiopsy/), an automated platform built around a single microfluidic chip. It tags the target cells with magnetic particles and then uses a magnetic field to move and sort them one cell at a time — a technique called micro-magnetophoresis. In one automated run from 10 mL of blood, it captures the tumor cells, images them, and recovers about 87% of them while removing nearly all normal blood cells; a high-purity mode is designed to reach over 90% purity for sequencing. The captured cells can then go into genomic sequencing — reading their DNA to spot mutations and possible treatment targets. The run takes about four hours, needs no centrifuge, and uses a benchtop device that costs a fraction of existing CTC-isolation systems.
 
 ## Market & Use Cases
 
-The platform is built for cancer centers, hospitals, and research labs that need a reliable way to isolate CTCs. They use it to catch cancer early, track how a patient responds to treatment, and support research that moves lab findings toward the clinic. It costs less than a tissue biopsy or a ctDNA test (which looks for tumor DNA in the blood), and can be used alongside them. For now it is a research-use tool, so it fits early cancer studies and biomarker work rather than routine clinical care.
+The platform is built for research labs, hospitals, and cancer centers that need a reliable way to isolate CTCs. They use it to count and characterize tumor cells, track how a patient responds to treatment, and support research that moves lab findings toward the clinic. It is positioned as a lower-cost option and can be used alongside tissue biopsies and ctDNA tests (which look for tumor DNA in the blood). For now it is a research-use-only tool, so it fits early-stage cancer studies and biomarker work rather than routine clinical care.
 
 ## Traction & References
 
