@@ -33,7 +33,7 @@ ForeCheck LC는 LDCT 검사에서 폐결절이 발견된 환자를 대상으로 
 
 비욘드디엑스는 블루포인트파트너스로부터 시드 투자를 받았으며 2024년 딥테크 TIPS 프로그램에 선정되었습니다 ([더바이오뉴스](https://www.thebionews.net/news/articleView.html?idxno=21436)). 지속적인 기술 및 사업 개발을 지원하는 IBK 창공 프로그램의 참여 기업이기도 합니다 ([약업신문](https://www.kpanews.co.kr/news/articleView.html?idxno=535304)).
 
-ISO 13485 인증 품질경영시스템과 체외진단의료기기 제조를 위한 한국 GMP 생산 역량을 구축했습니다 ([더바이오뉴스](https://www.thebionews.net/news/articleView.html?idxno=21436), [약업신문](https://www.yakup.com/news/index.html?mode=view&nid=294696)). 3,400건 이상의 인체 유래물 임상 데이터셋을 축적했으며, 분당서울대학교병원 연구팀과 협력하여 임상 연구 및 검증 작업을 진행했습니다. 임상 결과는 ASCO 2025 및 ASCO 2026에서 발표되어 ForeCheck LC의 임상적 유용성을 입증했습니다 ([약업신문](https://www.yakup.com/news/index.html?mode=view&nid=326848)).
+ISO 13485 인증 품질경영시스템과 체외진단의료기기 제조를 위한 한국 GMP 생산 역량을 구축했습니다 ([약업신문](https://www.yakup.com/news/index.html?mode=view&nid=294696)). 3,400건 이상의 인체 유래물 임상 데이터셋을 축적했으며, 분당서울대학교병원 연구팀과 협력하여 임상 연구 및 검증 작업을 진행했습니다. 임상 결과는 ASCO 2025 및 ASCO 2026에서 발표되어 ForeCheck LC의 임상적 유용성을 입증했습니다 ([약업신문](https://www.yakup.com/news/index.html?mode=view&nid=326848)).
 
 2025년에는 상하이 커화바이오(Shanghai Kehua Bio-Engineering)와 MOU를 체결하여 아시아, 유럽, 중남미에 걸친 파트너사의 글로벌 네트워크를 활용한 ForeCheck LC의 공동 개발 및 상용화 기회를 추진하고 있습니다 ([더바이오뉴스](https://www.thebionews.net/news/articleView.html?idxno=17382)). 또한 중소벤처기업부가 주최한 2025년 여성창업경진대회에서 대상을 수상했습니다 ([여성신문](https://www.womennews.co.kr/news/articleView.html?idxno=277337)).
 
