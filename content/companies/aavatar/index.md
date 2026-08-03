@@ -15,15 +15,15 @@ logo: "logo.png"
 
 ## Company Overview
 
-AAVATAR Therapeutics is a gene therapy company that designs custom AAV vectors for rare and hard-to-treat diseases. It pairs a machine learning-driven capsid engineering platform with its own manufacturing (CMC) capability. It positions itself as a next-generation AAV delivery and production partner.
+AAVATAR Therapeutics is an AI-driven AAV capsid engineering company developing next-generation gene delivery platforms for rare and intractable diseases. The company combines a machine learning-based capsid engineering platform with in-house AAV manufacturing capabilities to enable rapid design, production, and validation of tissue-targeted AAV vectors. AAVATAR is positioned as a platform company focused on capsid licensing and co-development with pharmaceutical partners.
 
 ## Technology & Product
 
-The core is a [machine learning-driven AAV engineering platform](https://en.aavatartps.com/platform) that designs large libraries of capsid sequences, screens them with next-generation sequencing and predictive models, and refines candidates through repeated learning cycles. This finds AAV variants with better tissue targeting. The company adds cell- and tissue-specific promoter engineering and a full CMC pipeline that covers vector design, cell-line optimization, quality control, and scale-up. Together this supports both novel capsid discovery and high-yield production.
+AAVATAR's core technology is a [machine learning-driven AAV capsid engineering platform](https://en.aavatartps.com/platform) that prioritizes manufacturability while identifying high-performing tissue-targeted capsids. Large-scale capsid libraries are screened using next-generation sequencing and iteratively optimized through rodent and non-human primate validation. The platform is integrated with in-house AAV manufacturing capabilities covering vector design, process optimization, quality control, and scalable nonclinical production, enabling rapid discovery and validation of licensing-ready AAV capsid assets.
 
 ## Market & Use Cases
 
-The platform targets tissue-specific in-vivo gene delivery for rare and intractable diseases. Disclosed pipeline areas include lysosomal storage diseases, hereditary hearing loss, and preclinical central nervous system disorders. The company offers capsid and promoter design, engineering, and production as a service to pharmaceutical and research partners.
+AAVATAR develops AI-engineered AAV capsid platforms for tissue-specific in vivo gene delivery. The current strategic focus is on CNS, heart, skeletal muscle, and kidney targeting. Proof-of-platform programs include Krabbe disease, hereditary hearing loss, and geographic atrophy (GA). Beyond these indications, the platform can be rapidly adapted to additional tissues such as the PNS and pancreas according to partner needs. The company's business model is centered on capsid platform licensing and co-development with pharmaceutical partners.
 
 ## Traction & References
 
@@ -31,4 +31,4 @@ AAVATAR raised a KRW 5 billion Series A in late 2023, led by TS Investment with 
 
 ## Collaboration Relevance
 
-AAVATAR is a natural fit for R&D collaborations and material transfer agreements (MTAs) with pharmaceutical companies and research institutions. Its service model covers custom capsid and promoter design plus production, which suits partners that need tissue-specific delivery. The company is focused on delivery for central nervous system and cardiac indications, and its confirmed CNS preclinical work supports this direction.
+AAVATAR is well positioned for collaborations with pharmaceutical companies and academic institutions through joint validation, MTAs, sponsored research, co-development, and platform licensing. The company is currently advancing CNS, heart, skeletal muscle, and kidney targeting programs while maintaining a flexible platform that can be adapted to additional tissues and therapeutic indications based on partner needs.
