@@ -1,5 +1,5 @@
 ---
-title: "feat(content): update company profiles for IBK Changgong 2026 cohort (AIT Studio, LMNTIC Biotech, AAVATAR Therapeutics)"
+title: "feat(content): update company profiles for IBK Changgong 2026 cohort (AIT Studio, LMNTIC Biotech, AAVATAR Therapeutics, BICHEDAM)"
 date: 2026-08-03
 branch: feat/update-ibk-changgong-2026-companies
 request-source: "chat, 2026-08-03"
@@ -11,6 +11,7 @@ Update company profiles for IBK Changgong 2026 cohort entries:
 1. **AIT Studio** (`content/companies/ait-studio/`): revised product lineup, explicit accuracy metrics, CE-MDR Class I & ISO 13485 certifications, specific Swiss hospital reference (Felix Platter Hospital), and clinical-grade terminology.
 2. **LMNTIC Biotech** (`content/companies/lmntic/`): updated Company Overview, Technology & Product (L:Biopsy microfluidic platform details, ~87% CTC recovery, >90% purity mode, ~4-hour run, no centrifuge, benchtop system), and Market & Use Cases.
 3. **AAVATAR Therapeutics** (`content/companies/aavatar/`): updated Company Overview (AI-driven AAV capsid engineering, in-house manufacturing, licensing/co-development focus), Technology & Product (manufacturability-prioritized ML platform, NGS screening, NHP/rodent validation), Market & Use Cases (CNS, heart, skeletal muscle, kidney targeting; Krabbe disease, hereditary hearing loss, GA programs), and Collaboration Relevance.
+4. **BICHEDAM** (`content/companies/bichedam/`): updated Company Overview (aging-related vascular diseases, Gyeongsan/Seoul/Daegu offices), Technology & Product (BCD101 liquid soft-extract formulation, 6-herb extract, puerarin marker, RhoA/ROCK pathway, rapid Tmax profile), Market & Use Cases (Nocturnal Leg Cramps / NLC unmet need, aging vascular conditions), Traction & References (KRW 2.3B raised, Phase 1 IND/completion in healthy adults, US patent 12,329,798 B2), and Collaboration Relevance (European pharma partnership focus).
 
 ## Changes
 
@@ -31,6 +32,13 @@ Update company profiles for IBK Changgong 2026 cohort entries:
   2. **Technology & Product**: Emphasized ML-driven AAV capsid engineering platform prioritizing manufacturability, NGS screening, rodent and NHP validation, and integrated in-house AAV manufacturing.
   3. **Market & Use Cases**: Updated strategic focus areas (CNS, heart, skeletal muscle, kidney) and proof-of-platform programs (Krabbe disease, hereditary hearing loss, geographic atrophy), with expansion capacity to PNS and pancreas.
   4. **Collaboration Relevance**: Highlighted joint validation, MTAs, sponsored research, co-development, and platform licensing.
+
+- **`content/companies/bichedam/index.md` & `index.ko.md`**:
+  1. **Company Overview**: Updated focus on aging-related vascular diseases, combining traditional Korean medicine with modern drug development, noting offices in Gyeongsan, Seoul, and Daegu.
+  2. **Technology & Product**: Specified BCD101 as an oral liquid soft-extract formulation based on standardized 6-herb extract with puerarin marker, modulating RhoA/ROCK contraction pathway, with improved oral bioavailability and rapid Tmax profile confirmed in Phase 1.
+  3. **Market & Use Cases**: Focused on Nocturnal Leg Cramps (NLC) unmet need and pipeline expansion to aging-related vascular/neurovascular disorders.
+  4. **Traction & References**: Updated funding (KRW 2.3 billion across Seed/Pre-A), Phase 1 trial completion at Chungbuk National University Hospital, Yeungnam University know-how licensing, US patent (12,329,798 B2), and Korean patents.
+  5. **Collaboration Relevance**: Detailed European partnership focus targeting phytomedicine, vascular aging, sleep-related symptoms, and elderly-care markets.
 
 ## Verification
 
