@@ -6,7 +6,7 @@ description: "KL Cube provides AI sign-language translation and 3D avatar servic
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Software as a Service (SaaS)"]
 programs: ["gangnam-global-testbed-2026"]
-website: "https://www.klcube.co.kr/eng/"
+website: "https://www.klcube.co.kr/"
 founded: "2017"
 ceo: "Jong-hwa Kim"
 headquarters: "Seoul, Korea"
