@@ -4,7 +4,7 @@ date: 2026-09-21
 draft: false
 description: "뷰전은 자동차용 가변 스마트 글라스 소재를 개발합니다. 프라이버시, 열 관리, 에너지 효율, 프리미엄 차량 디자인에 초점을 맞추고 있습니다."
 industries: ["Business Products and Services"]
-verticals: ["Cleantech", "Mobility Tech", "Manufacturing"]
+verticals: ["Cleantech", "Mobility Tech", "Advanced Manufacturing"]
 programs: ["mercedes-benz-korea-startup-delegation-2026"]
 website: "https://vsion.co.kr/"
 founded: "2022"

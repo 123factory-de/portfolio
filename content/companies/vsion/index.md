@@ -1,10 +1,10 @@
 ---
-title: "Viewzen"
+title: "VSION"
 date: 2026-09-21
 draft: false
-description: "Viewzen develops switchable smart-glass materials for automotive applications, with a focus on privacy, thermal management, energy efficiency, and premium vehicle design."
+description: "VSION develops switchable smart-glass materials for automotive applications, with a focus on privacy, thermal management, energy efficiency, and premium vehicle design."
 industries: ["Business Products and Services"]
-verticals: ["Cleantech", "Mobility Tech", "Manufacturing"]
+verticals: ["Cleantech", "Mobility Tech", "Advanced Manufacturing"]
 programs: ["mercedes-benz-korea-startup-delegation-2026"]
 website: "https://vsion.co.kr/"
 founded: "2022"
@@ -15,7 +15,7 @@ logo: "logo.svg"
 
 ## Company Overview
 
-Viewzen develops **switchable smart-glass materials** for automotive applications, with a focus on privacy, thermal management, energy efficiency, and premium vehicle design.
+VSION develops **switchable smart-glass materials** for automotive applications, with a focus on privacy, thermal management, energy efficiency, and premium vehicle design.
 
 ## Technology & Product
 
@@ -29,8 +29,8 @@ The technology is particularly suited to **automotive roof glass, panoramic roof
 
 ## Traction & References
 
-Viewzen operates its own materials and production capabilities, with a reported **90%+ production yield**. Its technology is currently being evaluated through PoCs with major glass manufacturers including **Saint-Gobain and Asahi** and has applications across building, rail, and aviation sectors. The technology is currently assessed at approximately **TRL 5–6**, with samples undergoing reliability evaluation.
+VSION operates its own materials and production capabilities, with a reported **90%+ production yield**. Its technology is currently being evaluated through PoCs with major glass manufacturers including **Saint-Gobain and Asahi** and has applications across building, rail, and aviation sectors. The technology is currently assessed at approximately **TRL 5–6**, with samples undergoing reliability evaluation.
 
 ## Collaboration Relevance
 
-For Mercedes-Benz, Viewzen could support the development of a **switchable black smart-glass roof option**, providing on-demand privacy, solar and heat control, and a premium visual experience. Potential collaboration could focus on automotive validation and eventual OEM supply.
+For Mercedes-Benz, VSION could support the development of a **switchable black smart-glass roof option**, providing on-demand privacy, solar and heat control, and a premium visual experience. Potential collaboration could focus on automotive validation and eventual OEM supply.
