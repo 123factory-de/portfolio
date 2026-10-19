@@ -16,6 +16,7 @@ Update the company profiles for Vision Innovation, SmartRide, and Zephyros Elect
   - `content/companies/smartride/` (`index.md`, `index.ko.md`): updated overview to focus on commercial fleet management and autonomous vehicle service hub platform, standardized service-center workflows (D-note, IMMS, SOPs), and Mercedes-Benz Korea service center pilot relevance; normalized page title to `SmartRide`.
   - `content/companies/zephyros-electronic/` (`index.md`, `index.ko.md`): updated overview to focus on ZEPHYROS EDA Python-based parametric optimization engine with Ansys API integration, PCB filter automation (LPF/BPF), and potential electromagnetic validation workflows for automotive E/E hardware; normalized page title to `Zephyros Electronic`.
 - Synchronized frontmatter descriptions and verticals in both English and Korean to reflect updated company scope and PitchBook taxonomy.
+- Escaped tilde ranges (`\~`) in the Korean Vision Innovation profile to prevent Goldmark from interpreting pairs of `~` as strikethrough markup.
 
 ## Verification
 
