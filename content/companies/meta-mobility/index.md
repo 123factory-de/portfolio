@@ -10,7 +10,7 @@ website: "https://www.mpi-x.ai/"
 founded: "2022"
 ceo: "Jiwon Kim"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

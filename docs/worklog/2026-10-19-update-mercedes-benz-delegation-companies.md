@@ -1,5 +1,5 @@
 ---
-title: "feat(content): update Vision Innovation, SmartRide, and Zephyros Electronic profiles"
+title: "feat(content): update delegation company profiles and logos"
 date: 2026-10-19
 branch: feat/update-mercedes-benz-delegation-companies
 request-source: "chat, 2026-10-19"
@@ -7,7 +7,7 @@ request-source: "chat, 2026-10-19"
 
 ## Request
 
-Update the company profiles for Vision Innovation, SmartRide, and Zephyros Electronic (participating startups #6, #7, and #8 in the Mercedes-Benz Korea delegation program) using official program descriptions from the program organizer's summary document.
+Update the company profiles and official logos for participating startups in the Mercedes-Benz Korea delegation program using official program descriptions from the program organizer's summary document and logo image files in `temp/참여기업_로고_png/`.
 
 ## Changes
 
@@ -18,6 +18,14 @@ Update the company profiles for Vision Innovation, SmartRide, and Zephyros Elect
 - Synchronized frontmatter descriptions and verticals in both English and Korean to reflect updated company scope and PitchBook taxonomy.
 - Escaped tilde ranges (`\~`) in the Korean Vision Innovation profile to prevent Goldmark from interpreting pairs of `~` as strikethrough markup.
 - Moved English parentheticals outside bold markup (`**한글**(English)조사`) in Korean profiles to prevent CommonMark delimiter ambiguity when followed directly by Korean particles.
+- Updated official logos across 7 delegation companies using provided PNG assets, optimized and downscaled oversized assets to max width 1200px (e.g. SmartRide from 10,985px down to 38KB, MetaMobility from 4,857px down to 39KB) for responsive web performance:
+  - `linetron`: replaced `logo.jpg` with `logo.png`
+  - `meta-mobility`: replaced `logo.svg` with official `logo.png` (Meta Physical Intelligence)
+  - `vision-innovation`: replaced `logo.svg` with official `logo.png`
+  - `smartride`: replaced `logo.svg` with official `logo.png`
+  - `zephyros-electronic`: updated `logo.png`
+  - `quantum-hitech`: updated `logo.png` with official horizontal wordmark
+  - `perseus`: updated `logo.png` with official emblem asset
 
 ## Verification
 

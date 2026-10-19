@@ -10,7 +10,7 @@ website: "https://www.smartride.co.kr/"
 founded: "2021"
 ceo: "이우영"
 headquarters: "대한민국 서울"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

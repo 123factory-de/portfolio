@@ -10,7 +10,7 @@ website: "https://www.smartride.co.kr/"
 founded: "2021"
 ceo: "Wooyoung Lee"
 headquarters: "Seoul, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

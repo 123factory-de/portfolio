@@ -10,7 +10,7 @@ website: "http://linetron.net/"
 founded: "2023"
 ceo: "Geonwoo Lee"
 headquarters: "Seoul, Korea"
-logo: "logo.jpg"
+logo: "logo.png"
 ---
 
 ## Company Overview

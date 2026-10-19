@@ -10,7 +10,7 @@ website: "https://www.visioninnovation.co.kr/"
 founded: "2021"
 ceo: "강현식"
 headquarters: "대한민국 천안"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

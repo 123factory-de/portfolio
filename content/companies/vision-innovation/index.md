@@ -10,7 +10,7 @@ website: "https://www.visioninnovation.co.kr/"
 founded: "2021"
 ceo: "Hyeonsik Kang"
 headquarters: "Cheonan, Korea"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## Company Overview

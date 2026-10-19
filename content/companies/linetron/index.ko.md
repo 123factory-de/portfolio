@@ -10,7 +10,7 @@ website: "http://linetron.net/"
 founded: "2023"
 ceo: "이건우"
 headquarters: "대한민국 서울"
-logo: "logo.jpg"
+logo: "logo.png"
 ---
 
 ## 회사 개요

@@ -10,7 +10,7 @@ website: "https://www.mpi-x.ai/"
 founded: "2022"
 ceo: "김지원"
 headquarters: "대한민국 서울"
-logo: "logo.svg"
+logo: "logo.png"
 ---
 
 ## 회사 개요
