@@ -1,8 +1,8 @@
 ---
-title: "MetaMobility"
+title: "Meta Physical Intelligence"
 date: 2026-09-21
 draft: false
-description: "MetaMobility develops AI-based technologies for early detection of electrical anomalies in electrified mobility, focusing on EV battery safety, predictive maintenance, and prevention of critical battery failures."
+description: "Meta Physical Intelligence develops AI-based technologies for early detection of electrical anomalies in electrified mobility, focusing on EV battery safety, predictive maintenance, and prevention of critical battery failures."
 industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Mobility Tech", "Internet of Things (IoT)"]
 programs: ["mercedes-benz-korea-startup-delegation-2026"]
@@ -15,7 +15,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-MetaMobility develops AI-based technologies for **early detection of electrical anomalies in electrified mobility**, focusing on EV battery safety, predictive maintenance, and prevention of critical battery failures.
+Meta Physical Intelligence develops AI-based technologies for **early detection of electrical anomalies in electrified mobility**, focusing on EV battery safety, predictive maintenance, and prevention of critical battery failures.
 
 ## Technology & Product
 
@@ -29,8 +29,8 @@ The technology can be applied to **EV battery safety, predictive maintenance, ve
 
 ## Traction & References
 
-MetaMobility's technology has achieved approximately **99% prediction accuracy** and has been validated through real-world applications. Beyond automotive applications, the company has also secured a **predictive-maintenance contract in the rail sector**. Its technology has received recognition including awards at **CES 2026 and the Edison Awards 2026**. Technology maturity is assessed at approximately **TRL 7**.
+Meta Physical Intelligence's technology has achieved approximately **99% prediction accuracy** and has been validated through real-world applications. Beyond automotive applications, the company has also secured a **predictive-maintenance contract in the rail sector**. Its technology has received recognition including awards at **CES 2026 and the Edison Awards 2026**. Technology maturity is assessed at approximately **TRL 7**.
 
 ## Collaboration Relevance
 
-Potential collaboration with Mercedes-Benz includes integrating MetaMobility's **early-warning sensing and AI analytics into EV battery diagnostics**. The technology could support battery safety monitoring, predictive maintenance, and future customer-facing diagnostic services.
+Potential collaboration with Mercedes-Benz includes integrating Meta Physical Intelligence's **early-warning sensing and AI analytics into EV battery diagnostics**. The technology could support battery safety monitoring, predictive maintenance, and future customer-facing diagnostic services.
