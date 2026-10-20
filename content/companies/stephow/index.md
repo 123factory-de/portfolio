@@ -35,7 +35,7 @@ Common use cases include cross-checking contracts and technical documents, answe
 
 ## Traction & References
 
-Wissly is in use and in active pilots with enterprise and public-sector customers. The City of Tallinn in Estonia ran a pilot for source-backed search across public administration documents, letting users verify answers against the original policies([Wissly](https://www.wissly.ai/en/customers/tallinn)). Hoban Construction is validating document AI across contracts, schedules, and technical reviews([Wissly](https://www.wissly.ai/en/customers/hobankeonsul)), and Techcross is another named customer([Wissly](https://www.wissly.ai/en/customers/techcross)). Further customers shown on the company's customer page include KAIST, Pulmuone, and Stemco([Wissly](https://www.wissly.ai/en/customers)).
+Wissly is in use and in active pilots with enterprise and public-sector customers. The City of Tallinn in Estonia ran a pilot for source-backed search across public administration documents, letting users verify answers against the original policies([Wissly](https://www.wissly.ai/en/customers/tallinn)). Hoban Construction is validating document AI across contracts, schedules, and technical reviews([Wissly](https://www.wissly.ai/en/customers/hobankeonsul)), and Techcross is another customer([Wissly](https://www.wissly.ai/en/customers/techcross)). Other customers include KAIST, Pulmuone, and Stemco([Wissly](https://www.wissly.ai/en/customers)).
 
 A product walkthrough covering document search, source checking, spreadsheet analysis, and report drafting is available as a demo video([YouTube](https://youtu.be/tpK415hrx18)).
 
