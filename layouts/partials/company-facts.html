@@ -1,10 +1,7 @@
 {{ $verticals := .Params.verticals | default (slice) }}
 
 {{ with .Params.industries }}
-  {{ $companiesURL := "" }}
-  {{ with site.GetPage "/companies" }}
-    {{ $companiesURL = .RelPermalink }}
-  {{ end }}
+  {{ $companiesURL := site.Home.RelPermalink }}
   <style>
     .company-industries {
       display: flex;

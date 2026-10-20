@@ -2,8 +2,3 @@
   name = "Home"
   pageRef = "/"
   weight = 10
-
-[[main]]
-  name = "Companies"
-  pageRef = "companies"
-  weight = 20

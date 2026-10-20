@@ -23,6 +23,7 @@ The company started by exporting solar materials such as polysilicon, then expan
 
 - **Renewable fuel supply (core)**: Steady supply of wood pellet and biomass renewable fuel to domestic power plants.
 - **Rare earth and valuable-metal recovery (ESG)**: Extracts and regenerates rare earth components from waste magnets and electronic scrap using eco-friendly leaching and high-purity separation, restoring purity and performance close to new magnet material.
+- **Ytterbium (Yb) recycling for display**: Recovers ytterbium (Yb) from OLED deposition scrap and refines it to 3N5 (99.987%) purity using a patented wet/dry hybrid process (KR 10-2652842, 10-2651225). The recycled Yb has passed technical verification by a top-tier global display manufacturer.
 - **Waste acid and solvent purification**: Cleans waste phosphoric acid, processing oils, and used solvents so they can be reused, cutting both waste-treatment and raw-material costs.
 
 ## Market & Use Cases

@@ -1,24 +1,19 @@
-{{ define "main" }}
-  <header>
-    {{ if .Params.showBreadcrumbs | default (site.Params.list.showBreadcrumbs | default false) }}
-      {{ partial "breadcrumbs.html" . }}
-    {{ end }}
-    <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
-  </header>
-
-  {{ with .Content }}
-    <section class="mt-4 prose max-w-full dark:prose-invert">
-      {{ . }}
-    </section>
-  {{ end }}
-
-  {{ $pages := .Pages.ByTitle }}
-  {{ if gt (len $pages) 0 }}
-    {{ partial "program-meeting-request.html" (dict "context" . "companies" $pages "program" .Title) }}
-    {{ partial "company-filter-list.html" (dict "context" . "pages" $pages "showCount" true) }}
-  {{ else }}
-    <section class="mt-10 prose dark:prose-invert">
-      <p class="py-8 border-t"><em>No company profiles yet.</em></p>
-    </section>
-  {{ end }}
-{{ end }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex,follow">
+  <title>{{ .Title }}</title>
+  {{ $home := .Site.Home.RelPermalink }}
+  <link rel="canonical" href="{{ .Site.Home.Permalink }}">
+  <script>
+    // The company list now lives on the home page. Redirect while keeping
+    // any ?industry= / #hash so filter links continue to work.
+    location.replace({{ $home | jsonify }} + location.search + location.hash);
+  </script>
+  <meta http-equiv="refresh" content="0; url={{ $home }}">
+</head>
+<body>
+  <p>Redirecting to <a href="{{ $home }}">the portfolio</a>…</p>
+</body>
+</html>
