@@ -35,7 +35,7 @@ logo: "logo.svg"
 
 ## 성과 및 레퍼런스
 
-Wissly는 기업과 공공 고객의 실제 도입 및 파일럿으로 이어지고 있습니다. 에스토니아 탈린시는 공공 행정 문서를 대상으로, 원본 규정과 대조해 답변을 검증하는 출처 기반 검색 파일럿을 진행했습니다([Wissly](https://www.wissly.ai/ko/customers/tallinn)). 호반건설은 계약서, 일정, 기술 검토 문서 전반에서 문서 AI를 검증하고 있습니다([Wissly](https://www.wissly.ai/ko/customers/hobankeonsul)). 테크로스도 주요 고객입니다([Wissly](https://www.wissly.ai/ko/customers/techcross)). 고객 페이지에는 KAIST, 풀무원, 스템코 등도 함께 소개되어 있습니다([Wissly](https://www.wissly.ai/ko/customers)).
+Wissly는 기업과 공공 고객의 실제 도입 및 파일럿으로 이어지고 있습니다. 에스토니아 탈린시는 공공 행정 문서를 대상으로, 원본 규정과 대조해 답변을 검증하는 출처 기반 검색 파일럿을 진행했습니다([Wissly](https://www.wissly.ai/ko/customers/tallinn)). 호반건설은 계약서, 일정, 기술 검토 문서 전반에서 문서 AI를 검증하고 있습니다([Wissly](https://www.wissly.ai/ko/customers/hobankeonsul)). 테크로스도 주요 고객이며([Wissly](https://www.wissly.ai/ko/customers/techcross)), KAIST, 풀무원, 스템코 등도 Wissly를 이용하는 고객입니다([Wissly](https://www.wissly.ai/ko/customers)).
 
 문서 검색, 출처 확인, 스프레드시트 분석, 보고서 작성까지 이어지는 제품 흐름은 데모 영상으로 확인할 수 있습니다([YouTube](https://youtu.be/tpK415hrx18)).
 
