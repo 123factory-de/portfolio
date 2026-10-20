@@ -6,7 +6,7 @@ description: "DaWinKS connects fiat currency and digital assets through MTM/DTM 
 industries: ["Financial Services"]
 verticals: ["Fintech", "Cryptocurrency & Blockchain", "Artificial Intelligence & Machine Learning (AI/ML)"]
 programs: ["gangnam-global-testbed-2026"]
-website: "https://www.dawinks.com/index_en.html"
+website: "https://dawinks.com/en/index.html"
 founded: "2005"
 ceo: "Jong-myung Lee (Andy Lee)"
 headquarters: "Seoul, Korea"
@@ -31,11 +31,11 @@ The same platform can support merchant payments and regulated digital-asset acce
 
 ## Traction & References
 
-DaWinKS states that its identity and passport scanners are used at about 670 locations. Listed references include court registry offices, Korea Securities Depository, airport processes, Kangwon Land, tax-refund stores, and unattended lending kiosks.
+DaWinKS states that its identity and passport scanners are used at about 670 locations. Listed references include court registry offices, Korea Securities Depository, airport processes, Kangwon Land, tax-refund stores, and unattended lending kiosks. DaWinKS holds 11 domestic patents and has 9 overseas/PCT patent filings, covering the United States, Japan, Indonesia, Singapore, China and Thailand.
 
 The company lists MTM/DTM deployments or operating agreements with Emart24, Homeplus, Lotte Mart, Eland Retail, and CJ Foodville's N Seoul Tower. It also lists collaborations with Kona I for prepaid cards, Global Tax Free and PayGate for visitor services, Kaia and Payletter for digital-asset services, and Korea Digital Asset (KODA) for custody([DaWinKS press releases](https://www.dawinks.com/news_en.html)).
 
-DaWinKS holds TTA certification for an identity-card authenticity terminal and is registered with the Korea Customs Service as an unattended currency-exchange operator. In 2024, it received a temporary ICT Regulatory Sandbox permit for AI facial-recognition-based remote real-name verification([ICT Regulatory Sandbox committee release](https://www.korcham.net/new_pdf/target/%2812%EC%9B%9421%EC%9D%BC%EC%9E%90%29ICT%20%EA%B7%9C%EC%A0%9C%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4%20%EC%8B%AC%EC%9D%98%EC%9C%84%EC%9B%90%ED%9A%8C.pdf)). The company was also selected for the 2026 Gangnam-gu Global Testbed program.
+DaWinKS holds TTA certification for an identity-card authenticity terminal and is registered with the Korea Customs Service as an unattended currency-exchange operator. It has received two ICT Regulatory Sandbox approvals: a fast-track confirmation for its crypto ATM/POS and a temporary permit for AI facial-recognition-based remote real-name verification([ICT Regulatory Sandbox committee release](https://www.korcham.net/new_pdf/target/%2812%EC%9B%9421%EC%9D%BC%EC%9E%90%29ICT%20%EA%B7%9C%EC%A0%9C%EC%83%8C%EB%93%9C%EB%B0%95%EC%8A%A4%20%EC%8B%AC%EC%9D%98%EC%9C%84%EC%9B%90%ED%9A%8C.pdf)). The company was also selected for the 2026 Gangnam-gu Global Testbed program.
 
 ## Collaboration Relevance
 
