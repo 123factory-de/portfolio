@@ -35,7 +35,7 @@ tB Server는 기업용 핵심 제품입니다. 비정형 문서(PDF, HWP, DOCX, 
 
 tB Server는 공공기관, 일간지, 선박 안테나 제조사 등 30여 개 기관과 PoC를 진행한 뒤 기업용 상용 제품으로 출시됐습니다([AI Market Watch](https://www.ai-market-watch.com/news/textweaver-launches-taggingbox-server-an-enterprise-ai-knowledge-management-plat-0befcl)). 2025년 라이선스 매출은 3억 9,400만 원이며, PoC에서 유료 계약으로의 전환율은 20%를 넘습니다([AI Market Watch](https://www.ai-market-watch.com/news/textweaver-launches-taggingbox-server-an-enterprise-ai-knowledge-management-plat-0befcl)).
 
-2025년에는 딥테크 팁스와 청년창업사관학교 딥테크 트랙에 선정됐습니다([AI Market Watch](https://www.ai-market-watch.com/news/textweaver-launches-taggingbox-server-an-enterprise-ai-knowledge-management-plat-0befcl)). 2025년 11월 임팩트 투자사 MYSC로부터 카이스트-미스크 더블임팩트 펀드를 통해 시드 익스텐션 투자를 유치했고([벤처스퀘어](https://www.venturesquare.net/1012474/)), 앞서 액셀러레이터 와이앤아처로부터도 투자를 받았습니다([한국경제](https://magazine.hankyung.com/business/article/202501083607b)).
+2025년에는 딥테크 팁스와 청년창업사관학교 딥테크 트랙에 선정됐습니다([AI Market Watch](https://www.ai-market-watch.com/news/textweaver-launches-taggingbox-server-an-enterprise-ai-knowledge-management-plat-0befcl)). 2025년 11월 임팩트 투자사 MYSC로부터 카이스트-미스크 더블임팩트 펀드를 통해 시드 익스텐션 투자를 유치했다고 밝혔고([벤처스퀘어](https://www.venturesquare.net/1012474/)), 앞서 액셀러레이터 와이앤아처로부터도 투자를 받았습니다([한국경제](https://magazine.hankyung.com/business/article/202501083607b)).
 
 해외 진출을 위해 현지 파트너 틱택(Tictag)과 함께 싱가포르에서 PoC와 특허 출원을 마쳤고, 미국 산호세주립대학교와 협업하고 있습니다([AI Market Watch](https://www.ai-market-watch.com/news/textweaver-launches-taggingbox-server-an-enterprise-ai-knowledge-management-plat-0befcl)).
 

@@ -7,7 +7,7 @@ industries: ["Information Technology"]
 verticals: ["Artificial Intelligence & Machine Learning (AI/ML)", "Software as a Service (SaaS)"]
 programs: ["deeptech-youth-startup-academy-germany-2026"]
 website: "https://bookend.tech/"
-founded: "2021"
+founded: "2023"
 ceo: "Jimmy HS Choi (Choi Hyun-soo)"
 headquarters: "Daejeon, Korea"
 logo: "logo.svg"

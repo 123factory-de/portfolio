@@ -14,7 +14,7 @@ logo: "logo.png"
 
 ## Company Overview
 
-Syntherixs is a Korean company that builds synthetic data for AI. It recreates real datasets as artificial data that keeps the same statistical patterns but contains no real person. Teams can then analyze the data and train AI models even when the original records cannot be shared because of privacy rules.
+Syntherixs is a Korean company that builds synthetic data for AI. It recreates real datasets as artificial data that keeps the same statistical patterns and is designed so that no real individual can be identified. Teams can then analyze the data and train AI models even when the original records cannot be shared because of privacy rules.
 
 The company covers three data types: tables, text, and images or video. It is based in Daegu, Korea.
 
@@ -38,6 +38,6 @@ In April 2026 the company signed an MOU with the German Aerospace Center (DLR).
 
 ## Collaboration Relevance
 
-Syntherixs fits partners in insurance, consumer goods, manufacturing, mobility, and the public sector that hold restricted data they cannot fully use. Korea's privacy law is modeled on the GDPR, so the company's approach maps closely to European data-protection rules. This makes it relevant for compliance work under the GDPR and the EU AI Act.
+Syntherixs fits partners in insurance, consumer goods, manufacturing, mobility, and the public sector that hold restricted data they cannot fully use. Both Korea and Europe enforce strict data-protection regimes, so the company's approach is designed to reduce privacy risk in line with European rules. This positions it as a candidate for compliance-focused evaluation under the GDPR and the EU AI Act.
 
 Good PoC targets include co-validating synthetic tabular or unstructured data for quality and compliance, de-identifying claims imagery or customer text, and enabling cross-border data sharing within large groups. The company is actively looking for German and European partners.

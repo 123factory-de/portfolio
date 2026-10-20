@@ -33,7 +33,7 @@ The contactless design fits people who cannot or will not wear a device every da
 
 ## Traction & References
 
-SENIHUG was finally selected for the Ministry of SMEs and Startups' TIPS deep-tech program, recognized for its AIoT-based contactless biosignal sensing technology([Electronic Times](https://www.etnews.com/20251110000015)). The company secured about KRW 2.2 billion in commercialization funding in the first half of 2026 through TIPS, the Deep-Tech Startup Academy, the Credit Guarantee Fund's "Little Penguin" program, admission to SVC Seoul, and a seed bridge investment([Electronic Times](https://www.etnews.com/20260521000025)).
+SENIHUG was finally selected for the Ministry of SMEs and Startups' TIPS program, recognized for its AIoT-based contactless biosignal sensing technology([Electronic Times](https://www.etnews.com/20251110000015)). The company secured about KRW 2.2 billion in commercialization funding in the first half of 2026 through TIPS, the Deep-Tech Startup Academy, the Credit Guarantee Fund's "Little Penguin" program, admission to SVC Seoul, and a seed bridge investment([Electronic Times](https://www.etnews.com/20260521000025)).
 
 Its seed round came from the "Hectocorn No. 2" fund, formed by the Hecto Group with accelerator CNT Tech, which backed the company's contactless biosignal technology and in-house AI algorithm([Electronic Times](https://www.etnews.com/20251110000015)). The company holds several copyrights and registered patents, and earlier recognitions include an "Excellent" mid-term rating in the 2025 Gyeonggi North Youth Startup Academy, a 2024 Seodaemun-gu youth venture award, and a 2023 "Best" selection in the First-Time Youth Startup program([Electronic Times](https://www.etnews.com/20251110000015)).
 

@@ -17,7 +17,7 @@ logo: "logo.webp"
 
 TWELL is a Korean bio company that turns a native plant, Aster yomena, into standardized functional ingredients. It controls the full chain from cultivation to finished ingredient, using extraction and fermentation to raise the plant's value. Its ingredient platform is called YomenaX.
 
-The company proved its material first in the pet health market with functional feed and supplements, which now generate steady cash flow. It is using that validated material to expand into cosmetic, nutraceutical, and food ingredients. TWELL is an agricultural corporation based in Yeongcheon, with its own farm, R&D center, and production.
+The company first brought its material to market in pet health with functional feed and supplements, which now generate steady cash flow. It is building on that base to expand into cosmetic, nutraceutical, and food ingredients. TWELL is an agricultural corporation based in Yeongcheon, with its own farm, R&D center, and production.
 
 ## Technology & Product
 
@@ -39,6 +39,6 @@ On technology, the company received a KIST technology transfer at its start and 
 
 ## Collaboration Relevance
 
-TWELL fits partners who need natural, standardized functional ingredients with proven efficacy and a secure supply. Good PoC candidates include cosmetic ODMs and brands testing a new plant-based active, nutraceutical companies evaluating an atopy or anti-obesity ingredient, and ingredient firms looking for a licensable strain and process.
+TWELL fits partners who need natural, standardized functional ingredients with a secure, traceable supply. Good PoC candidates include cosmetic ODMs and brands testing a new plant-based active, nutraceutical companies evaluating an atopy or anti-obesity ingredient, and ingredient firms looking for a licensable strain and process.
 
 Because TWELL controls cultivation, extraction, fermentation, and quality control in-house, it can offer traceable supply and standardized lots. This suits open-innovation and co-development projects where a partner wants to co-develop an approved ingredient or license IP. For Korea-Europe collaboration, the company's clean-label botanical actives and fermentation IP are relevant for cosmetics and nutraceutical ingredient buyers, and its export experience in Asia shows it can serve overseas B2B customers.

@@ -37,7 +37,7 @@ NAVOROS targets operators and agencies that need to prove what happened in an in
 
 NAVOROS showed its integrated safety system at the 9th Defense Science and Technology Fair at the aT Center in Seoul, held from 30 July to 1 August 2026([KIDD](https://kidd.co.kr/news/246914)). The company plans proof-of-concept tests with the Korea Transportation Safety Authority and LIG, and plans to exhibit at CES 2027([KIDD](https://kidd.co.kr/news/246914)).
 
-Independent drop testing under controlled conditions showed up to 71% lower impact transmitted to the aircraft and payload, up to 93% lower impact to the ground, and successful flotation after airbag deployment. Results depend on the aircraft, drop height, and surface. These tests do not yet demonstrate lower insurance losses, and the product is at the prototype stage.
+Drop testing under controlled conditions showed up to 71% lower impact transmitted to the aircraft and payload, up to 93% lower impact to the ground, and successful flotation after airbag deployment. Results depend on the aircraft, drop height, and surface. These tests do not yet demonstrate lower insurance losses, and the product is at the prototype stage.
 
 ## Collaboration Relevance
 
