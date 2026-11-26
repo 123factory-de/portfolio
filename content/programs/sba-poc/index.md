@@ -1,15 +1,15 @@
 ---
 title: "2026 Seoul Startup Hub Global Expansion Program — PoC"
-description: "Companies joining the PoC track of the 2026 Seoul Startup Hub Global Expansion Program, supporting technology and service validation with overseas demand partners."
+description: "Startups in the PoC track of the 2026 Seoul Startup Hub Global Expansion Program, run by 123factory."
 showBreadcrumbs: false
 ---
 
 ## Program Overview
 
-Companies joining the **2026 Seoul Startup Hub Global Expansion Program — PoC**, where 123factory serves as a global partner and operator, are gathered here.
+Companies in the **2026 Seoul Startup Hub Global Expansion Program — PoC**, run by 123factory as a global partner, are listed here.
 
-The program is the PoC track of the Seoul Business Agency (SBA) Seoul Startup Hub's global expansion program. It supports technology and service validation with overseas demand partners, such as large corporations, to test market entry early and localize technology. 123factory designs and runs the program, selects the participating companies, and supports each one on its way into overseas markets.
+This is the PoC track of Seoul Startup Hub's global expansion program, organized by the Seoul Business Agency (SBA). Startups test their technology and services with overseas customers such as large corporations, so they can check market fit and adapt their technology locally before a full market entry. 123factory planned the program, selected the participating companies, and runs it.
 
 ## Participating Companies
 
-The Seoul-based startups below are looking for PoC and pilot partners abroad. Each profile shows the company's technology, product maturity, and references, along with the kind of validation or collaboration it is open to.
+The startups below are looking for partners abroad to run PoCs or pilots with. Each profile covers the company's technology, products, references, and the kind of collaboration it wants.
