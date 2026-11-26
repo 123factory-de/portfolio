@@ -8,7 +8,7 @@ showBreadcrumbs: false
 
 Companies in the **2026 Seoul Startup Hub Global Expansion Program — PoC**, run by 123factory as a global partner, are listed here.
 
-This is the PoC track of Seoul Startup Hub's global expansion program, organized by the Seoul Business Agency (SBA). Startups test their technology and services with overseas customers such as large corporations, so they can check market fit and adapt their technology locally before a full market entry. 123factory handled everything from planning the program and selecting the companies to running it.
+Startups test their technology and services with overseas customers such as large corporations, so they can check market fit and adapt their technology locally before a full market entry. 123factory handled everything from planning the program and selecting the companies to running it.
 
 ## Participating Companies
 
