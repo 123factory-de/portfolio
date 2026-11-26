@@ -8,7 +8,7 @@ showBreadcrumbs: false
 
 123factory runs this PoC program as a global partner of Seoul Startup Hub. It is part of the **2026 Seoul Startup Hub Global Expansion Program**, organized by the Seoul Business Agency (SBA).
 
-SBA leads overall planning and recruitment. 123factory designs and runs the program, selects the participating companies, and works closely with each one on its overseas expansion. The program helps startups validate their technology and services with overseas demand partners, such as large corporations, before entering the market. Support includes strategy consulting, business matching with decision-makers, PoC proposal preparation, and at least three months of follow-up after the program ends.
+SBA leads overall planning and recruitment. 123factory designs and runs the program, selects the participating companies, and works closely with each one on its overseas expansion. The program helps startups validate their technology and services with overseas demand partners, such as large corporations, before entering the market.
 
 ## Participating Companies
 

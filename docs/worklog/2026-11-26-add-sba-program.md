@@ -14,7 +14,7 @@ Add a program page using the `add-program-content` skill for the 2026 Seoul Star
 - Added `content/programs/sba-poc/index.md` and `index.ko.md` (English and Korean).
 - Used the slug `sba-poc` because all five company pages already reference `programs: ["sba-poc"]`; no company files needed changes.
 - Framed the page around 123factory's role as the program operator (SBA global partner), not as a participant. Roles follow the SBA–123 Factory partnership agreement (March 2026): SBA leads overall planning and recruitment, while 123factory designs and runs the program, selects the participating companies, and works closely with each one.
-- Program description uses only facts from the announcement and agreement: the PoC focus (validation with overseas demand partners) and the support items (strategy consulting, decision-maker business matching, PoC proposals, 3+ months of follow-up).
+- Program description uses only facts from the announcement and agreement: the PoC focus (validation with overseas demand partners). A list of support items was dropped after review to keep the page short.
 - Budget, KPI targets, and signatory details from the agreement were intentionally left out (the agreement restricts sharing exchanged information with third parties).
 - Recruitment details from the announcement (budgets, KPIs, evaluation criteria, contacts) were intentionally left out. Target country/region is not stated in the source, so it was not added.
 
