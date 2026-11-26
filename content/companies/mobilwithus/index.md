@@ -5,7 +5,7 @@ draft: false
 description: "Automotive embedded security software company for ECU, SDV, ESS BMS, and cybersecurity compliance."
 industries: ["Information Technology"]
 verticals: ["Cybersecurity", "Mobility Tech"]
-programs: ["sba-poc"]
+programs: ["sba-poc-2026"]
 website: "https://www.mobilwithus.com/en/"
 founded: "2023"
 ceo: "Hanna Park"
