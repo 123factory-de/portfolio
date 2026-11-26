@@ -5,7 +5,7 @@ draft: false
 description: "OpticMix develops holographic optical screen film for transparent displays, AR-like signage, and mobility HUDs."
 industries: ["Materials and Resources", "Information Technology"]
 verticals: ["Augmented Reality (AR)", "Advanced Manufacturing", "Mobility Tech"]
-programs: ["sba-poc"]
+programs: ["sba-poc-2026"]
 website: "https://www.opticmix.kr/"
 founded: "2024"
 ceo: "Yihwan Hwang"
